@@ -33,7 +33,7 @@ plugins/WorldEdit/sessions/
 !plugins/VotingPlugin/Rewards/*
 !plugins/dynmap/configuration.txt
 
-banned-ip.json
+banned-ips.json
 banned-players.json
 ops.json
 usercache.json
