@@ -1,9 +1,0 @@
-quest-progress:
-  storyquest1:
-    started: false
-    completed: true
-    completed-before: true
-    completion-date: 1530535050296
-    task-progress:
-      position:
-        completed: true

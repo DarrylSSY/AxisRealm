@@ -1,9 +1,0 @@
-VotingPlugin:
-  Version: 'git-Spigot-642f6d2-57ab4cf (MC: 1.12.2)'
-  ServiceSites:
-  - Minecraft-MP.com
-PluginVersions:
-  VotingPlugin: 5.13.3
-PrevDay: 13
-PrevWeek: 28
-Month: JULY
