@@ -1,0 +1,31 @@
+geolocation: Philippines
+lastAccountName: werhu
+timestamps:
+  login: 1530708071255
+  lastteleport: 1530708117016
+  logout: 1530711562738
+ipAddress: 112.204.19.213
+lastlocation:
+  world: world
+  x: -1891.4375342591127
+  y: 70.0
+  z: -413.0870406715368
+  yaw: -117.18863
+  pitch: 29.099625
+money: '34245.66745600000153948'
+homes:
+  home:
+    world: world
+    x: 2699.724472484073
+    y: 70.0
+    z: 3750.2307094233092
+    yaw: -109.34729
+    pitch: 24.900335
+logoutlocation:
+  world: spawn
+  x: 132.27214373910692
+  y: 83.0
+  z: 379.4878672072578
+  yaw: 9.739868
+  pitch: 27.449951
+afk: false

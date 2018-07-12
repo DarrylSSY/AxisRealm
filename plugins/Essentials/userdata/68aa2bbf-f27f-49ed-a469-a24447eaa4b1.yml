@@ -1,0 +1,21 @@
+lastAccountName: RegioFoxBow
+timestamps:
+  login: 1531054875988
+  logout: 1531055047056
+ipAddress: 103.252.200.63
+geolocation: Singapore
+lastlocation:
+  world: world
+  x: -201.5
+  y: 69.0
+  z: 240.5
+  yaw: 0.0
+  pitch: 0.0
+money: '560'
+logoutlocation:
+  world: spawn
+  x: 235.63182200449074
+  y: 70.0
+  z: 427.4350844996029
+  yaw: 70.79703
+  pitch: 23.249914

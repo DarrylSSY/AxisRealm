@@ -1,0 +1,274 @@
+train10:
+  allowPlayerTake: false
+  collisionDamage: 1.0
+  tickets: []
+  collision:
+    passive: DEFAULT
+    neutral: DEFAULT
+    hostile: DEFAULT
+    tameable: DEFAULT
+    utility: DEFAULT
+    boss: DEFAULT
+    misc: PUSH
+  carts:
+    e2cd90e7-b933-44a2-9529-d86e7c1901ed:
+      model:
+        type: ENTITY
+        entityType: MINECART_CHEST
+        physical:
+          cartLength: 0.98
+          wheelCenter: 0.0
+          wheelDistance: 0.0
+train6:
+  allowPlayerTake: false
+  collisionDamage: 1.0
+  tickets: []
+  collision:
+    passive: DEFAULT
+    neutral: DEFAULT
+    hostile: DEFAULT
+    tameable: DEFAULT
+    utility: DEFAULT
+    boss: DEFAULT
+    misc: PUSH
+  carts:
+    228c924a-a51d-46c0-a063-993d0c3f743d:
+      model:
+        type: ENTITY
+        entityType: MINECART_CHEST
+        physical:
+          cartLength: 0.98
+          wheelCenter: 0.0
+          wheelDistance: 0.0
+train7:
+  allowPlayerTake: false
+  collisionDamage: 1.0
+  tickets: []
+  collision:
+    passive: DEFAULT
+    neutral: DEFAULT
+    hostile: DEFAULT
+    tameable: DEFAULT
+    utility: DEFAULT
+    boss: DEFAULT
+    misc: PUSH
+  carts:
+    37900b71-6fdb-468d-8816-14635f54daeb:
+      model:
+        type: ENTITY
+        entityType: MINECART_CHEST
+        physical:
+          cartLength: 0.98
+          wheelCenter: 0.0
+          wheelDistance: 0.0
+train13:
+  allowPlayerTake: false
+  collisionDamage: 1.0
+  tickets: []
+  collision:
+    passive: DEFAULT
+    neutral: DEFAULT
+    hostile: DEFAULT
+    tameable: DEFAULT
+    utility: DEFAULT
+    boss: DEFAULT
+    misc: PUSH
+  carts:
+    64cfc664-28fd-4ab8-aeb7-342e1866b5dc:
+      model:
+        type: ENTITY
+        entityType: MINECART_CHEST
+        physical:
+          cartLength: 0.98
+          wheelCenter: 0.0
+          wheelDistance: 0.0
+train4:
+  allowPlayerTake: false
+  collisionDamage: 1.0
+  tickets: []
+  collision:
+    passive: DEFAULT
+    neutral: DEFAULT
+    hostile: DEFAULT
+    tameable: DEFAULT
+    utility: DEFAULT
+    boss: DEFAULT
+    misc: PUSH
+  carts:
+    094c7cde-97fd-4b5c-8999-963344b1aa4b:
+      model:
+        type: ENTITY
+        entityType: MINECART_CHEST
+        physical:
+          cartLength: 0.98
+          wheelCenter: 0.0
+          wheelDistance: 0.0
+train12:
+  allowPlayerTake: false
+  collisionDamage: 1.0
+  tickets: []
+  collision:
+    passive: DEFAULT
+    neutral: DEFAULT
+    hostile: DEFAULT
+    tameable: DEFAULT
+    utility: DEFAULT
+    boss: DEFAULT
+    misc: PUSH
+  carts:
+    c3b0000a-368d-40d4-9b2e-6f3a712fd7cd:
+      model:
+        type: ENTITY
+        entityType: MINECART_CHEST
+        physical:
+          cartLength: 0.98
+          wheelCenter: 0.0
+          wheelDistance: 0.0
+train5:
+  allowPlayerTake: false
+  collisionDamage: 1.0
+  tickets: []
+  collision:
+    passive: DEFAULT
+    neutral: DEFAULT
+    hostile: DEFAULT
+    tameable: DEFAULT
+    utility: DEFAULT
+    boss: DEFAULT
+    misc: PUSH
+  carts:
+    ee359770-5e67-47fe-a90d-034678f0fb7a:
+      model:
+        type: ENTITY
+        entityType: MINECART_CHEST
+        physical:
+          cartLength: 0.98
+          wheelCenter: 0.0
+          wheelDistance: 0.0
+train11:
+  allowPlayerTake: false
+  collisionDamage: 1.0
+  tickets: []
+  collision:
+    passive: DEFAULT
+    neutral: DEFAULT
+    hostile: DEFAULT
+    tameable: DEFAULT
+    utility: DEFAULT
+    boss: DEFAULT
+    misc: PUSH
+  carts:
+    8f07b441-392b-454b-8c99-9c1be82c047a:
+      model:
+        type: ENTITY
+        entityType: MINECART_CHEST
+        physical:
+          cartLength: 0.98
+          wheelCenter: 0.0
+          wheelDistance: 0.0
+train2:
+  allowPlayerTake: false
+  collisionDamage: 1.0
+  tickets: []
+  collision:
+    passive: DEFAULT
+    neutral: DEFAULT
+    hostile: DEFAULT
+    tameable: DEFAULT
+    utility: DEFAULT
+    boss: DEFAULT
+    misc: PUSH
+  carts:
+    766fa638-a0af-4940-aa1c-08203c58edc3:
+      model:
+        type: ENTITY
+        entityType: MINECART_CHEST
+        physical:
+          cartLength: 0.98
+          wheelCenter: 0.0
+          wheelDistance: 0.0
+train3:
+  allowPlayerTake: false
+  collisionDamage: 1.0
+  tickets: []
+  collision:
+    passive: DEFAULT
+    neutral: DEFAULT
+    hostile: DEFAULT
+    tameable: DEFAULT
+    utility: DEFAULT
+    boss: DEFAULT
+    misc: PUSH
+  carts:
+    8c913917-9a3a-4fbe-bdc7-7ed1219fd19a:
+      model:
+        type: ENTITY
+        entityType: MINECART_CHEST
+        physical:
+          cartLength: 0.98
+          wheelCenter: 0.0
+          wheelDistance: 0.0
+train1:
+  allowPlayerTake: false
+  collisionDamage: 1.0
+  tickets: []
+  collision:
+    passive: DEFAULT
+    neutral: DEFAULT
+    hostile: DEFAULT
+    tameable: DEFAULT
+    utility: DEFAULT
+    boss: DEFAULT
+    misc: PUSH
+  carts:
+    ff3a2375-90f0-4eec-aa5b-2b570760178b:
+      model:
+        type: ENTITY
+        entityType: MINECART_CHEST
+        physical:
+          cartLength: 0.98
+          wheelCenter: 0.0
+          wheelDistance: 0.0
+train8:
+  allowPlayerTake: false
+  collisionDamage: 1.0
+  tickets: []
+  collision:
+    passive: DEFAULT
+    neutral: DEFAULT
+    hostile: DEFAULT
+    tameable: DEFAULT
+    utility: DEFAULT
+    boss: DEFAULT
+    misc: PUSH
+  carts:
+    f83ef92c-36b4-4417-b745-6939ed5f77ee:
+      model:
+        type: ENTITY
+        entityType: MINECART_CHEST
+        physical:
+          cartLength: 0.98
+          wheelCenter: 0.0
+          wheelDistance: 0.0
+train9:
+  allowPlayerTake: false
+  collisionDamage: 1.0
+  tickets: []
+  collision:
+    passive: DEFAULT
+    neutral: DEFAULT
+    hostile: DEFAULT
+    tameable: DEFAULT
+    utility: DEFAULT
+    boss: DEFAULT
+    misc: PUSH
+  carts:
+    efff6b82-7eb8-452d-af11-bb709078701c:
+      model:
+        type: ENTITY
+        entityType: MINECART_CHEST
+        physical:
+          cartLength: 0.98
+          wheelCenter: 0.0
+          wheelDistance: 0.0
+

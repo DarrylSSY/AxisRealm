@@ -1,0 +1,177 @@
+quest-progress:
+  miningquest13:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false
+  miscquest6:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1530200036093
+    task-progress:
+      misc:
+        completed: true
+        progress: 5000
+  nightmarequest21:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1530196920169
+    task-progress:
+      riddle:
+        completed: true
+  nightmarequest22:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1530196847714
+    task-progress:
+      riddle:
+        completed: true
+  nightmarequest20:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1530711028448
+    task-progress:
+      riddle:
+        completed: true
+  nightmarequest10:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1530719052208
+    task-progress:
+      riddle:
+        completed: true
+  nightmarequest14:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1530198418516
+    task-progress:
+      riddle:
+        completed: true
+  nightmarequest19:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1530197417951
+    task-progress:
+      riddle:
+        completed: true
+  nightmarequest16:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1530198259078
+    task-progress:
+      riddle:
+        completed: true
+  nightmarequest17:
+    started: false
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      riddle:
+        completed: false
+  storyquest1:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1530115460843
+    task-progress:
+      position:
+        completed: true
+  miscquest13:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1530434376972
+    task-progress:
+      position:
+        completed: true
+  miscquest14:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1530455874383
+    task-progress:
+      position:
+        completed: true
+  miscquest10:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1530201027133
+    task-progress:
+      playtime:
+        completed: true
+        progress: 60
+  nightmarequest1:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1530196486493
+    task-progress:
+      riddle:
+        completed: true
+  nightmarequest7:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1530196959365
+    task-progress:
+      riddle:
+        completed: true
+  nightmarequest9:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1530197236083
+    task-progress:
+      riddle:
+        completed: true
+  nightmarequest4:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1530198281099
+    task-progress:
+      riddle:
+        completed: true
+  nightmarequest6:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1530197008747
+    task-progress:
+      riddle:
+        completed: true
+  nightmarequest5:
+    started: false
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      riddle:
+        completed: false
+  buildingquest6:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      walls:
+        completed: false
+      torch:
+        completed: true
+        progress: 1
+      fence:
+        completed: true
+        progress: 1

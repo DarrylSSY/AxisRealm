@@ -1,0 +1,21 @@
+geolocation: Singapore
+lastAccountName: nightingeil
+timestamps:
+  login: 1530430436485
+  logout: 1530430835482
+ipAddress: 182.19.237.46
+lastlocation:
+  world: world
+  x: -201.5
+  y: 69.0
+  z: 240.5
+  yaw: 0.0
+  pitch: 0.0
+money: '200'
+logoutlocation:
+  world: spawn
+  x: 229.50583392971777
+  y: 70.0
+  z: 414.2624818100296
+  yaw: 163.19768
+  pitch: 5.9999537

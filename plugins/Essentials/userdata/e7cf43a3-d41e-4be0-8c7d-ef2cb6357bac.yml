@@ -1,0 +1,22 @@
+geolocation: Malaysia
+lastAccountName: CyanideGor
+timestamps:
+  login: 1530472065376
+  lastteleport: 1530474098661
+  logout: 1530474773773
+ipAddress: 14.192.208.68
+lastlocation:
+  world: spawn
+  x: 193.4494394317299
+  y: 114.04826248029882
+  z: 370.277995826544
+  yaw: 220.58649
+  pitch: -39.449905
+money: '660'
+logoutlocation:
+  world: spawn
+  x: 183.23610050638925
+  y: 72.0
+  z: 255.48830950738613
+  yaw: 58.166897
+  pitch: -6.0743092E-5

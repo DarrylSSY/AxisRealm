@@ -1,0 +1,30 @@
+geolocation: Singapore
+lastAccountName: BeeseChiscuits
+timestamps:
+  login: 1531294910647
+  lastteleport: 1531296989962
+  logout: 1531297160372
+ipAddress: 182.19.213.108
+lastlocation:
+  world: world
+  x: -180.6185788117824
+  y: 29.0
+  z: 14.51616577964107
+  yaw: 269.5306
+  pitch: 20.850004
+money: '331.875'
+logoutlocation:
+  world: world
+  x: -89.42210899571376
+  y: 70.0
+  z: -0.21418709454149304
+  yaw: 88.05828
+  pitch: 39.150124
+homes:
+  home:
+    world: world
+    x: -89.04904977811057
+    y: 70.0
+    z: 0.2501794324367399
+    yaw: -132.44263
+    pitch: 34.050022

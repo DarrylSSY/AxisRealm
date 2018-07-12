@@ -1,0 +1,28 @@
+# UltimateWelcome #
+# Coded by: Index #
+
+
+
+
+## this will be used for the message that player says 
+## when they type /welcome (if they have the permission)
+welcomemsg: '&cWelcome to Axisrealm, &a%joinedplayer%&c!'
+
+
+## this will be used for the permission for /welcome
+welcomepermission: 'welcome.use'
+
+
+## this will be used for the message that will be sent to 
+## the player when they are denied access to the command /welcome
+nopermissionmsg: '&4You do not have access to this command!'
+
+
+## if this value is set to false multiple people will be able to welcome a single player
+## if this value is set to true only the first one to type /welcome will be able to welcome the most recent player!
+onetimewelcome: 'false'
+
+
+## this will be used for the message that will be sent to player if the value above 
+## is set to true and someone has already welcomed the most recent player
+alreadywelcomedmsg: '&4The most recent player has already been welcomed by another player!'

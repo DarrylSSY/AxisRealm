@@ -1,0 +1,31 @@
+geolocation: Singapore
+lastAccountName: Mr_AK
+timestamps:
+  login: 1530443455115
+  logout: 1530450435851
+  lastteleport: 1530449950493
+ipAddress: 138.75.49.120
+lastlocation:
+  world: world
+  x: -3604.300000011921
+  y: 11.0
+  z: -2753.7231374553244
+  yaw: -82.20079
+  pitch: 31.500011
+money: '4103.980000000000270726'
+logoutlocation:
+  world: world
+  x: -3564.8113769988518
+  y: 67.25220334025373
+  z: -2652.2394610763304
+  yaw: 304.94888
+  pitch: 52.799965
+homes:
+  home:
+    world: world
+    x: -3556.0749789779634
+    y: 56.0
+    z: -2646.5640100648898
+    yaw: -23.25122
+    pitch: 34.04997
+afk: false

@@ -1,0 +1,26 @@
+DarrylSSY:
+  type: assignment
+  interact scripts:
+    - 1 DarrylSSYMain
+    
+DarrylSSYMain:
+  type: interact
+  steps:
+    1:
+      click trigger:
+        script:
+          - if <player.flag[CompletedStartOfAdventure]> {
+            - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Hi there <player.name>, I am DarrylSSY, the Owner of Axisrealm."
+          } else {
+            - if <player.flag[TalkToRazroid]> {
+              - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Hai, Razroid must have sent you here! I am DarrylSSY, the Owner of Axisrealm."
+              - wait 3
+              - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Just so you know, this isn't a RPG server. It is a Towny SMP server."
+              - wait 3
+              - narrate "<green><npc.name> <yellow> -> <gray>You:<green> I have also provided you with a starter kit to help you kickstart your adventure!"
+              - wait 3
+              - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Head straight and you will see a portal to start your adventure! :)"
+              - flag player CompletedStartOfAdventure
+              - execute as_server "denizen save"
+            }
+          }

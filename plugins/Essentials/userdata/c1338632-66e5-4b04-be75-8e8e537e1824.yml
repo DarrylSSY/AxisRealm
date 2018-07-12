@@ -1,0 +1,33 @@
+geolocation: Singapore
+lastAccountName: DomoAK
+timestamps:
+  login: 1530691412471
+  lastteleport: 1530697738254
+  logout: 1530697847696
+  kits:
+    tools: 1530267411866
+ipAddress: 219.74.133.82
+lastlocation:
+  world: world
+  x: -3576.5
+  y: 67.0
+  z: -3023.5
+  yaw: 0.0
+  pitch: 0.0
+money: '1318.13000000000015981'
+homes:
+  home:
+    world: world
+    x: -4058.7062700233473
+    y: 70.0
+    z: 4649.2611173398245
+    yaw: 217.28694
+    pitch: 17.760109
+afk: false
+logoutlocation:
+  world: world
+  x: -4039.300000011921
+  y: 70.0
+  z: 4639.300000011921
+  yaw: 215.14111
+  pitch: 18.833002

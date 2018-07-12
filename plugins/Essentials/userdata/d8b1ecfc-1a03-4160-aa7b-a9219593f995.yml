@@ -1,0 +1,31 @@
+geolocation: Bosnia and Herzegovina
+lastAccountName: 20pero
+timestamps:
+  login: 1530725480626
+  logout: 1530726695203
+  lastteleport: 1530723370457
+ipAddress: 31.223.135.126
+lastlocation:
+  world: world
+  x: -4449.497492979915
+  y: 64.0
+  z: -462.2024161617381
+  yaw: 88.70056
+  pitch: 7.5249524
+money: '5964.90928000000009166'
+logoutlocation:
+  world: world
+  x: -4516.592429474928
+  y: 116.5
+  z: -390.0395495276181
+  yaw: -125.388245
+  pitch: 10.570191
+homes:
+  home:
+    world: world
+    x: -4528.121520320966
+    y: 136.0
+    z: -397.2283239754817
+    yaw: 8.444641
+    pitch: 17.194601
+afk: false

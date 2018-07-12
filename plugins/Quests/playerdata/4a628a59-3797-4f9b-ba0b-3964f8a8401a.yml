@@ -1,0 +1,52 @@
+quest-progress:
+  miningquest20:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false
+  storyquest1:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1530117576343
+    task-progress:
+      position:
+        completed: true
+  miningquest5:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false
+  miningquest3:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false
+        progress: 2
+  miningquest2:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false
+        progress: 2
+  miningquest1:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false
+        progress: 2

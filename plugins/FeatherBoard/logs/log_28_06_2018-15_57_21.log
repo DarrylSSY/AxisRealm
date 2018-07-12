@@ -1,0 +1,1119 @@
+28/06/2018 15:57:21 [INFO] Loading messages ...
+28/06/2018 15:57:21 [INFO] Loading placeholders and event triggers ...
+28/06/2018 15:57:21 [INFO] Loading language file: lang_en
+28/06/2018 15:57:21 [INFO] Loading internal placeholders ...
+28/06/2018 15:57:21 [DEBUG] Loaded placeholder: MySQL
+28/06/2018 15:57:21 [DEBUG] Loaded placeholder: CustomPlaceholders
+28/06/2018 15:57:22 [INFO] Loading placeholder [Armor] ...
+28/06/2018 15:57:21 [INFO] Fetching available placeholders from server ...
+28/06/2018 15:57:22 [INFO] Loading placeholder [Bukkit] ...
+28/06/2018 15:57:22 [DEBUG] Loaded placeholder: bukkit
+28/06/2018 15:57:22 [INFO] Loading placeholder [BungeeCord] ...
+28/06/2018 15:57:22 [DEBUG] Loaded placeholder: bungeecord
+28/06/2018 15:57:22 [DEBUG] Loaded placeholder: armor
+28/06/2018 15:57:22 [INFO] Loading event hook: ChatReaction start event ...
+28/06/2018 15:57:22 [INFO] Loading placeholder [Color] ...
+28/06/2018 15:57:22 [INFO] Loading event hook: ChatReaction start event ...
+28/06/2018 15:57:22 [DEBUG] Loaded placeholder: command
+28/06/2018 15:57:22 [DEBUG] Loaded placeholder: compass
+28/06/2018 15:57:22 [DEBUG] Loaded placeholder: customlist
+28/06/2018 15:57:22 [INFO] Loading placeholder [DeluxeTags] ...
+28/06/2018 15:57:22 [DEBUG] Loaded placeholder: color
+28/06/2018 15:57:22 [DEBUG] Loaded placeholder: chatreaction
+28/06/2018 15:57:22 [INFO] Loading placeholder [ChatReaction] ...
+28/06/2018 15:57:22 [INFO] Loading placeholder [CustomList] ...
+28/06/2018 15:57:22 [INFO] Loading placeholder [CommandPlaceholderPack] ...
+28/06/2018 15:57:22 [INFO] Loading placeholder [Compass placeholders] ...
+28/06/2018 15:57:22 [INFO] Loading placeholder [Economy] ...
+28/06/2018 15:57:22 [INFO] Loading placeholder [Effects] ...
+28/06/2018 15:57:22 [INFO] Loading placeholder [Essentials] ...
+28/06/2018 15:57:23 [INFO] Loading placeholder [FireworkEffect] ...
+28/06/2018 15:57:23 [DEBUG] Loaded placeholder: firework
+28/06/2018 15:57:23 [INFO] Loading placeholder [Geographical] ...
+28/06/2018 15:57:23 [DEBUG] Loaded placeholder: facebook
+28/06/2018 15:57:22 [DEBUG] Loaded placeholder: essentials
+28/06/2018 15:57:22 [DEBUG] Loaded placeholder: entities
+28/06/2018 15:57:22 [DEBUG] Loaded placeholder: deluxetags
+28/06/2018 15:57:23 [DEBUG] Loaded placeholder: hotbar
+28/06/2018 15:57:23 [DEBUG] Loaded placeholder: java
+28/06/2018 15:57:22 [INFO] Loading placeholder [Entities] ...
+28/06/2018 15:57:23 [DEBUG] Loaded placeholder: jobsreborn
+28/06/2018 15:57:23 [INFO] Loading placeholder [LWC] ...
+28/06/2018 15:57:23 [DEBUG] Loaded placeholder: lwc
+28/06/2018 15:57:23 [INFO] Loading placeholder [JavaInfo] ...
+28/06/2018 15:57:22 [DEBUG] Loaded placeholder: economy
+28/06/2018 15:57:23 [INFO] Loading placeholder [LeaderHeads] ...
+28/06/2018 15:57:23 [INFO] Loading placeholder [Hotbar] ...
+28/06/2018 15:57:22 [DEBUG] Loaded placeholder: playereffects
+28/06/2018 15:57:23 [INFO] Loading placeholder [JobsReborn] ...
+28/06/2018 15:57:23 [DEBUG] Loaded placeholder: libsdisguises
+28/06/2018 15:57:23 [INFO] Loading placeholder [Marriage] ...
+28/06/2018 15:57:23 [INFO] Loading placeholder [Memory] ...
+28/06/2018 15:57:23 [INFO] Loading placeholder [Multiverse-Core] ...
+28/06/2018 15:57:23 [DEBUG] Loaded placeholder: memory
+28/06/2018 15:57:23 [DEBUG] Loaded placeholder: geographical
+28/06/2018 15:57:23 [INFO] Loading placeholder [Permissions] ...
+28/06/2018 15:57:23 [DEBUG] Loaded placeholder: permissions
+28/06/2018 15:57:23 [INFO] Loading placeholder [PlaceholderAPI] ...
+28/06/2018 15:57:24 [DEBUG] Loaded placeholder: placeholderapi
+28/06/2018 15:57:24 [DEBUG] Loaded placeholder: player
+28/06/2018 15:57:23 [DEBUG] Loaded placeholder: leaderheads
+28/06/2018 15:57:24 [DEBUG] Loaded placeholder: previousnames
+28/06/2018 15:57:24 [INFO] Loading placeholder [Previous Names] ...
+28/06/2018 15:57:24 [INFO] Loading placeholder [Quests] ...
+28/06/2018 15:57:24 [INFO] Loading placeholder [RedisBungee] ...
+28/06/2018 15:57:24 [DEBUG] Loaded placeholder: redisbungee
+28/06/2018 15:57:24 [INFO] Loading placeholder [ServerPinger] ...
+28/06/2018 15:57:24 [DEBUG] Loaded placeholder: serverpinger
+28/06/2018 15:57:24 [INFO] Loading placeholder [Statistics] ...
+28/06/2018 15:57:24 [DEBUG] Loaded placeholder: statistics
+28/06/2018 15:57:24 [INFO] Loading placeholder [Player] ...
+28/06/2018 15:57:23 [DEBUG] Loaded placeholder: multiverse
+28/06/2018 15:57:22 [INFO] Loading placeholder [Facebook] ...
+28/06/2018 15:57:24 [INFO] Loading placeholder [Sound Effects] ...
+28/06/2018 15:57:24 [DEBUG] Loaded placeholder: sound
+28/06/2018 15:57:23 [DEBUG] Loaded placeholder: marriage
+28/06/2018 15:57:24 [DEBUG] Loaded placeholder: towny
+28/06/2018 15:57:24 [DEBUG] Loaded placeholder: townychat
+28/06/2018 15:57:24 [INFO] Loading event hook: Towny Town ...
+28/06/2018 15:57:24 [INFO] Enabling event hook: Towny Town!
+28/06/2018 15:57:24 [INFO] Enabling event hook: Towny Town!
+28/06/2018 15:57:24 [INFO] Loading placeholder [Twitter] ...
+28/06/2018 15:57:24 [INFO] Loading event hook: Towny Town ...
+28/06/2018 15:57:25 [DEBUG] Loaded placeholder: unicode
+28/06/2018 15:57:25 [INFO] Loading placeholder [VanillaEvents] ...
+28/06/2018 15:57:25 [DEBUG] Loaded placeholder: vanillaevents
+28/06/2018 15:57:25 [INFO] Loading event hook: Vanilla Block break hook ...
+28/06/2018 15:57:25 [INFO] Loading event hook: Vanilla Combat hook ...
+28/06/2018 15:57:25 [INFO] Enabling event hook: Vanilla Combat hook!
+28/06/2018 15:57:25 [INFO] Loading placeholder [Unicode Characters] ...
+28/06/2018 15:57:25 [DEBUG] Loaded placeholder: twitter
+28/06/2018 15:57:24 [DEBUG] Loaded placeholder: tickspersecond
+28/06/2018 15:57:24 [INFO] Loading placeholder [TicksPerSecond] ...
+28/06/2018 15:57:24 [INFO] Loading placeholder [Towny] ...
+28/06/2018 15:57:25 [INFO] Loading event hook: Vanilla Block break hook ...
+28/06/2018 15:57:24 [DEBUG] Loaded placeholder: quests
+28/06/2018 15:57:25 [INFO] Loading event hook: Vanilla player first join ...
+28/06/2018 15:57:25 [INFO] Enabling event hook: Vanilla Combat hook!
+28/06/2018 15:57:25 [INFO] Loading event hook: Vanilla Block place hook ...
+28/06/2018 15:57:25 [INFO] Loading event hook: Vanilla Create portal hook ...
+28/06/2018 15:57:25 [INFO] Loading event hook: Vanilla player join ...
+28/06/2018 15:57:25 [INFO] Loading event hook: Vanilla Death hook ...
+28/06/2018 15:57:25 [INFO] Loading event hook: Vanilla Death hook ...
+28/06/2018 15:57:23 [INFO] Loading placeholder [LibsDisguises] ...
+28/06/2018 15:57:25 [INFO] Loading event hook: Vanilla player join ...
+28/06/2018 15:57:25 [INFO] Loading event hook: Vanilla player rejoin ...
+28/06/2018 15:57:25 [INFO] Loading event hook: Vanilla player rejoin ...
+28/06/2018 15:57:25 [INFO] Loading event hook: Vanilla Combat hook ...
+28/06/2018 15:57:25 [INFO] Loading event hook: Vanilla player first join ...
+28/06/2018 15:57:25 [DEBUG] Loaded placeholder: mcmmo
+28/06/2018 15:57:25 [INFO] Loading event hook: mcMMO Level up event ...
+28/06/2018 15:57:25 [INFO] Loading placeholder [WorldGuard] ...
+28/06/2018 15:57:25 [INFO] Loading placeholder [WorldBorder] ...
+28/06/2018 15:57:25 [INFO] Loading event hook: WorldGuard Region ...
+28/06/2018 15:57:25 [INFO] Loading placeholder [VoteParty] ...
+28/06/2018 15:57:25 [DEBUG] Loaded placeholder: world
+28/06/2018 15:57:25 [INFO] Loading event hook: mcMMO Party Level up ...
+28/06/2018 15:57:25 [DEBUG] Loaded placeholder: worldborder
+28/06/2018 15:57:25 [DEBUG] Loaded placeholder: voteparty
+28/06/2018 15:57:25 [DEBUG] Loaded placeholder: worldguard
+28/06/2018 15:57:25 [INFO] Loading event hook: WorldGuard Region ...
+28/06/2018 15:57:25 [INFO] Loading event hook: Vanilla Block place hook ...
+28/06/2018 15:57:25 [INFO] Loading event hook: Vanilla Create portal hook ...
+28/06/2018 15:57:25 [INFO] Loading placeholder [World] ...
+28/06/2018 15:57:25 [INFO] Loading placeholder [StockMarket] ...
+28/06/2018 15:57:25 [INFO] Loaded 3373 of the 3373 placholders
+28/06/2018 15:57:25 [INFO] Loading placeholder [mcMMO] ...
+28/06/2018 15:57:25 [WARNING] Deleting placeholder bundle: stockmarket yahoofinance.jar
+28/06/2018 15:57:25 [INFO] Loading event hook: mcMMO Level down event ...
+28/06/2018 15:57:25 [MESSAGE] &5[&9FeatherBoard&5] &eUnable to load placeholders 'stockmarket-yahoofinance'. Plugin StockMarket not found!
+28/06/2018 15:57:25 [WARNING] Deleting placeholder bundle: stockmarket.jar
+28/06/2018 15:57:25 [INFO] Loading event hook: mcMMO Level up event ...
+28/06/2018 15:57:25 [INFO] Checking for placeholder updates ...
+28/06/2018 15:57:25 [INFO] Enabling event hook: mcMMO Level up event!
+28/06/2018 15:57:25 [MESSAGE] &5[&9FeatherBoard&5] &eUnable to load placeholders 'stockmarket'. Plugin StockMarket not found!
+28/06/2018 15:57:26 [INFO] Creating new custom effect: example3
+28/06/2018 15:57:26 [INFO] Loading custom effect 'example3' ...
+28/06/2018 15:57:25 [INFO] Loading placeholder [StockMarket YahooFinance] ...
+28/06/2018 15:57:25 [INFO] Loading event hook: mcMMO Party Level up ...
+28/06/2018 15:57:25 [INFO] Loading event hook: mcMMO Level down event ...
+28/06/2018 15:57:26 [INFO] Loading custom effect 'example2' ...
+28/06/2018 15:57:26 [DEBUG]  - Server supports Team entries
+28/06/2018 15:57:28 [DEBUG] 	Line: combat-data Static: false
+28/06/2018 15:57:26 [DEBUG]  - Server supports Team prefix/suffix
+28/06/2018 15:57:28 [DEBUG] 	Line: spacer1 Static: false
+28/06/2018 15:57:26 [INFO] Creating new custom effect: example2
+28/06/2018 15:57:28 [DEBUG] 	Line: combat-label Static: true
+28/06/2018 15:57:28 [INFO] Loading scoreboard 'combat-scoreboard-example' ...
+28/06/2018 15:57:28 [DEBUG] 	Line: header Static: true
+28/06/2018 15:57:26 [DEBUG] Using SCOREBOARD v7
+28/06/2018 15:57:25 [INFO] Enabling event hook: mcMMO Level up event!
+28/06/2018 15:57:28 [INFO] Using OPTIMAL as the update strategy
+28/06/2018 15:57:28 [DEBUG] 	Line: title Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: health-label Static: true
+28/06/2018 15:57:26 [DEBUG]  - Server supports Objective entries
+28/06/2018 15:57:26 [INFO] Creating new custom effect: example1
+28/06/2018 15:57:26 [DEBUG]  - Server supports Team color
+28/06/2018 15:57:26 [INFO] Loading custom effect 'example1' ...
+28/06/2018 15:57:28 [INFO] Loading scoreboard 'mcmmo-levelup' ...
+28/06/2018 15:57:28 [DEBUG] 	Line: title Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: spacer1 Static: true
+28/06/2018 15:57:28 [DEBUG] 	Line: info-label Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: skill-label Static: true
+28/06/2018 15:57:28 [DEBUG] 	Line: skill Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: spacer2 Static: true
+28/06/2018 15:57:28 [DEBUG] 	Line: skilllevel Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: footer Static: true
+28/06/2018 15:57:28 [DEBUG] 	Line: header Static: true
+28/06/2018 15:57:28 [INFO] Loading scoreboard 'default' ...
+28/06/2018 15:57:28 [DEBUG] 	Line: player-line2 Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: title Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: spacer1 Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: header Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: player-label Static: true
+28/06/2018 15:57:28 [DEBUG] 	Line: news Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: spacer2 Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: timesplayed-label Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: spacer3 Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: server-label Static: true
+28/06/2018 15:57:28 [DEBUG] 	Line: timesplayed Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: server-line1 Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: player-line1 Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: health-data-1 Static: false
+28/06/2018 15:57:28 [INFO] Loading scoreboard 'towny-town-example' ...
+28/06/2018 15:57:28 [DEBUG] 	Line: town-label Static: true
+28/06/2018 15:57:28 [DEBUG] 	Line: title Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: header Static: true
+28/06/2018 15:57:28 [DEBUG] 	Line: town-data Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: spacer1 Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: townboard-label Static: true
+28/06/2018 15:57:28 [DEBUG] 	Line: news-info Static: true
+28/06/2018 15:57:28 [DEBUG] 	Line: spacer2 Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: townboard Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: population-label Static: true
+28/06/2018 15:57:28 [DEBUG] 	Line: poplulation-data Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: footer Static: true
+28/06/2018 15:57:28 [DEBUG] 	Line: title Static: false
+28/06/2018 15:57:28 [INFO] Loading scoreboard 'benchmark' ...
+28/06/2018 15:57:28 [DEBUG] 	Line: line1 Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: health-data-2 Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: footer Static: true
+28/06/2018 15:57:28 [DEBUG] 	Line: skilllevel-label Static: true
+28/06/2018 15:57:28 [DEBUG] 	Line: line3 Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: line6 Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: line7 Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: line8 Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: line9 Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: line10 Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: line5 Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: line11 Static: false
+28/06/2018 15:57:29 [DEBUG] 	Line: line12 Static: false
+28/06/2018 15:57:29 [DEBUG] 	Line: line13 Static: false
+28/06/2018 15:57:28 [DEBUG] 	Line: line2 Static: false
+28/06/2018 15:57:29 [DEBUG] 	Line: line14 Static: false
+28/06/2018 15:57:29 [DEBUG] 	default - 10
+28/06/2018 15:57:29 [DEBUG] 	Line: line15 Static: false
+28/06/2018 15:57:29 [DEBUG] Scoreboards groups sorted by priority:
+28/06/2018 15:57:29 [DEBUG] 	combat-scoreboard-example - 0
+28/06/2018 15:57:29 [DEBUG] 	mcmmo-levelup - 0
+28/06/2018 15:57:29 [DEBUG] 	towny-town-example - 0
+28/06/2018 15:57:29 [DEBUG] 	benchmark - 0
+28/06/2018 15:57:29 [MESSAGE] &5[&9FeatherBoard&5] &aYour version is up to date!
+28/06/2018 15:57:29 [INFO] Generating metrics information ...
+28/06/2018 15:57:29 [INFO] Toggle persistence is disabled!
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'on'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'gui'
+28/06/2018 15:57:29 [INFO] Adding command 'featherboard'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'off'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'reload'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'permissions'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'help'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'generatebbcode'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'about'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'parse'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'hide'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'editsetting'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'removescoreboard'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'createscoreboard'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'modules'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'info'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'add'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'remove'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'module'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2b531862'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2b531862'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2b531862'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2b531862'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2b531862'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@6711c6f7'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@6711c6f7'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@6711c6f7'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@6711c6f7'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5c000e38'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@6711c6f7'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5c000e38'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5c000e38'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5c000e38'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@6eb77f11'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@6eb77f11'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@6eb77f11'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@6eb77f11'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@6eb77f11'
+28/06/2018 15:57:28 [DEBUG] 	Line: line4 Static: false
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'show'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'toggle'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'reload'
+28/06/2018 15:57:29 [INFO] Added 'PERMISSION' as the default scoreboard assign method
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'placeholders'
+28/06/2018 15:57:29 [DEBUG] 	Adding sub command 'debug'
+28/06/2018 15:57:31 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@5c000e38'
+28/06/2018 15:58:10 [INFO] Checking for module updates ...
+28/06/2018 15:58:10 [INFO] Fetching modules from server ...
+28/06/2018 15:58:55 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:58:55 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:59:00 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:59:00 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:59:06 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:59:06 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:59:11 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:59:11 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:00:43 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:00:43 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:00:48 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:00:48 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:01:25 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 16:01:25 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 16:01:30 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 16:01:30 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 16:01:36 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 16:01:36 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 16:01:41 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 16:01:41 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 16:01:46 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: krakken858
+28/06/2018 16:01:46 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: krakken858
+28/06/2018 16:01:51 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: krakken858
+28/06/2018 16:01:51 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: krakken858
+28/06/2018 16:06:46 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: DarrylSSY
+28/06/2018 16:06:46 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: krakken858
+28/06/2018 16:06:46 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: krakken858
+28/06/2018 16:06:46 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: DarrylSSY
+28/06/2018 16:06:51 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: krakken858
+28/06/2018 16:06:51 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: krakken858
+28/06/2018 16:08:41 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: krakken858
+28/06/2018 16:08:41 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: krakken858
+28/06/2018 16:08:53 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: krakken858
+28/06/2018 16:08:53 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: krakken858
+28/06/2018 16:14:29 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:14:29 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:14:34 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:14:34 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:14:35 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:14:35 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:14:46 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:14:46 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:14:55 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:14:55 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:15:00 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:15:00 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:15:01 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:15:01 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:15:09 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:15:09 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:15:17 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:15:17 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:15:23 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:15:23 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:15:27 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:15:27 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:15:32 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:15:32 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:15:47 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:15:47 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:15:52 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:15:52 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:16:16 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:16:16 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:16:21 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:16:21 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:16:37 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:16:37 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:16:42 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:16:55 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:16:55 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:16:42 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:17:00 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:17:54 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:17:00 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:17:54 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:18:02 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:18:02 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:18:03 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:18:03 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:18:08 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:18:08 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:18:40 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:18:40 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:18:45 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:18:45 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:19:13 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:19:13 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:19:18 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:19:18 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:19:51 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:19:51 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:19:56 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:19:56 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:20:26 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:20:26 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:20:31 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:20:31 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:21:09 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:21:09 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:21:14 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:21:14 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:21:26 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:21:26 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:21:31 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:21:31 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:21:44 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:21:44 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:21:49 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:21:49 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:22:21 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:22:21 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:22:26 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:22:26 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:22:41 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:22:41 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:22:46 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:22:46 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:23:00 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:23:00 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:23:05 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:23:05 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:23:14 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:23:14 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:23:19 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:23:19 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:23:33 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:23:33 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:23:38 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:23:38 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:23:56 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:23:56 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:24:01 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:24:01 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:24:22 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:24:22 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:24:27 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:24:27 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:25:27 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:25:27 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:25:32 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:25:32 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:25:32 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:25:32 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:25:41 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:25:41 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:25:43 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:25:43 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:25:48 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:25:48 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:26:23 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:26:23 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:26:28 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:26:28 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:29:28 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:29:28 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:29:33 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:29:33 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:40:36 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:40:36 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:40:41 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:40:41 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:47:45 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:47:45 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:47:50 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:47:50 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 16:48:55 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:48:55 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:49:00 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 16:49:00 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 17:00:24 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: SyafiqGaming
+28/06/2018 17:00:24 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: SyafiqGaming
+28/06/2018 17:00:29 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: SyafiqGaming
+28/06/2018 17:00:29 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: SyafiqGaming
+28/06/2018 17:00:33 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: SyafiqGaming
+28/06/2018 17:00:33 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: SyafiqGaming
+28/06/2018 17:00:38 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: SyafiqGaming
+28/06/2018 17:00:38 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: SyafiqGaming
+28/06/2018 17:32:07 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:32:07 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:32:12 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:32:12 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:32:55 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:32:55 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:33:00 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:33:00 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:33:20 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:33:20 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:33:25 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:33:25 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:34:03 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:34:03 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:34:09 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:34:09 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:34:54 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:34:54 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:34:59 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:34:59 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:35:45 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:35:45 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:35:50 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:35:50 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:36:23 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:36:23 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:36:28 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:36:28 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:37:08 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:37:08 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:37:13 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:37:13 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:37:20 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:37:20 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:37:25 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:37:25 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:37:31 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:37:31 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:37:36 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:37:36 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:39:30 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:39:30 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:39:35 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:39:35 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:40:03 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:40:03 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:40:08 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:40:08 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:42:30 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:42:30 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:42:35 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:42:35 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:42:53 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:42:53 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:42:58 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:42:58 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:43:12 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 17:43:12 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 17:43:18 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 17:43:18 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 17:44:04 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 17:44:04 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 17:44:09 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 17:44:09 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 17:45:04 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:45:04 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:45:09 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:45:09 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:45:43 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:45:43 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:45:48 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:45:48 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:46:09 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:46:09 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:46:14 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:46:14 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:46:23 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:46:23 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:46:28 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:46:28 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:47:01 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:47:01 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:47:06 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:47:06 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:47:27 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:47:27 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:47:32 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:47:32 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:47:40 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:47:40 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:47:46 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:47:46 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:48:13 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:48:13 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:48:18 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:48:18 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:48:35 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:48:35 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:48:40 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:48:40 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 17:49:53 [DEBUG] Adding 'towny-town-example' scoreboard override for: werhu
+28/06/2018 17:49:53 [DEBUG] Adding 'towny-town-example' scoreboard override for: werhu
+28/06/2018 18:13:34 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:13:34 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:13:39 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:13:39 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:16:16 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:16:16 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:16:21 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:16:21 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:17:39 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:17:39 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:17:44 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:17:44 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:18:08 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:18:08 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:18:13 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:18:13 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:19:03 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:19:03 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:19:11 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:19:11 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:19:15 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:19:15 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:19:25 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:19:25 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:19:30 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:19:30 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:19:33 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:19:33 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:20:05 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:20:05 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:20:10 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:20:10 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:20:45 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:20:45 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:20:51 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:20:51 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:21:23 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:21:23 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:21:28 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:21:28 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:22:51 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:22:51 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:22:51 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:22:51 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:22:56 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:22:56 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:23:00 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:23:00 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 18:23:24 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:23:24 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:23:29 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:23:29 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:23:31 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:23:31 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:23:36 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:23:36 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:23:43 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:23:43 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:23:48 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:23:48 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:23:57 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:23:57 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:24:02 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:24:02 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:24:08 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:24:08 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:24:14 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:24:14 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:24:28 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:24:28 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:24:33 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:24:33 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:56:30 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:56:30 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:56:35 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:56:35 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:58:33 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:58:33 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:58:38 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 18:58:38 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:00:58 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:00:58 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:01:03 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:01:03 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:02:29 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:02:29 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:02:34 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:02:34 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:18:53 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:18:53 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:18:58 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:19:10 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:19:10 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:18:58 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:19:15 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:19:15 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:20:51 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:20:51 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:20:56 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:20:56 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:21:08 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:21:08 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:21:14 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:21:14 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:21:43 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:21:43 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:21:48 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:21:48 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:23:03 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:23:03 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:23:08 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:23:08 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:23:20 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:23:20 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:23:25 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:23:25 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:23:54 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:23:54 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:23:59 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:23:59 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:24:26 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:24:26 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:24:31 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:24:46 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:24:46 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:24:31 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:24:51 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:24:51 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:25:12 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:25:12 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:25:17 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:25:17 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:25:33 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:25:33 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:25:38 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:25:38 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:33:11 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 19:33:11 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 19:33:36 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 19:33:36 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 19:34:30 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 19:34:30 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 19:34:39 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:34:39 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:34:44 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:34:44 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:34:49 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 19:34:49 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 19:35:07 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:35:07 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:35:12 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:35:12 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:35:24 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:35:24 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:35:29 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:35:29 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:35:43 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:35:43 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:35:48 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:35:48 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:36:22 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:36:22 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:36:27 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:36:27 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:36:42 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:36:42 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:36:47 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:36:47 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:39:11 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:39:11 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:39:16 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:39:16 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:39:32 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:39:32 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:39:37 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:39:37 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:40:10 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:40:10 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:40:15 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:40:15 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:40:35 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:40:35 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:40:40 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:40:40 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:41:09 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:41:09 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:41:14 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:41:14 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:41:37 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:41:37 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:41:42 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:41:42 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:41:55 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:41:55 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:42:00 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:42:00 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:42:39 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:42:39 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:42:44 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:42:44 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:42:51 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:42:51 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:42:56 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:42:56 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:43:24 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:43:24 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:43:29 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:43:29 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:53:52 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:53:52 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:53:57 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:53:57 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:54:13 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:54:13 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:54:18 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:54:18 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:54:35 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:54:35 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:54:40 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:54:40 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:54:53 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:54:53 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:54:58 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:54:58 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:55:20 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:55:20 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:55:25 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:55:25 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:55:39 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:55:39 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:55:44 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:55:44 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:56:00 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:56:00 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:56:05 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:56:05 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:56:17 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:56:17 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:56:23 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:56:23 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:56:39 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:56:39 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:56:44 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:57:00 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:57:00 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:56:44 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:57:05 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:57:05 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:57:55 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:57:55 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:58:00 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:58:00 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:58:34 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:58:34 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:58:39 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:58:39 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:59:20 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:59:20 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:59:25 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:59:49 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:59:49 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:59:25 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:59:54 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:00:12 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:00:12 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 19:59:54 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:00:17 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:00:17 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:01:23 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:01:23 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:01:28 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:01:28 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:04:04 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 20:04:04 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 20:04:12 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 20:04:12 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 20:04:35 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:04:35 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:04:40 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:04:40 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:06:27 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:06:27 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:06:32 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:06:32 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:07:07 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:07:07 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:07:12 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:07:12 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:08:25 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:08:25 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:08:30 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:08:30 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:08:49 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:08:49 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:08:54 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:09:21 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:09:21 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:08:54 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:09:26 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:09:26 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:10:59 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:10:59 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:11:04 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:11:04 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:11:28 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:11:28 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:11:33 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:11:33 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:12:15 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:12:15 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:12:21 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:12:21 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:14:03 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:14:03 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:14:08 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:14:08 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:14:31 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:14:31 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:14:37 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:14:37 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:17:18 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 20:17:18 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 20:17:25 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 20:17:25 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 20:17:27 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 20:17:27 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 20:17:32 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 20:17:32 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 20:17:33 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 20:17:33 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 20:17:38 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 20:17:38 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 20:17:43 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:17:43 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:17:48 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:17:48 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:18:09 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:18:09 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:18:14 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:18:14 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:18:37 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:18:37 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:18:42 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:18:42 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:19:12 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:19:12 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:19:17 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:19:17 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:19:46 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:19:46 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:19:51 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:19:51 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:20:25 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:20:25 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:20:30 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:20:30 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:20:54 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:20:54 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:20:59 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:20:59 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:21:22 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:21:22 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:21:27 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:21:27 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:22:10 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:22:10 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:22:15 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:22:15 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:23:22 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:23:22 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:23:27 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:23:27 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:24:04 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:24:04 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:24:10 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:24:10 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:27:28 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:27:28 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:27:33 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:27:33 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:30:31 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:30:31 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:30:37 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:30:37 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:31:02 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:31:02 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:31:08 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:31:08 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:31:32 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:31:32 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:31:37 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:31:37 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:32:02 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:32:02 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:32:07 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:32:07 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:32:33 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:32:33 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:32:38 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:32:38 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:33:08 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:33:08 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:33:13 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:33:13 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:33:39 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:33:39 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:33:44 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:33:44 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:34:15 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:34:15 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:34:20 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:34:20 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:35:01 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:35:01 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:35:06 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:35:06 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:51:10 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:51:10 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:51:15 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:51:15 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:52:02 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:52:02 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:52:07 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:52:07 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:55:10 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:55:10 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:55:15 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:55:15 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:56:40 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:56:40 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:56:45 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:56:45 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:57:12 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:57:12 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:57:17 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 20:57:17 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:00:21 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 21:00:21 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 21:00:26 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 21:00:26 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 21:01:48 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:01:48 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:01:53 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:01:53 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:04:09 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:04:09 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:04:14 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:04:14 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:05:13 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:05:13 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:05:18 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:05:18 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:06:29 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:06:29 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:06:34 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:08:35 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:08:35 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:06:34 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:08:40 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:08:40 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:10:39 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:10:39 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:10:44 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:10:44 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:10:58 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:10:58 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:11:03 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:11:03 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:23:45 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 21:23:45 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 21:23:49 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:23:49 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:23:54 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:23:54 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:23:57 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 21:23:57 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 21:24:36 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:24:36 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:24:41 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:24:41 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:26:25 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:26:25 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:26:30 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:26:30 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:33:57 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 21:33:57 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 21:34:02 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 21:34:02 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 21:50:34 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:50:34 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:50:39 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:50:39 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:51:03 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:51:03 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:51:08 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:51:08 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:51:54 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:51:54 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:51:59 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:51:59 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:52:28 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:52:28 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:52:33 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:52:33 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:52:52 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:52:52 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:52:57 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:52:57 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:53:30 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:53:30 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:53:35 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:53:35 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:54:04 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:54:04 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:54:09 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 21:54:09 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:26:09 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 22:26:09 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 22:26:15 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 22:26:15 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 22:41:00 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:41:00 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:41:05 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:41:05 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:53:46 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:53:46 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:53:51 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:53:51 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:54:03 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:54:03 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:54:08 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:54:08 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:54:20 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:54:20 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:54:25 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:54:25 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:54:43 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 22:54:43 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 22:54:48 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 22:54:48 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 22:56:32 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:56:32 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:56:37 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:56:37 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:56:47 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:56:47 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:56:52 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:56:52 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:57:10 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 22:57:10 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 22:57:20 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 22:57:20 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 22:57:32 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 22:57:32 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 22:57:36 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:57:36 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:57:41 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:57:41 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:57:41 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 22:57:41 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: HarukiGrande
+28/06/2018 22:58:04 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:58:04 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:58:09 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:58:09 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:58:29 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:58:29 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:58:34 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 22:58:34 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande

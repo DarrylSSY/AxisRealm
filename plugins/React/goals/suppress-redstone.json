@@ -1,0 +1,16 @@
+{
+    "reaction": {
+        "near": "redstone",
+        "time": "1s",
+        "type": "lock_redstone"
+    },
+    "action-health-regen": 1,
+    "author": "React",
+    "action-health-max": 400,
+    "name": "Suppress Redstone",
+    "description": "Reduces Redstone usage",
+    "interval": "1s",
+    "conditions": ["redstone_tick_usage>0.33"],
+    "enabled": false,
+    "action-health-damage": 70
+}

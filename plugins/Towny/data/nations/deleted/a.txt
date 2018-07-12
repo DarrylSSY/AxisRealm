@@ -1,0 +1,10 @@
+towns=Test
+capital=Test
+nationBoard=/nation set board [msg]
+assistants=
+allies=
+enemies=
+taxes=0.0
+neutral=false
+uuid=ef5a3da6-fa84-4ee4-ae0c-13a9d0f0ea1b
+registered=1530094293397

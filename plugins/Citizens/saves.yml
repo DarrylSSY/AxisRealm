@@ -1,0 +1,1126 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 15
+npc:
+  '4':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1Mjk2OTQ3MDk3NjIsInByb2ZpbGVJZCI6ImE2NWQxYWM3YTQ0NTRhMTZhMjBmMzZiOWQwYzZmOGQzIiwicHJvZmlsZU5hbWUiOiJEYXJyeWxTU1kiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkYWZmOWJkNDViOTE3MTZmN2RhYTIxN2VmNjA1YWI3NGEyNTIwYzI0NjJhZWQ0OTkwNzIwNzg2ZmQzOGMzMDkiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ==
+      cached-skin-uuid-name: darrylssy
+      cached-skin-uuid: a65d1ac7-a445-4a16-a20f-36b9d0c6f8d3
+      player-skin-signature: qI+eIl7KJ2rMULsh2gUlcNld0+trf35HVk98PHTCLLJBhWGskl0HoYXr85flOMvpz79/4reqz6irHUIya6HG3IJWDvLziF5CKqLC4sFhq+SE56eXzdL9rb64SQzBUxjmqRKpiZWwrKg+Xivit3cV3rM7kWXjsc3IosFkCIDgeu4vxBFhmDuw5GDWiDDx7octNUVTso7rXUv3k9Xk4KYpJkEhV9qwh+UrAhdBjxMK9LBccBhts0+xHB22BTnEpAw/MUcY5Lj+lyJiB2BhW+KiCYzR6y+zgeXxH4iFnsgUelutUh/oAp4LGJ87Fbq6s13KWzth86C3L2/39eijpvHdh7gVVjS9vM/IdWFr8WIETMpa7OeFWf58v5xn1VQyVwKEQF44H4DK+ZQ2Oz9UHyydyI27HmPO6wvSuj2uyji6KFeaumJldcRG5gxlwW0y9HNaG4yRDRAY7d7y0i11CTLMpVWHy9YCf0Ul7d4zxIUYONx4yOfyiS3FTaZmABK8brgzWWP8297SM9zgs/TKHMCFa5eHIQacpCv9wYFM0gG997RRqaPxrBMrr9rbennnWr9JkkUzCofb87rrTUZBMUVv8o5feQpZIj7L9ObbpN69Rfyp4qSgUG2btIyMFYDD0FAfh9sqGhjsOBfcCnyAiX3zr9Qfagai9SPxeRMzKJtZc5s=
+      nameplate-visible: 'false'
+      player-skin-name: darrylssy
+    name: DarrylSSY
+    uuid: 06a6910a-a8b8-46ef-8f0c-2d44b067b65f
+    traits:
+      location:
+        world: spawn
+        x: '224.5'
+        y: '70.0'
+        z: '422.5'
+        yaw: '-150.24520874023438'
+        pitch: '0.0'
+      gravity:
+        enabled: false
+      type: PLAYER
+      spawned: true
+      assignment:
+        assignment: DARRYLSSY
+      triggers:
+        enabled:
+          CHAT: true
+          CLICK: true
+          PROXIMITY: false
+          DAMAGE: false
+      lookclose:
+        range: '5.0'
+        enabled: true
+        realisticlooking: false
+      owner:
+        owner: DarrylSSY
+        uuid: a65d1ac7-a445-4a16-a20f-36b9d0c6f8d3
+    traitnames: gravity,location,triggers,equipment,type,mounttrait,assignment,owner,spawned,inventory,lookclose,constants
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1Mjk2OTQ0MzgwNDEsInByb2ZpbGVJZCI6ImExMDAzZjdlYmU3ZTRiMmU4YjY1Zjc5MmM5NDFkMjg3IiwicHJvZmlsZU5hbWUiOiJSYXpyb2lkIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNjBlOTMzOTY1MTUzZmIxNTg5NmFjMzljNWMzNmFlZTRhYzRlMGUwNTg2OTFkOTkyMDA5YTNkN2I2NDdlNjYzIn19fQ==
+      cached-skin-uuid-name: razroid
+      cached-skin-uuid: a1003f7e-be7e-4b2e-8b65-f792c941d287
+      nameplate-visible: 'false'
+      player-skin-signature: LHaIBI90RHr07ohLSvV56qci/TSRGSxKF5hEBXPQjby4dOjgds8VtfOgVLYZRQ4fRHb2D+tcE5fyZfu7FlpM4uzZ7jNOwLbcqCNYQhw0PBP8L12Y9LOOAVOTxzDeCUPh04wyXE9pGUAc30hbXMRrLRxVh5nYJWmwPJ+MZqZn/PX1UUzlcDYymkEuI+lyJZofmFliYW4XhZ9EhHkoLN550vnqa0iGrsaCSUC/OTRhXID1gb11Tqj4NzJpS+zrxbvHfYbfm4X6+wLAXO1CuR2TcQ2tVTIkHxO86uMei5eL3Mr6KyUZ1cFby8Km+a+oJBvvQG3lo0Gf3w7Oa+87Sy8PtfvUJrAJt+Hwc7vpUd3mOw7Qla3euwmsawSdNp2yL5Ynh/xEdgiqmT65dbvDfxqPUXFXC/qnTMdrN/21To1XnnTpg09rfkeeC64NQ7iL/NqMVd9j2VsgpDDuDoeMr3/V/PoOaU7lrwblrrczBhk0Uy990jrNjwRup7cL6dqLDb3wzKF9gqcKZURQGzZY/L0P/Qh++plvCA4qfJVEoH9QStVmi+mH6bFadpR5YhYQYDfu8kUstxdNDtaZ5KZAOKkOTDWAyKjABDL+EGB60EHsKArRm6GQ4o4M0oH0JFDEclPGZ7n90yQfDCS7OWYhjIqLXRD6H4xa2ik9PCMnXhJX+Rk=
+      player-skin-name: razroid
+    name: Razroid
+    uuid: a52ddc3f-087b-4983-8469-44e7e8515454
+    traits:
+      location:
+        world: spawn
+        x: '223.5'
+        y: '70.0'
+        z: '458.5'
+        yaw: '-167.01376342773438'
+        pitch: '0.0'
+      gravity:
+        enabled: false
+      type: PLAYER
+      triggers:
+        enabled:
+          CHAT: true
+          CLICK: true
+          PROXIMITY: false
+          DAMAGE: false
+      spawned: true
+      assignment:
+        assignment: RAZROID
+      lookclose:
+        range: '5.0'
+        enabled: true
+        realisticlooking: false
+      owner:
+        owner: DarrylSSY
+        uuid: a65d1ac7-a445-4a16-a20f-36b9d0c6f8d3
+    traitnames: gravity,triggers,location,equipment,type,mounttrait,owner,assignment,spawned,inventory,lookclose,constants
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '5':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1Mjk3MDAzOTc3NTksInByb2ZpbGVJZCI6IjNkODAzYmFkM2Q0ZDQ1ZGM4NDcxZGE2MjdmYWMxMTAzIiwicHJvZmlsZU5hbWUiOiJva2FheSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2U1ODc5NTgzMWNlYzBjMDgxOGExY2YwOGIwODRhMTgzMjAwNWExMjVkOGEzNTNjZGE2ZDA5MzMxYjM1YmQ1MiJ9fX0=
+      cached-skin-uuid-name: okaay
+      cached-skin-uuid: 3d803bad-3d4d-45dc-8471-da627fac1103
+      nameplate-visible: 'false'
+      player-skin-signature: LR1zHCMS9OxvfHogA7PMhJj9zRDdMaWEHYBvGeuEUes5EYPlabBRxMN+HZmSkvDsB686r2GAAClDOMPVcRSqwwmgIqzBZGzczWqQFqZYnK/kP1aYNaM3jng18VAxNlC1yH1ANSyK614qS7ORwql81KAaBTYxuHllhW9bDXxJMaAq29n66ylneIVu2fzYYNGuXvh4jtdG+TpCpAIcgrXXFLjGwTfTJzwcpBWaQzs4dscVH06TOBUX8jNnnVqa9fqgHN/9CBC6ngzvaCYP9h9gZd9ucE0KsPaWxtIg8J/QRFSy9wLesucmEcwnwL6kQ4VwwekMZR6cirjBJXuxHwrE1aLwcQmKNbXWq4bwP8Ybn0tCW14jH8cEhi5nmGGR9/kYOBAC50iazIb3uNkCAqiRbt04YN3illlcl5mjJJEbk47Kop0adNcDW9uenjmbMyGrpDEjY8zW/ld8qFeqh1DPoIQMJNHOrWm64lPXkakzgVEuYt2vY3dBESprGRqfzylsYRcpR6xHs6dBjmWjuCLnrtI3aI9wujdPfYMI4sgKUNpJcZI7xy7oa4ycn+W41SkjP9zhEjPRvYtm/AVrugwau9CwvoNIHRNUeCDrhugFj0YpyANDQBcVctefMGcGZxjA0jjEsE5ws1StSyRnjNISA47HUMbBgKA8UvS9OD93C4w=
+      player-skin-name: okaay
+    name: Ducklet
+    uuid: 23dbe542-e407-48bb-9c38-362a8f920729
+    traits:
+      location:
+        world: spawn
+        x: '233.5'
+        y: '70.0'
+        z: '422.5'
+        yaw: '9.236640930175781'
+        pitch: '0.0'
+      gravity:
+        enabled: false
+      type: PLAYER
+      spawned: true
+      triggers:
+        enabled:
+          CHAT: true
+          CLICK: true
+          PROXIMITY: false
+          DAMAGE: false
+      assignment:
+        assignment: DUCKLET
+      lookclose:
+        range: '5.0'
+        enabled: true
+        realisticlooking: false
+      owner:
+        owner: DarrylSSY
+        uuid: a65d1ac7-a445-4a16-a20f-36b9d0c6f8d3
+    traitnames: gravity,location,triggers,equipment,type,mounttrait,owner,assignment,spawned,inventory,lookclose,constants
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '8':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1Mjk3MTEyMDE5NDksInByb2ZpbGVJZCI6ImQ5MTFlYzE0NDdmNDQyZWNhYjRjZmRlYTQyYTkzYjM1IiwicHJvZmlsZU5hbWUiOiJUaGVraWxsZXJtYXRpYyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWUyNWU2YTZkNTg1YTU0MjIzY2NhNTUzZmMyOTI4Y2QwMDljNTgzYTJjM2M1N2ExMmMzZjliNDVlNDcyNWVlYyJ9fX0=
+      cached-skin-uuid-name: thekillermatic
+      cached-skin-uuid: d911ec14-47f4-42ec-ab4c-fdea42a93b35
+      player-skin-name: thekillermatic
+      player-skin-signature: NNo0WdzheEKB9r7UaCWOkMxkIVRUNJ3/64RrxPgO4MJGqm4VF4qhPWa4tNTystw8kLBQzqkQ+pPuqrAS9L6j94DcsuUcMrfLD+TaO5a97v1NXfXvIGQwh6ZEkImBjtU54dp6gzoNQsQ4TRiqP3PbTUKYxr1KDHKjJNBOzUa7DRiRyRUa6IIKChjjAKL1xw9oUg8Muf5OBoV8QRtxWWXJbDw5rMFr/0nMi3xjr8u7/QNv1avJl+Fbtl0lHiNyQkylmtyMUXlAIrwc9zaNQRzEJJ8GZbMknRAUAULeI+fqKRQwHJsRajiNpvsvvFKa2kJQVA70Sfp4QjO07eSsZoh0V6GyQnmi55zOts5o7gyAT5XV5SlGjR8ANhMd8tVHUBiEYgU1aausBv+6NrZQOgY6WUissXus0W1Ld8r79tjcKbkN0E2o+avE5yE3o1xjFLbALcLKufuLhWCI0W0CziJa6mjJiF1FWwReCG+kv0+cuXMpk1fyMovNnXlNVyZWzaILFrJ7/A4Kw/bgJQPm5Q2j+CoQgHrputIXX6OwkmSKIMmyiJtIlmTZUh8cvAwnqkvT3OtGE1jSOAKN2s/Uld1Sv8n36M3ks6OkZlh/j9tWzuLov4/tD29nI3oFODG0O88xVRf7NpCwFeBAhNCfKDo1CBrRgeSb0pwkwxGre0ZpsVc=
+      nameplate-visible: 'false'
+    name: Todd
+    uuid: aa12e949-f461-4b30-8125-2b05fb46bd17
+    traits:
+      location:
+        world: spawn
+        x: '212.5149'
+        y: '70.0'
+        z: '427.4995'
+        yaw: '-92.05721282958984'
+        pitch: '0.0'
+      gravity:
+        enabled: false
+      type: PLAYER
+      triggers:
+        enabled:
+          CHAT: true
+          CLICK: true
+          PROXIMITY: false
+          DAMAGE: false
+      spawned: true
+      assignment:
+        assignment: TODD
+      lookclose:
+        range: '5.0'
+        enabled: true
+        realisticlooking: false
+      owner:
+        owner: DarrylSSY
+        uuid: a65d1ac7-a445-4a16-a20f-36b9d0c6f8d3
+    traitnames: gravity,triggers,location,equipment,type,mounttrait,owner,assignment,spawned,inventory,lookclose,constants
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '9':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1Mjk3MTM5MDkyMTAsInByb2ZpbGVJZCI6ImRmNDQ0NzllMTA0MjQwZDU5ZTBiNWY5MWYzMTk0ZTZjIiwicHJvZmlsZU5hbWUiOiJEcmVhbWVyXzQyMCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDlhMjkxMjM1YjRiMjBkOWZhMTMyZDMxMWZlZWY3YjM0M2FiZDYxNzFiZTZlN2RhYWQyZDdlOTY2ZTJmZjBjNyJ9fX0=
+      cached-skin-uuid-name: dreamer_420
+      cached-skin-uuid: df44479e-1042-40d5-9e0b-5f91f3194e6c
+      player-skin-name: dreamer_420
+      nameplate-visible: 'false'
+      player-skin-signature: sjasCVlDM3WVPYqhPsFW7CWt0j7ZQm2PFtPDSO+DPv/a1v7KQkogG3G5+AMNWP0euL1tdK5XNjXAacwfAUUGvwoi/HaV1TXDPYa/ZdMWBxzQEyHlxnO5IlEd4p5JJOsSWDgUC+te0WmsSJZR38hmNXvGWAh87PJL5yy/iZvix4kpuxplgElhAsaYVO4KpxaINfegMGt5LvZo9h3gpewYVslyU+kXi9La4AeXlOQNTAEgGSsMig4egGhBZC2oAmuxMTPhmmQrV8/Z4mQ6OF2R+BWxZVNQq7ORmGjoz3IFXERce/XPrpiHySUzavWPXf5MTmmaEnHYf/0Tm8GJF+ZWnJnYos+kulOJTFCtpinMrjReEMEyG/qZyYTqtx6D9PBWoZOBZ3EjyQIxjhiF3rWeJlrPgyxtGVkHjw6WEjmiX6bXuGHOpP0ltyE779XsaI4enYbaAZMRsNjYq+pUgNgbqImIwdCUyi+U8ZIs8Dednko83Aos/0h7lkN887I0yth4ydu2hNHYGA9KKUr155BrxFm4j/jEq0eMssqeMuMLIIH926O0CusPx0T9WcjZip8ga2enBGtrogZVERUO9y16kISkGthnhopeQFjzLQQ12Sy6Ixhlhjeo1OmOqm1Xjir6KgCJfBTuc6JN0Ih7g6cdTtdUmbM7pD2/RT7/Fgh+dM0=
+    name: §kWarp§a
+    uuid: 4e30f4d0-4bb4-4a17-8d12-77d40f38bb60
+    traits:
+      location:
+        world: spawn
+        x: '221.5192'
+        y: '69.8125'
+        z: '433.4909'
+        yaw: '-138.44778442382812'
+        pitch: '0.0'
+      gravity:
+        enabled: false
+      type: PLAYER
+      triggers:
+        enabled:
+          CHAT: true
+          CLICK: true
+          PROXIMITY: false
+          DAMAGE: false
+      spawned: true
+      assignment:
+        assignment: WARP
+      lookclose:
+        range: '5.0'
+        enabled: true
+        realisticlooking: false
+      owner:
+        owner: DarrylSSY
+        uuid: a65d1ac7-a445-4a16-a20f-36b9d0c6f8d3
+    traitnames: gravity,triggers,location,equipment,type,mounttrait,assignment,owner,spawned,inventory,lookclose,constants
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '10':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1Mjk4MjQ1Mjk1MzEsInByb2ZpbGVJZCI6ImEzOWVmNTdhMzg3YzRjZDE5NzQwNTliNzMyZWJjN2E1IiwicHJvZmlsZU5hbWUiOiJNZXJjaGFudCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODY0ZDQzMTY1MWQ4Y2U3ZGEyZDhmODhkZDgyMmQ5NTU3ZDdiY2Y5YjBiNWQwYThlZDEzYjk4OTg4MWZhZGJlZiJ9fX0=
+      cached-skin-uuid-name: merchant
+      cached-skin-uuid: a39ef57a-387c-4cd1-9740-59b732ebc7a5
+      player-skin-name: merchant
+      protected: true
+      player-skin-signature: sW1WH+LBTEFDuZ+o4oTE58lXanC6GBZKklxwLO7XTPNtHN+FhNzGJdWX+xOe/jKROVbWa7HZF0h7RtrGIWdG51YhOMechEowET5hWkQlh9CHBwX79iuANTg+Ahsi32Lek5OYpJ7tZS+qRPn8XfF7TNq8YRkJx7UrvT9gzVhdbQ/9YHlR0ggDiTt2SNnHqkJr48jxHhVLDa87Q68/CHcRo38t1hTNfhEgSH1dboZOyvesK2168GJD+Ry9qZy8n6iwep+mWqv1yA4pxDkODXzh+YCtB5inwdGD6LwgxXT9g8B5BS0b2Gi4TpYfg9RkAo2uONcG6QupAfo/L3fQGMIZnb/yA5cVPNqU3M5InkH+bQiNoy92KNbM62TTZYoJmLCqHzSJPEr/OFnZahWcgZMvlRpFcQmzCs5gANyNMVfbgnbZqy15ZezQrqL2kH6Do+PI2sq8gdViELgGQI7g2u1l11/146R9At8fHVSZxx4NzWJN18EHHGGe2oINq3CMA4s3OheYDV3Bqxu7qbj63f8lLtUnFkjqUAZ2mu2ASwstM7+JKavt6UGkuRk4nYWgaSACLT7wn6d3f3vr1p2mfg4kmG9aeftvJqvp+1xBu9LAWhemv6Tx7CFEJjcMeolGpO/VAKIgJBafpPppWq8RvifFWTj19tQIjyxZHo7yQFHyb2A=
+    name: §6§lStock Broker
+    uuid: 2b93775b-8685-44fb-8d02-4edc3e46b598
+    traits:
+      gravity:
+        enabled: false
+      location:
+        world: spawn
+        x: '228.3317'
+        y: '70.0625'
+        z: '408.4137'
+        yaw: '-7.049896240234375'
+        pitch: '0.0'
+      type: PLAYER
+      spawned: true
+      owner:
+        owner: server
+        uuid: ''
+    traitnames: gravity,location,equipment,type,mounttrait,spawned,owner,inventory
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '12':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1Mjk4MjY2OTE5OTgsInByb2ZpbGVJZCI6IjdhOWE2Y2VhYWVhMzQ1ZTg4NTFiZTQ5NDUyNGMyNDY2IiwicHJvZmlsZU5hbWUiOiJFbWlsaWEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U2ZjQ5MjIzZDZlZDA2ZmYwNzIwZTg4NTFlODE0MzdkNDY2NGZhNzNmMGQ0NDg4Y2NmYjYwM2YzYTY1NGVjMWMifX19
+      cached-skin-uuid-name: emilia
+      cached-skin-uuid: 7a9a6cea-aea3-45e8-851b-e494524c2466
+      player-skin-name: emilia
+      player-skin-signature: ajI9Ok8zAnzc7FzpxfGXzmEGwnJMGkgUOBTjBNIkXUKvha7iqBzAx6s8vZrA6KB90cgOFiVYZ0DXDQ9Q9gifmt+9TSsoQgoJOmk9QfncDGbC/gtfgVwqpUeqcrw/QRKDcw0zK08gp7Hoj5ykZGbtCRnRsVb6USvy8P+wXX06LLVhGyganniLsLxZvEfVdl1yb1xG2YZKVKrP4SJS9vNpHa7pppV/6aBgk0+UUKQt15JV9Qh/ZIGRQodTxNgyoynS/4NFgf22XPToW8qFhPZYpvOM4vnwsDsGLSezYhL84lsOt9TDBtG8or1nR4lsCu8SHFetHPI4l9s4ZPDbkB9xS8hx2YFgOjFhrH60MuXAPz8b3Ttbljn4AK4Z+mPXhBnUPEMB2UH4y2PJM10IJxDPmRihbKeHz32EInmRdhNFUcO4r6SfzOkeiFXJRNebqxJ8S8X34JLk6xcAmz/MGBpzb56dVIV65T9plTMq6U27xzJdI+jIX+jhvoyNHe07LQsLt3CN5mLRkBWvbchqpcAYQD4pUQ/L69wxVoVQHCk9dB9o6SHiQLmB4HkYsOk7Pf2Aer4bwMvf5QU7YMznr2mCHuaqiwgqRrs/ffQ7dR0iFaVxDa3yOIHrEjSoo3Cs/Y9bP20HlFvMSZbnadnHYtyr3t6P5mKrMoijLCpSj4Aezng=
+    name: Penny
+    uuid: 983323a2-61cb-4a19-b819-617b6429ed81
+    traits:
+      triggers:
+        enabled:
+          CHAT: true
+          CLICK: true
+          PROXIMITY: false
+          DAMAGE: false
+      assignment:
+        assignment: PENNY
+      location:
+        world: spawn
+        x: '211.5152'
+        y: '70.0'
+        z: '253.885'
+        yaw: '177.7285614013672'
+        pitch: '0.0'
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: spawn
+                x: '263.0'
+                y: '68.0'
+                z: '318.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: spawn
+                x: '267.0'
+                y: '68.0'
+                z: '314.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: spawn
+                x: '266.0'
+                y: '69.0'
+                z: '309.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: spawn
+                x: '273.0'
+                y: '70.0'
+                z: '308.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '4':
+              location:
+                world: spawn
+                x: '268.0'
+                y: '70.0'
+                z: '299.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '5':
+              location:
+                world: spawn
+                x: '263.0'
+                y: '71.0'
+                z: '296.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '6':
+              location:
+                world: spawn
+                x: '257.0'
+                y: '73.0'
+                z: '297.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '7':
+              location:
+                world: spawn
+                x: '254.0'
+                y: '74.0'
+                z: '301.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '8':
+              location:
+                world: spawn
+                x: '252.0'
+                y: '75.0'
+                z: '302.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '9':
+              location:
+                world: spawn
+                x: '247.0'
+                y: '76.0'
+                z: '305.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '10':
+              location:
+                world: spawn
+                x: '244.0'
+                y: '77.0'
+                z: '305.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '11':
+              location:
+                world: spawn
+                x: '239.0'
+                y: '78.0'
+                z: '306.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '12':
+              location:
+                world: spawn
+                x: '235.0'
+                y: '78.0'
+                z: '303.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '13':
+              location:
+                world: spawn
+                x: '233.0'
+                y: '78.0'
+                z: '299.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '14':
+              location:
+                world: spawn
+                x: '232.0'
+                y: '78.0'
+                z: '294.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '15':
+              location:
+                world: spawn
+                x: '233.0'
+                y: '75.0'
+                z: '285.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '16':
+              location:
+                world: spawn
+                x: '232.0'
+                y: '74.0'
+                z: '283.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '17':
+              location:
+                world: spawn
+                x: '230.0'
+                y: '72.0'
+                z: '280.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '18':
+              location:
+                world: spawn
+                x: '228.0'
+                y: '72.0'
+                z: '278.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '19':
+              location:
+                world: spawn
+                x: '223.0'
+                y: '69.0'
+                z: '272.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '20':
+              location:
+                world: spawn
+                x: '220.0'
+                y: '70.0'
+                z: '270.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '21':
+              location:
+                world: spawn
+                x: '217.0'
+                y: '69.0'
+                z: '267.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '22':
+              location:
+                world: spawn
+                x: '215.0'
+                y: '69.0'
+                z: '262.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '23':
+              location:
+                world: spawn
+                x: '212.0'
+                y: '69.0'
+                z: '258.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '24':
+              location:
+                world: spawn
+                x: '211.0'
+                y: '69.0'
+                z: '255.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '25':
+              location:
+                world: spawn
+                x: '207.0'
+                y: '70.0'
+                z: '249.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '26':
+              location:
+                world: spawn
+                x: '207.0'
+                y: '70.0'
+                z: '250.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '27':
+              location:
+                world: spawn
+                x: '207.0'
+                y: '70.0'
+                z: '250.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '28':
+              location:
+                world: spawn
+                x: '207.0'
+                y: '70.0'
+                z: '250.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '29':
+              location:
+                world: spawn
+                x: '207.0'
+                y: '70.0'
+                z: '250.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '30':
+              location:
+                world: spawn
+                x: '207.0'
+                y: '70.0'
+                z: '250.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '31':
+              location:
+                world: spawn
+                x: '207.0'
+                y: '70.0'
+                z: '250.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '32':
+              location:
+                world: spawn
+                x: '207.0'
+                y: '70.0'
+                z: '250.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '33':
+              location:
+                world: spawn
+                x: '207.0'
+                y: '70.0'
+                z: '250.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '34':
+              location:
+                world: spawn
+                x: '207.0'
+                y: '70.0'
+                z: '250.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '35':
+              location:
+                world: spawn
+                x: '207.0'
+                y: '70.0'
+                z: '250.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '36':
+              location:
+                world: spawn
+                x: '207.0'
+                y: '70.0'
+                z: '250.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '37':
+              location:
+                world: spawn
+                x: '207.0'
+                y: '70.0'
+                z: '250.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '38':
+              location:
+                world: spawn
+                x: '207.0'
+                y: '70.0'
+                z: '250.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '39':
+              location:
+                world: spawn
+                x: '207.0'
+                y: '70.0'
+                z: '250.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '40':
+              location:
+                world: spawn
+                x: '207.0'
+                y: '70.0'
+                z: '250.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '41':
+              location:
+                world: spawn
+                x: '207.0'
+                y: '70.0'
+                z: '250.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '42':
+              location:
+                world: spawn
+                x: '207.0'
+                y: '70.0'
+                z: '250.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '43':
+              location:
+                world: spawn
+                x: '211.0'
+                y: '69.0'
+                z: '255.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '44':
+              location:
+                world: spawn
+                x: '214.0'
+                y: '69.0'
+                z: '258.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '45':
+              location:
+                world: spawn
+                x: '218.0'
+                y: '68.0'
+                z: '263.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '46':
+              location:
+                world: spawn
+                x: '222.0'
+                y: '69.0'
+                z: '268.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '47':
+              location:
+                world: spawn
+                x: '220.0'
+                y: '69.0'
+                z: '272.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '48':
+              location:
+                world: spawn
+                x: '225.0'
+                y: '71.0'
+                z: '277.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '49':
+              location:
+                world: spawn
+                x: '228.0'
+                y: '73.0'
+                z: '280.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '50':
+              location:
+                world: spawn
+                x: '231.0'
+                y: '74.0'
+                z: '284.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '51':
+              location:
+                world: spawn
+                x: '233.0'
+                y: '75.0'
+                z: '286.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '52':
+              location:
+                world: spawn
+                x: '233.0'
+                y: '76.0'
+                z: '290.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '53':
+              location:
+                world: spawn
+                x: '232.0'
+                y: '77.0'
+                z: '293.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '54':
+              location:
+                world: spawn
+                x: '232.0'
+                y: '78.0'
+                z: '294.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '55':
+              location:
+                world: spawn
+                x: '233.0'
+                y: '78.0'
+                z: '298.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '56':
+              location:
+                world: spawn
+                x: '234.0'
+                y: '79.0'
+                z: '302.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '57':
+              location:
+                world: spawn
+                x: '237.0'
+                y: '79.0'
+                z: '305.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '58':
+              location:
+                world: spawn
+                x: '240.0'
+                y: '77.0'
+                z: '307.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '59':
+              location:
+                world: spawn
+                x: '242.0'
+                y: '77.0'
+                z: '306.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '60':
+              location:
+                world: spawn
+                x: '245.0'
+                y: '77.0'
+                z: '304.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '61':
+              location:
+                world: spawn
+                x: '248.0'
+                y: '75.0'
+                z: '304.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '62':
+              location:
+                world: spawn
+                x: '249.0'
+                y: '76.0'
+                z: '303.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '63':
+              location:
+                world: spawn
+                x: '252.0'
+                y: '75.0'
+                z: '302.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '64':
+              location:
+                world: spawn
+                x: '255.0'
+                y: '73.0'
+                z: '300.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '65':
+              location:
+                world: spawn
+                x: '257.0'
+                y: '73.0'
+                z: '297.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '66':
+              location:
+                world: spawn
+                x: '260.0'
+                y: '72.0'
+                z: '297.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '67':
+              location:
+                world: spawn
+                x: '264.0'
+                y: '71.0'
+                z: '298.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '68':
+              location:
+                world: spawn
+                x: '267.0'
+                y: '70.0'
+                z: '299.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '69':
+              location:
+                world: spawn
+                x: '268.0'
+                y: '71.0'
+                z: '301.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '70':
+              location:
+                world: spawn
+                x: '270.0'
+                y: '71.0'
+                z: '304.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '71':
+              location:
+                world: spawn
+                x: '271.0'
+                y: '69.0'
+                z: '308.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '72':
+              location:
+                world: spawn
+                x: '267.0'
+                y: '69.0'
+                z: '311.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '73':
+              location:
+                world: spawn
+                x: '265.0'
+                y: '69.0'
+                z: '314.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '74':
+              location:
+                world: spawn
+                x: '263.0'
+                y: '69.0'
+                z: '319.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '75':
+              location:
+                world: spawn
+                x: '262.0'
+                y: '69.0'
+                z: '323.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '76':
+              location:
+                world: spawn
+                x: '263.0'
+                y: '68.0'
+                z: '328.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '77':
+              location:
+                world: spawn
+                x: '262.0'
+                y: '68.0'
+                z: '328.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '78':
+              location:
+                world: spawn
+                x: '262.0'
+                y: '68.0'
+                z: '328.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '79':
+              location:
+                world: spawn
+                x: '262.0'
+                y: '68.0'
+                z: '328.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '80':
+              location:
+                world: spawn
+                x: '262.0'
+                y: '68.0'
+                z: '328.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '81':
+              location:
+                world: spawn
+                x: '262.0'
+                y: '68.0'
+                z: '328.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '82':
+              location:
+                world: spawn
+                x: '262.0'
+                y: '68.0'
+                z: '328.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '83':
+              location:
+                world: spawn
+                x: '262.0'
+                y: '68.0'
+                z: '328.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '84':
+              location:
+                world: spawn
+                x: '262.0'
+                y: '68.0'
+                z: '328.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '85':
+              location:
+                world: spawn
+                x: '262.0'
+                y: '68.0'
+                z: '328.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '86':
+              location:
+                world: spawn
+                x: '262.0'
+                y: '68.0'
+                z: '328.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '87':
+              location:
+                world: spawn
+                x: '262.0'
+                y: '68.0'
+                z: '328.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '88':
+              location:
+                world: spawn
+                x: '263.0'
+                y: '69.0'
+                z: '326.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      type: PLAYER
+      gravity:
+        enabled: false
+      spawned: true
+      lookclose:
+        range: '5.0'
+        enabled: true
+        realisticlooking: false
+      owner:
+        owner: DarrylSSY
+        uuid: a65d1ac7-a445-4a16-a20f-36b9d0c6f8d3
+    traitnames: triggers,equipment,mounttrait,owner,spawned,inventory,gravity,waypoints,location,type,assignment,lookclose,constants
+    navigator:
+      speedmodifier: '0.8999999761581421'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '11':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1Mjk4MjYxMjg1NDksInByb2ZpbGVJZCI6ImE0OWIyMGZlNDQxNDQ2ZTg4NTE5YWUwOGIyNjRhYzA3IiwicHJvZmlsZU5hbWUiOiJDcnlMM0cxVF8iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcxNGZjODhiZjQ5YzE2ZTliZDM4NzJkNzQ2ZTRkNGJjMmU4MGY3MjJhYTIzNWQyZTgyNmRkYTZkNjgzYzA2ZiJ9fX0=
+      cached-skin-uuid-name: cryl3g1t_
+      cached-skin-uuid: a49b20fe-4414-46e8-8519-ae08b264ac07
+      player-skin-name: cryl3g1t_
+      nameplate-visible: 'false'
+      player-skin-signature: cWoqJ/N5GKDotgF1ArbsysUy8jA6n1uXvAwa9Cuf6TDao0h0+qNIVp6zVBefLgJDNPUbOfS6Wkz7y+9B8lsl6VDGVCSf2kWgrIA1cR7PpiSk/Ok5nrP5ZynL48n/niWZOnKBVC9ATGNZEoJpgtDWDLRDHTsOA5J+QsTlRTMW+TacMrZSIIOo0B9BfAEFC2CwCYK4aTm9Jmh5jpWnpt9dH45tLVtFEpuxLXp4H+JhbyeDkuftgb9QpFpMhJBn2eGSwDSEoTCmV5MsrhpkiiNS33JO+/tE6EniJjfdH2W7wQxyPsOaFEA+n8MdTBFKcFMam0NFkLsU0urDns17gOMYbUbqgIJBHpwSUxNAh5xmwCYEn87q/brMF1AJF6ZVcK9pfGQfLVgNI829/uJcQ+VfmstIGoJ8E28BKU1jShEgWs+bsi5wPaITS/EEL+FC400XX170xSypo6BxmPmErbzwgiuG/2GFIibsG5ebh67eFg/izI8dBgLyeYSVSoBROGtyWnsneTuEgAkzqPrFpAgJqpn71j1t2lIj0IMfDIs5298mo/YjVXcR5vADTsl7ja/n5RGbpx7M4Rp+LDa0K7oDLpUgHlKfO7LJKoGhV3prcG8rNaHXGAXayv8lii3Yiwa82CPZ+rwDsf/EixY8EX8VqEYMB3d4QlxbGfJZ+ePKr5A=
+    name: Rammy
+    uuid: 2c5cc5cd-517c-45bf-abf8-ca1caff4ea26
+    traits:
+      triggers:
+        enabled:
+          CHAT: true
+          CLICK: true
+          PROXIMITY: false
+          DAMAGE: false
+      assignment:
+        assignment: RAMMY
+      gravity:
+        enabled: false
+      location:
+        world: spawn
+        x: '258.5522'
+        y: '70.0'
+        z: '409.4019'
+        yaw: '47.17155456542969'
+        pitch: '0.0'
+      type: PLAYER
+      spawned: true
+      lookclose:
+        range: '5.0'
+        enabled: true
+        realisticlooking: false
+      owner:
+        owner: DarrylSSY
+        uuid: a65d1ac7-a445-4a16-a20f-36b9d0c6f8d3
+    traitnames: gravity,triggers,location,equipment,type,mounttrait,owner,assignment,spawned,inventory,lookclose,constants
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '13':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1Mjk5NDk2NzgzMDUsInByb2ZpbGVJZCI6ImY0MDc1M2QxZjc4MjQ0MDFiZWJiYzI1YTZkNDI3MDY1IiwicHJvZmlsZU5hbWUiOiJnb2RubGVhc3N6Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYzEzZjhkYTcyZGVjNjhiM2ZiM2MwNjhhMzc5Zjg2MWM1N2NkYWMxOTg2OTY4MTBlZTUwMWFlYzIxZTNiNzc1IiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0=
+      cached-skin-uuid-name: godnleassz
+      cached-skin-uuid: f40753d1-f782-4401-bebb-c25a6d427065
+      player-skin-name: godnleassz
+      player-skin-signature: EZmfxHHVOyEMIdUMBHQ9yqLrJKBmwyjQZz5u4VCUTQtDAXS3g/OwowJwVhwWfRx6LPBpC984EJ75vRV6aV2zm1xm7K869/yEZw7Vc1+FOddgjHh9Ok9eKuximbHF+N3PQz7hhLrL/17UPC7pYxPT4szNqdRziu5N3CoryLvKgIoooOmLWLjSFYb6dmk6y+0onPM9hTVH+MHxeWy3JPAloWthekQSlLw+MYFRyBbmnu4qQa0MpHqpolk6s1i69++9iyC4zU04Oni19xLZsIn6LtvZAqr6UMmdnXdTZqcVlquQ+QAFTiovYL5teGAGu1w9e3CJ7LWx0gVxUTWuMAvwma62rOLNY4TgkuaI0+vGcgDZQ3MCX+NfkUGtE/j0AGacxBLfJFWpClSoDYcPz8UG42V8VOvBBVSkTm4s61PcewZXyw831t43uzmNWUt0tiUEDwpUbqbLVhCYD17kLeEaA/ilKLA7oA1on1TXmXJrOKC1bxu/dHM8bPYIANHhDHZpqjYZi0E+1meUyA+HTRD0QmMYStKhnleytTPmi1esEG3dOdt0LP7/lQVSEzbTjQMzN9EJYnvo7xIFP32eF0GOIk+kBvvkpfwQXdp8HLELvQ0S9PKc5yBjaivgAbTvNjL2YGnyjewhmjzvY+sPytaA+bdcG2+06vPlwsMuckvGvOM=
+    name: Jonas
+    uuid: d9b34fc8-2865-4398-a5e4-acecd66e6e67
+    traits:
+      type: PLAYER
+      gravity:
+        enabled: false
+      location:
+        world: spawn
+        x: '189.7416'
+        y: '73.0'
+        z: '230.0629'
+        yaw: '-85.71745300292969'
+        pitch: '0.0'
+      spawned: true
+      triggers:
+        enabled:
+          CHAT: true
+          CLICK: true
+          PROXIMITY: false
+          DAMAGE: false
+      assignment:
+        assignment: JONAS
+      lookclose:
+        range: '5.0'
+        enabled: true
+        realisticlooking: false
+      owner:
+        owner: Juzzanoob
+        uuid: 7a755c92-781a-4171-a7ef-a164f74ef114
+    traitnames: gravity,triggers,location,equipment,type,mounttrait,owner,assignment,spawned,inventory,lookclose,constants
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '15':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MzAwNjgxMzcxMDEsInByb2ZpbGVJZCI6ImIwZDdjOGZiZTBlOTQ1YWFhOWRiZjRmNDdiODYyNDliIiwicHJvZmlsZU5hbWUiOiJBbHBoYVdvbGZfIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZDgzNmI4OTgzOGNkMjE0NGIxN2Q5MTlmZGJhNjExOThkZjZkMjg3ZmFiYTU0NDliN2NkYTllMDY4MmQwNDI5In19fQ==
+      cached-skin-uuid-name: alphawolf_
+      cached-skin-uuid: b0d7c8fb-e0e9-45aa-a9db-f4f47b86249b
+      player-skin-name: alphawolf_
+      nameplate-visible: 'false'
+      player-skin-signature: AV04sKhbUh0W1NjNKlk4w76jnUJFn/PxeZvOYzCvkMuIc37TSCivbjAdHnLaRtVN2wvtK95qlhNzBGcE9tDFBdjyNDLRUCfL8hvLlMi4Yy6iUkzScOSrdExq+bk1eojDmYRk5FwbpA4QS+rydvgLsLMrofM39SoKv1ZUT8s00hEGqfv0Nb2qRvQIrqiULM1Kkb3YqO/IOABHquuLkshLgTPtWlFzET/eBqYQuS1TGnZlu55MnibtQAyP+9ql/T4SiFGiMBkbJmPzrfrmIh0RfU/TcwHDBi+iBeDXw+zqHqYTmOnCSqgoOyt3VpbY+hbsNyG+EpUUceg+6LVcUFgf4N9oTLRK2Va1lOq98sbuhYezXEH4bDFtbUnU9xMr/B+JL0ca0mVe14gUPTAOp3DIA33iuUpTv8oqcP5Mq+qv5Juu0lobIvarLW8L3YBvUeI2C4cvihfjeiRf8VuF5IeRXfs4gGFrPLdZ2yEY9GOyyyvhz86ZQ8Wnod+MY3MTn3jl6yX3D3Xj/JZlvYsDJGO6EaldKxepcMncvtzdiK0WAIE+vZiUSQ3Yq9xrgYdasN22mYeA651iesoxl4tejHFE/d4AK4DbqwFPrTUb/3q95dHBZOnN4MJs5H8AiOmqQNiVH5Jko8kTA4D9DnBo3VQan3GuzCpFLKLuLhY8k23jf7k=
+    name: Finney
+    uuid: de7df1aa-f9fd-421b-9ef3-bf9bdd312cb5
+    traits:
+      gravity:
+        enabled: false
+      location:
+        world: spawn
+        x: '243.4813'
+        y: '70.0'
+        z: '430.4273'
+        yaw: '116.71673583984375'
+        pitch: '0.0'
+      assignment:
+        assignment: FINNEY
+      lookclose:
+        range: '5.0'
+        enabled: true
+        realisticlooking: false
+      spawned: true
+      type: PLAYER
+      triggers:
+        enabled:
+          CHAT: true
+          CLICK: true
+          PROXIMITY: false
+          DAMAGE: false
+      owner:
+        owner: DarrylSSY
+        uuid: a65d1ac7-a445-4a16-a20f-36b9d0c6f8d3
+    traitnames: gravity,location,triggers,equipment,type,mounttrait,assignment,spawned,owner,inventory,lookclose,constants
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

@@ -1,0 +1,62 @@
+Search:
+Cheats Blocked:
+Packet abuse hacks (Morepackets, Blink ...)
+Waterwalk (Jesus)
+Glide
+Most types of Speed/Longjump
+Combat Reach
+Killaura or similar
+Inventory Actions (Like hitting with an open inventory)
+Multiple Actions (CivBreak, eating & hitting and more)
+Autoclicker
+Invalid Vehicle Movement (BoatFly ...)
+Some types of Pingspoof
+Can disable: Damage indicators, Labymod and Worlddownloader
+Removes items with invalid NBT data, enchantments or potions.
+
+Placeholders:
+{tps} - The Server's TPS
+{version} - The version of the Plugin
+{name} - The name of the player
+{ping} - The ping of the player
+{vl} - The player's violation level
+{strikes} - The player's strikes
+{module} - The name of the module
+{type} - Depending on the module
+{kills} - Available in the killaura module
+{max_kills} - Available in the killaura module
+{leftclicks} - Available in the autoclicker module
+{rightclicks} - Available in the autoclicker module
+{id} - The id of the violation log - Requires MySQL!
+
+Commands/Permissions:
+/search - Overview of all commands
+/search info [Name] [-all] - Information about a player/the server
+/search reset <Name> - Resets all entries of a player
+/search modules - Shows all modules
+/search toggle <Module> - Enables/Disables a module
+/search notify - Enables/Disables the notifications
+/search reload - Reloads the configurations
+/search check <ID> - Checks a Log ID
+/search bw <List|Run|Remove> - Manages the banwaves
+/search report [Name] - Creates a log file for bug reporting
+
+search.command.<Command> - Permission for the specific command
+search.bypass.<Module> - Permission to bypass a check
+search.notify - Permission to get notifications
+
+If you aren't using replay, disable it in Search's configuration to avoid start-up errors!
+Replay:
+Permissions/Commands: (MySQL settings need to be filled out in Search;s folder!)
+/replay - Overview of all commands
+/replay start <Name> [<Players ...>] - Starts recording a new Replay
+/replay stop <Name> - Stops and saves a Replay
+/replay play <Name> - Starts a recorded Replay
+/replay delete <Name> - Deletes an existing Replay
+/replay list - Lists all available Replays
+/replay reload - Reloads the configuration
+
+replay.command.<Command> - Permission for the specific command
+
+Notifications from Search contain an id like so: "(Search - {id})"
+Replay the actions with "/search watch <ID>"

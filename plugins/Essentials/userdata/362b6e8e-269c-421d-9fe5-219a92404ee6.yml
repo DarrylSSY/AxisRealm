@@ -1,0 +1,35 @@
+geolocation: Singapore
+lastAccountName: ColossusIce
+timestamps:
+  login: 1531227635374
+  logout: 1531227693116
+  lastteleport: 1530980992202
+  kits:
+    tools: 1530180345835
+  mute: 0
+ipAddress: 121.6.28.71
+lastlocation:
+  world: world
+  x: -1414.4535605931915
+  y: 29.0
+  z: 2370.9393412227346
+  yaw: -60.900177
+  pitch: 16.94994
+money: '8082.46852971958166410'
+logoutlocation:
+  world: world
+  x: -4057.300000011921
+  y: 68.0
+  z: 4602.925000011921
+  yaw: 196.54135
+  pitch: 31.049997
+homes:
+  home:
+    world: world
+    x: -299.56118360485004
+    y: 48.0
+    z: 3309.300000011921
+    yaw: 192.59937
+    pitch: 73.04998
+afk: false
+muted: false

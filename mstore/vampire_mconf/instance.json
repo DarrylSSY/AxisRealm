@@ -1,0 +1,61 @@
+{
+  "aliasesVampire": [
+    "v",
+    "vampire"
+  ],
+  "aliasesVampireShow": [
+    "show"
+  ],
+  "aliasesVampireModeBloodlust": [
+    "bloodlust"
+  ],
+  "aliasesVampireModeIntend": [
+    "intend"
+  ],
+  "aliasesVampireModeNightvision": [
+    "nv",
+    "nightvision"
+  ],
+  "aliasesVampireOffer": [
+    "offer"
+  ],
+  "aliasesVampireAccept": [
+    "accept"
+  ],
+  "aliasesVampireFlask": [
+    "flask"
+  ],
+  "aliasesVampireShriek": [
+    "shriek"
+  ],
+  "aliasesVampireList": [
+    "list"
+  ],
+  "aliasesVampireSet": [
+    "set"
+  ],
+  "aliasesVampireSetVampire": [
+    "vampire"
+  ],
+  "aliasesVampireSetInfection": [
+    "infection"
+  ],
+  "aliasesVampireSetFood": [
+    "food"
+  ],
+  "aliasesVampireSetHealth": [
+    "health"
+  ],
+  "aliasesVampireEditConfig": [
+    "config"
+  ],
+  "aliasesVampireEditLang": [
+    "lang"
+  ],
+  "aliasesVampireVersion": [
+    "v",
+    "version"
+  ],
+  "taskDelayMillis": 500,
+  "combatDamageFactorWithMcmmoAbilities": false
+}

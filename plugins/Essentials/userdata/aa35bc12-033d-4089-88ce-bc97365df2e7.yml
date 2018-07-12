@@ -1,0 +1,31 @@
+geolocation: Philippines
+lastAccountName: Silera
+timestamps:
+  login: 1530162527513
+  lastteleport: 1530162904174
+  logout: 1530164701567
+ipAddress: 49.151.103.34
+lastlocation:
+  world: spawn
+  x: 258.6413676366709
+  y: 71.5
+  z: 415.6593108421746
+  yaw: -181.81044
+  pitch: 22.174946
+money: '660.0'
+afk: false
+homes:
+  home:
+    world: world
+    x: -1795.8993282066385
+    y: 75.0
+    z: -219.88555730676003
+    yaw: -90.83496
+    pitch: 19.627508
+logoutlocation:
+  world: world
+  x: -1783.4375564413408
+  y: 74.0
+  z: -224.41709197615575
+  yaw: -100.82617
+  pitch: 18.299719

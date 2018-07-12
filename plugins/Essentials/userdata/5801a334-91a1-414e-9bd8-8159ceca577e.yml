@@ -1,0 +1,21 @@
+geolocation: Singapore
+lastAccountName: IsabellaXT
+timestamps:
+  login: 1530981213157
+  logout: 1530981288688
+ipAddress: 222.164.195.110
+lastlocation:
+  world: world
+  x: -201.5
+  y: 69.0
+  z: 240.5
+  yaw: 0.0
+  pitch: 0.0
+money: '50'
+logoutlocation:
+  world: spawn
+  x: 231.5
+  y: 69.0
+  z: 460.5
+  yaw: -287.5814
+  pitch: 9.254002

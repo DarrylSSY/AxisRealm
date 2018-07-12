@@ -1,0 +1,30 @@
+geolocation: Singapore
+lastAccountName: ThunderusMC
+timestamps:
+  login: 1530718537296
+  logout: 1530719518514
+  lastteleport: 1530719433117
+ipAddress: 116.15.69.240
+lastlocation:
+  world: spawn
+  x: 231.5
+  y: 69.0
+  z: 460.5
+  yaw: -270.4502
+  pitch: -7.3500285
+money: '7011.244240000000259850000000000000'
+logoutlocation:
+  world: world
+  x: -4052.7426470677588
+  y: 70.0
+  z: 4647.294731968617
+  yaw: 93.19129
+  pitch: 17.249947
+homes:
+  home:
+    world: world
+    x: -4050.5971447139905
+    y: 88.0
+    z: 4653.594219772944
+    yaw: 270.55463
+    pitch: 74.549835

@@ -1,0 +1,24 @@
+Razroid:
+  type: assignment
+  interact scripts:
+    - 1 RazroidMain
+
+RazroidMain:
+  type: interact
+  steps:
+    1:
+      click trigger:
+        script:
+          - if <player.flag[CompletedStartOfAdventure]> {
+            - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Hey there <player.name>, I am Razroid, the Co-Owner of Axisrealm."
+          } else {
+            - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Hey there <player.name>, I am Razroid, the Co-Owner of Axisrealm."
+            - wait 3
+            - narrate "<green><npc.name> <yellow> -> <gray>You:<green> I can't say I've seen your face around these parts, proceed across the bridge to the island."
+            - wait 3
+            - narrate "<green><npc.name> <yellow> -> <gray>You:<green> DarrylSSY will be just ahead, he will be able to assist you with accustoming yourself to this land."
+            - flag player TalkToRazroid
+            - execute as_server "quests a moddata start <player.name> storyquest1"
+            - execute as_server "denizen save"
+          }
+

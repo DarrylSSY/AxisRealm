@@ -1,0 +1,24 @@
+lastAccountName: DarrylSSY
+timestamps:
+  login: 1531413132462
+  logout: 1531413129540
+  lastteleport: 1531412541101
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 3888.339124677897
+  y: 63.0
+  z: -2302.328199310971
+  yaw: -142.65
+  pitch: 8.099997
+logoutlocation:
+  world: spawn
+  x: 232.1428647674504
+  y: 70.0625
+  z: 417.01445442944123
+  yaw: -329.70013
+  pitch: 8.699973
+money: '-2413.069999999999999'
+afk: false
+geolocation: Singapore
+godmode: false

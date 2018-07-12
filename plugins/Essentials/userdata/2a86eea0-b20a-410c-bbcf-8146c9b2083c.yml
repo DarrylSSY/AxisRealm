@@ -1,0 +1,21 @@
+geolocation: Indonesia
+lastAccountName: khei20
+timestamps:
+  login: 1530272798360
+  logout: 1530272860201
+ipAddress: 180.245.54.219
+lastlocation:
+  world: world
+  x: -201.5
+  y: 69.0
+  z: 240.5
+  yaw: 0.0
+  pitch: 0.0
+money: '50'
+logoutlocation:
+  world: spawn
+  x: 225.12837810716744
+  y: 70.0
+  z: 454.46653093217003
+  yaw: -184.80112
+  pitch: 4.5000153

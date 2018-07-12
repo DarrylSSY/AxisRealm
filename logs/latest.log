@@ -1,0 +1,1877 @@
+[00:16:24] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[00:16:24] [Server thread/INFO]: Loading properties
+[00:16:24] [Server thread/INFO]: Default game type: SURVIVAL
+[00:16:24] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-642f6d2-57ab4cf (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[00:16:24] [Server thread/INFO]: Debug logging is disabled
+[00:16:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:16:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:16:24] [Server thread/INFO]: Generating keypair
+[00:16:24] [Server thread/INFO]: Starting Minecraft server on *:8100
+[00:16:24] [Server thread/INFO]: Using default channel type
+[00:16:25] [Server thread/ERROR]: Ambiguous plugin name `Quests' for files `plugins\quests.jar' and `plugins\Quests v2.0.9-beta.jar' in `plugins'
+[00:16:25] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[00:16:26] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard placeholder %name% for plugin BannerBoard...[m
+[00:16:26] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard placeholder %BannerBoard:name% for plugin BannerBoard...[m
+[00:16:26] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard placeholder %uuid% for plugin BannerBoard...[m
+[00:16:26] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard placeholder %BannerBoard:uuid% for plugin BannerBoard...[m
+[00:16:26] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer COLOR for plugin BannerBoard...[m
+[00:16:26] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer BannerBoard:COLOR for plugin BannerBoard...[m
+[00:16:26] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer IMAGE for plugin BannerBoard...[m
+[00:16:26] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer BannerBoard:IMAGE for plugin BannerBoard...[m
+[00:16:26] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer TEXT for plugin BannerBoard...[m
+[00:16:26] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer BannerBoard:TEXT for plugin BannerBoard...[m
+[00:16:26] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer SKIN for plugin BannerBoard...[m
+[00:16:26] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer BannerBoard:SKIN for plugin BannerBoard...[m
+[00:16:26] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer LIVEIMG for plugin BannerBoard...[m
+[00:16:26] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer BannerBoard:LIVEIMG for plugin BannerBoard...[m
+[00:16:26] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer URLIMG for plugin BannerBoard...[m
+[00:16:26] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer BannerBoard:URLIMG for plugin BannerBoard...[m
+[00:16:26] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer INTERACT for plugin BannerBoard...[m
+[00:16:26] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer BannerBoard:INTERACT for plugin BannerBoard...[m
+[00:16:30] [Server thread/WARN]: 182 [Server thread] INFO github.scarsz.discordsrv.dependencies.reflections.Reflections - Reflections took 169 ms to scan 14 urls, producing 13 keys and 21 values 
+
+[00:16:31] [Server thread/INFO]: [LetterHeads] Loading LetterHeads v18.2
+[00:16:31] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.40
+[00:16:31] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.9.1
+[00:16:31] [Server thread/INFO]: [DeluxeCommands] Loading DeluxeCommands v1.7.0
+[00:16:31] [Server thread/INFO]: [DeluxeJoin] Loading DeluxeJoin v2.5.0
+[00:16:31] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.1.5
+[00:16:31] [Server thread/INFO]: [RecipeFinder] Loading RecipeFinder v2.2
+[00:16:31] [Server thread/INFO]: [ConsoleSpamFix] Loading ConsoleSpamFix v1.5.0
+[00:16:31] [Server thread/INFO]: [RewardPRO] Loading RewardPRO v3.17
+[00:16:31] [Server thread/INFO]: [ChatReaction] Loading ChatReaction v1.7.1
+[00:16:31] [Server thread/INFO]: [DeluxeTags] Loading DeluxeTags v1.7.1
+[00:16:31] [Server thread/INFO]: [WeatherVote] Loading WeatherVote v1.4
+[00:16:31] [Server thread/INFO]: [AutoRestart] Loading AutoRestart v3.3.0
+[00:16:31] [Server thread/INFO]: [mcMMOHorse] Loading mcMMOHorse v4.3.28
+[00:16:31] [Server thread/INFO]: [InvRestore] Loading InvRestore v1.0
+[00:16:31] [Server thread/INFO]: [AsyncWorldEditInjector] Loading AsyncWorldEditInjector v3.5.2
+[00:16:31] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.14.2
+[00:16:31] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v4.2.17
+[00:16:31] [Server thread/INFO]: [Essentials_WarpGUI] Loading Essentials_WarpGUI v1.6.1
+[00:16:31] [Server thread/INFO]: [AdvancedReplay] Loading AdvancedReplay v1.2.2
+[00:16:31] [Server thread/INFO]: [BannerBoard] Loading BannerBoard v1.9.9
+[00:16:31] [Server thread/INFO]: [Votifier] Loading Votifier v2.3.7
+[00:16:31] [Server thread/INFO]: [UltimateWelcome] Loading UltimateWelcome v1.0
+[00:16:31] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b719
+[00:16:31] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.3.0
+[00:16:31] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.12.2) has not yet been tested! Proceed with caution.
+[00:16:31] [Server thread/INFO]: [LibsDisguises] Loading LibsDisguises v9.5.1-SNAPSHOT
+[00:16:31] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.16.1-SNAPSHOT-sMD5NET-b1148
+[00:16:31] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
+[00:16:31] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[00:16:31] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.12.2
+[00:16:31] [Server thread/INFO]: [MVdWPlaceholderAPI] Loading MVdWPlaceholderAPI v2.5.1
+[00:16:31] [Server thread/INFO]: [VotingPlugin] Loading VotingPlugin v5.13.3
+[00:16:31] [Server thread/INFO]: [AsyncWorldEdit] Loading AsyncWorldEdit v3.5.4
+[00:16:31] [Server thread/INFO]: [React] Loading React v6.568
+[00:16:31] [Server thread/INFO]: [Captcha] Loading Captcha v0.06
+[00:16:31] [Server thread/INFO]: [FeatherBoard] Loading FeatherBoard v4.9.0
+[00:16:31] [Server thread/INFO]: [ConditionalCommands] Loading ConditionalCommands v1.4
+[00:16:31] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.10-SNAPSHOT
+[00:16:31] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5.2-SNAPSHOT-b764
+[00:16:31] [Server thread/INFO]: [ServerListPlus] Loading ServerListPlus v3.4.8
+[00:16:31] [Server thread/INFO]: [Vault] Loading Vault v1.6.6-b${env.TRAVIS_BUILD_NUMBER}
+[00:16:31] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.14.0
+[00:16:31] [Server thread/INFO]: [BlockParticles] Loading BlockParticles v1.9.7.2
+[00:16:31] [Server thread/INFO]: [CrazyCrates] Loading CrazyCrates v1.8.1
+[00:16:31] [Server thread/INFO]: [UltraCosmetics] Loading UltraCosmetics v2.4.11
+[00:16:31] [Server thread/INFO]: [BKCommonLib] Loading BKCommonLib v1.12.2-v4
+[00:16:34] [Server thread/INFO]: [LWC] Loading LWC v2.0.7
+[00:16:34] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.6
+[00:16:34] [Server thread/INFO]: [Marriage] Loading Marriage v2.0.18
+[00:16:34] [Server thread/INFO]: [Marriage] Completed plugin pre-load stage.
+[00:16:34] [Server thread/INFO]: [VoteParty] Loading VoteParty v1.11.1
+[00:16:34] [Server thread/INFO]: [SEARCH] Loading SEARCH v1.7.6
+[00:16:34] [Server thread/INFO]: [EpicWorldGenerator] Loading EpicWorldGenerator v8.0.0-SNAPSHOT-4
+[00:16:35] [Server thread/INFO]: [CratesPlus] Loading CratesPlus v4.4.5
+[00:16:35] [Server thread/INFO]: [dynmap] Loading dynmap v2.6-beta-1-Dev201807082003
+[00:16:35] [Server thread/INFO]: [dynmap] version=git-Spigot-642f6d2-57ab4cf (MC: 1.12.2)
+[00:16:35] [Server thread/INFO]: [dynmap] Mod Support API available
+[00:16:35] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[00:16:35] [Server thread/INFO]: [Essentials] Loading Essentials v2.15.0.16
+[00:16:35] [Server thread/INFO]: [ChatInjector] Loading ChatInjector v1.0.0
+[00:16:35] [Server thread/INFO]: [PlayerMention] Loading PlayerMention v3.7
+[00:16:35] [Server thread/INFO]: [MCBans] Loading MCBans v4.4.4
+[00:16:35] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.8.7
+[00:16:35] [Server thread/INFO]: [mcMMOAction] Loading mcMMOAction v2.3.2
+[00:16:35] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.22-SNAPSHOT (build 1552)
+[00:16:35] [Server thread/INFO]: [AdvancedAchievements] Loading AdvancedAchievements v5.8.2
+[00:16:35] [Server thread/INFO]: [Train_Carts] Loading Train_Carts v1.12.2-v2
+[00:16:35] [Server thread/INFO]: [CrazyAuctions] Loading CrazyAuctions v1.2.5.1
+[00:16:35] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.15.0.16
+[00:16:35] [Server thread/INFO]: [Vampire] Loading Vampire v2.14.0
+[00:16:35] [Server thread/INFO]: [HolographicExtension] Loading HolographicExtension v1.9.2
+[00:16:35] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.2.1;84bc322
+[00:16:35] [Server thread/INFO]: [MythicMobs] Loading MythicMobs v4.3.2-SNAPSHOT
+[00:16:35] [Server thread/INFO]: [Quests] Loading Quests v2.0.11-beta
+[00:16:35] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.15.0.16
+[00:16:35] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.15.0.16
+[00:16:35] [Server thread/INFO]: [TitleManager] Loading TitleManager v2.0.9
+[00:16:35] [Server thread/INFO]: [RandomCoords] Loading RandomCoords v0.6.2-RELEASE
+[00:16:35] [Server thread/INFO]: [Denizen] Loading Denizen v1.0.2-SNAPSHOT (build 1649)
+[00:16:35] [Server thread/INFO]: [Towny] Loading Towny v0.92.0.11
+[00:16:35] [Server thread/INFO]: [Jobs] Loading Jobs v4.5.4
+[00:16:35] [Server thread/INFO]: [Werewolf] Loading Werewolf v1.3
+[00:16:35] [Server thread/INFO]: [SilkSpawners] Loading SilkSpawners v5.0.2
+[00:16:35] [Server thread/INFO]: [TownyChat] Loading TownyChat v0.51
+[00:16:35] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.16.3
+[00:16:35] [Server thread/INFO]: [BannerBoard_Skills] Loading BannerBoard_Skills v2.0.1
+[00:16:35] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.9-SNAPSHOT-jenkins-CraftBook-223
+[00:16:35] [Server thread/INFO]: [LeaderHeads] Loading LeaderHeads v3.1.8.3
+[00:16:35] [Server thread/INFO]: [Dynmap-Towny] Loading Dynmap-Towny v0.70
+[00:16:35] [Server thread/INFO]: [TownyGUI] Loading TownyGUI v0.17
+[00:16:35] [Server thread/INFO]: [ShopGUIPlus] Loading ShopGUIPlus v1.18.0
+[00:16:35] [Server thread/INFO]: [CrazyEnchantments] Loading CrazyEnchantments v1.7.9.3.8
+[00:16:35] [Server thread/INFO]: [ChatControl] Loading ChatControl v7.8.28
+[00:16:35] [Server thread/INFO]: [mcMMO-Towny] Loading mcMMO-Towny v1.0.0-SNAPSHOT
+[00:16:35] [Server thread/INFO]: [DeluxeChat] Loading DeluxeChat v1.12.8
+[00:16:35] [Server thread/INFO]: [BannerBoard_LeaderHeads] Loading BannerBoard_LeaderHeads v1.0.7
+[00:16:35] [Server thread/INFO]: [ConsoleSpamFix] Enabling ConsoleSpamFix v1.5.0
+[00:16:35] [Server thread/INFO]: [ConsoleSpamFix] Server version detected: 1.12.2
+[00:16:35] [Server thread/INFO]: [ConsoleSpamFix] Loading the config file...
+[00:16:35] [Server thread/INFO]: [ConsoleSpamFix] Config file loaded!
+[00:16:35] [Server thread/INFO]: [ConsoleSpamFix] ConsoleSpamFix loaded successfully!
+[00:16:35] [Server thread/INFO]: [AsyncWorldEditInjector] Enabling AsyncWorldEditInjector v3.5.2
+[00:16:35] [Server thread/INFO]: [AsyncWorldEditInjector] Injector platform set to: InjectorBukkit
+[00:16:35] [Server thread/INFO]: [AsyncWorldEditInjector] Injecting WorldEdit classes...
+[00:16:35] [Server thread/INFO]: [AsyncWorldEditInjector] Class com.sk89q.worldedit.EditSession injected.
+[00:16:35] [Server thread/INFO]: [AsyncWorldEditInjector] Class com.sk89q.worldedit.function.operation.Operations injected.
+[00:16:35] [Server thread/INFO]: [AsyncWorldEditInjector] Class com.sk89q.worldedit.function.operation.ForwardExtentCopy injected.
+[00:16:35] [Server thread/INFO]: [AsyncWorldEditInjector] Class com.sk89q.worldedit.extent.clipboard.BlockArrayClipboard injected.
+[00:16:35] [Server thread/INFO]: [AsyncWorldEditInjector] Class com.sk89q.worldedit.command.FlattenedClipboardTransform injected.
+[00:16:35] [Server thread/INFO]: [AsyncWorldEditInjector] Class com.sk89q.worldedit.command.SnapshotUtilCommands injected.
+[00:16:35] [Server thread/INFO]: [AsyncWorldEditInjector] Class com.sk89q.worldedit.extent.clipboard.io.ClipboardFormat injected.
+[00:16:35] [Server thread/INFO]: [AsyncWorldEditInjector] Enabled
+[00:16:35] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v4.2.17
+[00:16:35] [Server thread/INFO]: [0;36;1m               __       [0;36;22m __   ___  __         __  [m
+[00:16:35] [Server thread/INFO]: [0;36;1m    |    |  | /  ` |__/ [0;36;22m|__) |__  |__)  |\/| /__` [m
+[00:16:35] [Server thread/INFO]: [0;36;1m    |___ \__/ \__, |  \ [0;36;22m|    |___ |  \  |  | .__/ [m
+[00:16:35] [Server thread/INFO]:  [m
+[00:16:35] [Server thread/INFO]: [0;32;22m  Loading version [0;36;1mv4.2.17[0;32;22m on Bukkit - CraftBukkit[m
+[00:16:35] [Server thread/INFO]: [0;30;1m  Running on server version git-Spigot-642f6d2-57ab4cf (MC: 1.12.2) - 1.12.2-R0.1-SNAPSHOT[m
+[00:16:35] [Server thread/INFO]:  [m
+[00:16:35] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mLoading configuration...[m
+[00:16:35] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mLoading storage provider... [MYSQL][m
+[00:16:35] [Server thread/WARN]: 4644 [Server thread] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms - Starting...
+
+[00:16:35] [Server thread/WARN]: 4700 [Server thread] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms - Start completed.
+
+[00:16:35] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mLoading messaging service... [SQL][m
+[00:16:35] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mLoading internal permission managers...[m
+[00:16:35] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mPerforming initial data load...[m
+[00:16:36] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mSuccessfully enabled. (took 923ms)[m
+[00:16:36] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.3.0
+[00:16:36] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[00:16:36] [Server thread/INFO]: [AsyncWorldEdit] Enabling AsyncWorldEdit v3.5.4
+[00:16:36] [Server thread/INFO]: [AsyncWorldEdit] Plugin installed
+[00:16:36] [Server thread/INFO]: [AsyncWorldEdit] Platform set to Bukkit API
+[00:16:36] [Server thread/INFO]: [AsyncWorldEdit] ===================================================================================
+[00:16:36] [Server thread/INFO]: [AsyncWorldEdit] =     ___                         _       __           __    ________    ___ __   =
+[00:16:36] [Server thread/INFO]: [AsyncWorldEdit] =    /   |  _______  ______  ____| |     / /___  _____/ /___/ / ____/___/ (_) /_  =
+[00:16:36] [Server thread/INFO]: [AsyncWorldEdit] =   / /| | / ___/ / / / __ \/ ___/ | /| / / __ \/ ___/ / __  / __/ / __  / / __/  =
+[00:16:36] [Server thread/INFO]: [AsyncWorldEdit] =  / ___ |(__  ) /_/ / / / / /__ | |/ |/ / /_/ / /  / / /_/ / /___/ /_/ / / /_    =
+[00:16:36] [Server thread/INFO]: [AsyncWorldEdit] = /_/  |_/____/\__, /_/ /_/\___/ |__/|__/\____/_/  /_/\__,_/_____/\__,_/_/\__/    =
+[00:16:36] [Server thread/INFO]: [AsyncWorldEdit] =             /____/                                                              =
+[00:16:36] [Server thread/INFO]: [AsyncWorldEdit] = Author: SBPrime                                                                 =
+[00:16:36] [Server thread/INFO]: [AsyncWorldEdit] =                                                                                 =
+[00:16:36] [Server thread/INFO]: [AsyncWorldEdit] ===================================================================================
+[00:16:36] [Thread-13/INFO]: [AsyncWorldEdit] Undo cleanup started...
+[00:16:36] [Thread-13/INFO]: [AsyncWorldEdit] ...undo cleanup done.
+[00:16:36] [Server thread/INFO]: [AsyncWorldEdit] DirectChunkAPI adapter set to Spigot v1.12 R1 (1.12.1)
+[00:16:36] [Server thread/INFO]: [AsyncWorldEdit] PlotMeFix set to class org.primesoft.asyncworldedit.plotme.NullFix.
+[00:16:36] [Server thread/INFO]: [AsyncWorldEditInjector] New class factory set to: org.primesoft.asyncworldedit.injector.async.AsyncClassFactory
+[00:16:36] [Server thread/INFO]: [AsyncWorldEdit] Enabled
+[00:16:36] [Server thread/INFO]: [React] Enabling React v6.568
+[00:16:37] [Thread-14/INFO]: [AsyncWorldEdit] You have the latest version of the plugin.
+[00:16:38] [Server thread/INFO]: React: [0;37;1mLanguage: enUS[m
+[00:16:38] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.10-SNAPSHOT
+[00:16:38] [Server thread/WARN]: [mcMMO] NoCheatPlus plugin found, but CompatNoCheatPlus was not found!
+[00:16:38] [Server thread/WARN]: [mcMMO] mcMMO will not work properly alongside NoCheatPlus without CompatNoCheatPlus
+[00:16:38] [Server thread/WARN]: Fri Jul 13 00:16:38 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:16:38] [Server thread/INFO]: [mcMMO] Killing orphans
+[00:16:39] [Server thread/INFO]: [Vault] Enabling Vault v1.6.6-b${env.TRAVIS_BUILD_NUMBER}
+[00:16:39] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[00:16:39] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[00:16:39] [Server thread/INFO]: [Vault] Enabled Version 1.6.6-b${env.TRAVIS_BUILD_NUMBER}
+[00:16:39] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mRegistered Vault permission & chat hook.[m
+[00:16:39] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.14.0
+[00:16:39] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[00:16:39] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m[0;33;1mLoading Cachefile datas...[m
+[00:16:39] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m[0;33;1mLoading Onlineplayer datas...[m
+[00:16:39] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m[0;33;1mLoading Registry datas...[m
+[00:16:39] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m[0;33;1mSaving Cachefile...[m
+[00:16:39] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m[0;33;1mSetup of IdUtil took [0;35;1m26[0;33;1mms.[m
+[00:16:40] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m[0;32;1mIntegration Activated [0;35;1mIntegrationLiabilityAreaEffectCloud[m
+[00:16:40] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m[0;32;1mIntegration Activated [0;35;1mIntegrationVault[m
+[00:16:40] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m1323ms[0;33;1m) ===[m
+[00:16:40] [Server thread/INFO]: [BKCommonLib] Enabling BKCommonLib v1.12.2-v4
+[00:16:40] [Server thread/INFO]: [BKCommonLib] BKCommonLib is running on Spigot (git-Spigot-642f6d2-57ab4cf) : v1_12_R1 (Minecraft 1.12.2)
+[00:16:40] [Server thread/INFO]: [BKCommonLib] [Network] Now using the ProtocolLib library to provide Packet Listener and Monitor support
+[00:16:41] [Server thread/INFO]: [BKCommonLib] Now a plugin, a new server implementation tomorrow???
+[00:16:41] [Server thread/INFO]: [BKCommonLib] BKCommonLib version 1.12.2-v4 (build: 349) enabled! (0.86s)
+[00:16:41] [Server thread/INFO]: [LWC] Enabling LWC v2.0.7
+[00:16:41] [Server thread/INFO]: [LWC] Connecting to SQLite
+[00:16:41] [Server thread/INFO]: [LWC] Updating to 1.13 material name system.
+[00:16:41] [Server thread/INFO]: [EpicWorldGenerator] Enabling EpicWorldGenerator v8.0.0-SNAPSHOT-4
+[00:16:41] [Server thread/INFO]:  
+[00:16:41] [Server thread/INFO]:  
+[00:16:41] [Server thread/INFO]: [0;32;1m  _                              __[m
+[00:16:41] [Server thread/INFO]: [0;32;1m |_ ._  o  _ \    / _  ._ |  _| /__  _  ._   _  ._ _. _|_  _  ._ [m
+[00:16:41] [Server thread/INFO]: [0;32;1m |_ |_) | (_  \/\/ (_) |  | (_| \_| (/_ | | (/_ | (_|  |_ (_) |  [m
+[00:16:41] [Server thread/INFO]: [0;32;1m    |       [m
+[00:16:41] [Server thread/INFO]:  
+[00:16:41] [Server thread/INFO]:               Version 8.0.0-SNAPSHOT-4 | Cracked by T0R
+[00:16:41] [Server thread/INFO]:  
+[00:16:41] [Server thread/INFO]:  Documentation can be found at http://discuss.dynamic-bytes.com/p/1-wiki
+[00:16:41] [Server thread/INFO]:  
+[00:16:41] [Server thread/INFO]:  
+[00:16:41] [Server thread/INFO]:   > Loading structures (.EWG schematics)
+[00:16:42] [Server thread/INFO]:     - DECO_desert_tower
+[00:16:43] [Server thread/INFO]:     - DECO_forest_house
+[00:16:43] [Server thread/INFO]:     - DECO_jungle_tower
+[00:16:43] [Server thread/INFO]:     - DECO_portals_204
+[00:16:43] [Server thread/INFO]:     - DECO_rock_01
+[00:16:43] [Server thread/INFO]:     - DECO_rock_02
+[00:16:43] [Server thread/INFO]:     - DECO_rock_03
+[00:16:43] [Server thread/INFO]:     - DECO_rock_04
+[00:16:43] [Server thread/INFO]:     - DECO_rock_10
+[00:16:43] [Server thread/INFO]:     - DECO_rock_17
+[00:16:43] [Server thread/INFO]:     - DECO_rock_18
+[00:16:43] [Server thread/INFO]:     - DECO_rock_19
+[00:16:43] [Server thread/INFO]:     - DECO_rock_20
+[00:16:43] [Server thread/INFO]:     - DECO_rock_21
+[00:16:43] [Server thread/INFO]:     - DECO_rock_22
+[00:16:43] [Server thread/INFO]:     - DECO_rock_23
+[00:16:43] [Server thread/INFO]:     - DECO_rock_24
+[00:16:43] [Server thread/INFO]:     - DECO_rock_25
+[00:16:43] [Server thread/INFO]:     - DECO_swampBush_1
+[00:16:43] [Server thread/INFO]:     - DECO_swampPlants_1
+[00:16:43] [Server thread/INFO]:     - DECO_swampPlants_2
+[00:16:43] [Server thread/INFO]:     - DECO_swampPlants_3
+[00:16:43] [Server thread/INFO]:     - DECO_swampPlants_4
+[00:16:43] [Server thread/INFO]:     - DECO_swampRocks_1
+[00:16:43] [Server thread/INFO]:     - DECO_swampRootSmall_1
+[00:16:43] [Server thread/INFO]:     - DECO_swampRootSmall_2
+[00:16:43] [Server thread/INFO]:     - DECO_swampRootSmall_3
+[00:16:43] [Server thread/INFO]:     - DECO_swampRootSmall_4
+[00:16:43] [Server thread/INFO]:     - DECO_swampRootSmall_5
+[00:16:43] [Server thread/INFO]:     - DECO_swampRootSmall_6
+[00:16:43] [Server thread/INFO]:     - DECO_swampRoot_1
+[00:16:43] [Server thread/INFO]:     - DECO_swampRoot_2
+[00:16:43] [Server thread/INFO]:     - DECO_swampRoot_3
+[00:16:43] [Server thread/INFO]:     - DECO_swampRoot_4
+[00:16:43] [Server thread/INFO]:     - DECO_swampRoot_5
+[00:16:43] [Server thread/INFO]:     - DECO_swampRoot_6
+[00:16:43] [Server thread/INFO]:     - DECO_swampRoot_7
+[00:16:43] [Server thread/INFO]:     - TREES_birch_normal
+[00:16:43] [Server thread/INFO]:     - TREES_birch_normal_2
+[00:16:43] [Server thread/INFO]:     - TREES_birch_normal_3
+[00:16:43] [Server thread/INFO]:     - TREES_birch_normal_4
+[00:16:43] [Server thread/INFO]:     - TREES_bonsai_big
+[00:16:43] [Server thread/INFO]:     - TREES_bonsai_big_2
+[00:16:43] [Server thread/INFO]:     - TREES_bonsai_big_3
+[00:16:43] [Server thread/INFO]:     - TREES_bonsai_huge
+[00:16:43] [Server thread/INFO]:     - TREES_bonsai_medium
+[00:16:43] [Server thread/INFO]:     - TREES_bonsai_medium_2
+[00:16:43] [Server thread/INFO]:     - TREES_bonsai_normal
+[00:16:43] [Server thread/INFO]:     - TREES_bonsai_normal_2
+[00:16:43] [Server thread/INFO]:     - TREES_bonsai_small
+[00:16:43] [Server thread/INFO]:     - TREES_bonsai_tiny
+[00:16:43] [Server thread/INFO]:     - TREES_dead_big
+[00:16:43] [Server thread/INFO]:     - TREES_dead_huge
+[00:16:43] [Server thread/INFO]:     - TREES_dead_medium
+[00:16:43] [Server thread/INFO]:     - TREES_dead_medium_2
+[00:16:43] [Server thread/INFO]:     - TREES_dead_normal
+[00:16:43] [Server thread/INFO]:     - TREES_dead_normal_2
+[00:16:43] [Server thread/INFO]:     - TREES_fantasy_normal
+[00:16:43] [Server thread/INFO]:     - TREES_fantasy_normal_2
+[00:16:43] [Server thread/INFO]:     - TREES_fantasy_small
+[00:16:43] [Server thread/INFO]:     - TREES_fantasy_small_2
+[00:16:43] [Server thread/INFO]:     - TREES_fantasy_small_3
+[00:16:43] [Server thread/INFO]:     - TREES_forgottenForest_medium
+[00:16:43] [Server thread/INFO]:     - TREES_forgottenForest_medium_4
+[00:16:43] [Server thread/INFO]:     - TREES_forgottenForest_medium_5
+[00:16:43] [Server thread/INFO]:     - TREES_forgottenForest_normal_2
+[00:16:43] [Server thread/INFO]:     - TREES_forgottenForest_normal_3
+[00:16:43] [Server thread/INFO]:     - TREES_jungle_big
+[00:16:43] [Server thread/INFO]:     - TREES_jungle_huge
+[00:16:43] [Server thread/INFO]:     - TREES_jungle_medium
+[00:16:43] [Server thread/INFO]:     - TREES_jungle_normal
+[00:16:43] [Server thread/INFO]:     - TREES_jungle_normal_2
+[00:16:43] [Server thread/INFO]:     - TREES_jungle_normal_3
+[00:16:43] [Server thread/INFO]:     - TREES_jungle_normal_4
+[00:16:43] [Server thread/INFO]:     - TREES_jungle_small
+[00:16:43] [Server thread/INFO]:     - TREES_jungle_small_2
+[00:16:43] [Server thread/INFO]:     - TREES_jungle_small_3
+[00:16:43] [Server thread/INFO]:     - TREES_nether_normal
+[00:16:43] [Server thread/INFO]:     - TREES_oakTree_huge_1
+[00:16:43] [Server thread/INFO]:     - TREES_oakTree_huge_2
+[00:16:43] [Server thread/INFO]:     - TREES_oakTree_huge_3
+[00:16:43] [Server thread/INFO]:     - TREES_oakTree_normal_4
+[00:16:43] [Server thread/INFO]:     - TREES_oldtree_normal_1
+[00:16:43] [Server thread/INFO]:     - TREES_oldtree_normal_2
+[00:16:43] [Server thread/INFO]:     - TREES_pineLong_huge_4
+[00:16:43] [Server thread/INFO]:     - TREES_pineLong_normal_1
+[00:16:43] [Server thread/INFO]:     - TREES_pineLong_normal_2
+[00:16:43] [Server thread/INFO]:     - TREES_pineLong_normal_3
+[00:16:43] [Server thread/INFO]:     - TREES_pine_big
+[00:16:43] [Server thread/INFO]:     - TREES_pine_huge
+[00:16:43] [Server thread/INFO]:     - TREES_pine_medium
+[00:16:43] [Server thread/INFO]:     - TREES_pine_normal
+[00:16:43] [Server thread/INFO]:     - TREES_pine_normal_2
+[00:16:43] [Server thread/INFO]:     - TREES_pine_small
+[00:16:43] [Server thread/INFO]:     - TREES_pine_small_2
+[00:16:43] [Server thread/INFO]:     - TREES_pine_small_3
+[00:16:43] [Server thread/INFO]:     - TREES_pine_tiny
+[00:16:43] [Server thread/INFO]:     - TREES_pine_tiny_2
+[00:16:43] [Server thread/INFO]:     - TREES_scotsPine_normal_10
+[00:16:43] [Server thread/INFO]:     - TREES_scotsPine_normal_11
+[00:16:43] [Server thread/INFO]:     - TREES_scotsPine_normal_12
+[00:16:43] [Server thread/INFO]:     - TREES_scotsPine_normal_6
+[00:16:43] [Server thread/INFO]:     - TREES_scotsPine_normal_8
+[00:16:43] [Server thread/INFO]:     - TREES_scotsPine_normal_9
+[00:16:43] [Server thread/INFO]:     - TREES_snowyPine_normal_01
+[00:16:43] [Server thread/INFO]:     - TREES_snowyPine_normal_02
+[00:16:43] [Server thread/INFO]:     - TREES_snowyPine_normal_03
+[00:16:44] [Server thread/INFO]:     - TREES_stoneForest_normal
+[00:16:44] [Server thread/INFO]:     - TREES_stoneForest_normal_2
+[00:16:44] [Server thread/INFO]:     - TREES_stoneForest_normal_3
+[00:16:44] [Server thread/INFO]:     - TREES_swamp_huge_1
+[00:16:44] [Server thread/INFO]:     - TREES_swamp_huge_2
+[00:16:44] [Server thread/INFO]:     - TREES_swamp_medium_1
+[00:16:44] [Server thread/INFO]:     - TREES_swamp_medium_2
+[00:16:44] [Server thread/INFO]:     - TREES_swamp_medium_3
+[00:16:44] [Server thread/INFO]:     - TREES_swamp_small_1
+[00:16:44] [Server thread/INFO]:     - TREES_tropicalForest_medium_1
+[00:16:44] [Server thread/INFO]:     - TREES_tropicalForest_medium_2
+[00:16:44] [Server thread/INFO]:     - TREES_tropicalForest_medium_3
+[00:16:44] [Server thread/INFO]:     - TREES_tropicalForest_medium_4
+[00:16:44] [Server thread/INFO]:     - TREES_tropicalForest_small_1
+[00:16:44] [Server thread/INFO]:     - TREES_willow_big
+[00:16:44] [Server thread/INFO]:     - TREES_willow_big_2
+[00:16:44] [Server thread/INFO]:     - TREES_willow_huge
+[00:16:44] [Server thread/INFO]:     - TREES_willow_medium
+[00:16:44] [Server thread/INFO]:     - TREES_willow_medium_2
+[00:16:44] [Server thread/INFO]:     - TREES_willow_normal
+[00:16:44] [Server thread/INFO]:     - TREES_willow_small
+[00:16:44] [Server thread/INFO]:     - TREES_willow_tiny
+[00:16:44] [Server thread/INFO]:     - TREES_willow_tiny_2
+[00:16:44] [Server thread/INFO]:     - TREES_willow_tiny_3
+[00:16:44] [Server thread/INFO]:  
+[00:16:44] [Server thread/INFO]:   > Loading configuration
+[00:16:44] [Server thread/INFO]: [MVdW] EpicWorldGenerator added custom placeholder {ewgbiome}
+[00:16:44] [Server thread/INFO]:  
+[00:16:44] [Server thread/INFO]: Done
+[00:16:44] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[00:16:44] [Server thread/INFO]: Preparing level "world"
+[00:16:44] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:16:44] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:16:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:16:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:16:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:16:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:16:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:16:44] [Server thread/INFO]: View Distance: 10
+[00:16:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:16:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[00:16:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:16:44] [Server thread/INFO]: Random Lighting Updates: false
+[00:16:44] [Server thread/INFO]: Structure Info Saving: true
+[00:16:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:16:44] [Server thread/INFO]: Mob Spawn Range: 4
+[00:16:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:16:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:16:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:16:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:16:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:16:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:16:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:16:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:16:44] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:16:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:16:44] [Server thread/INFO]: Max TNT Explosions: 100
+[00:16:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:16:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:16:45] [Server thread/INFO]: CUSTOM TERRAIN: Scots pine forest
+[00:16:45] [Server thread/INFO]: [0;32;1m~~~~~~~~~~~~[ EWG Settings for world ]~~~~~~~~~~~~[m
+[00:16:45] [Server thread/INFO]: [m
+[00:16:45] [Server thread/INFO]: [0;37;22mBiomes that will generated;[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Mesa[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Farmland[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Tropical Forest[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Volcano[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Deciduous Forest[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * River[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Deep Ocean[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Birch Forest[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Fantasy Forest[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Bonsai Forest[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Pine Forest[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Plains[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Bonsai Forest[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Jungle[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Desert[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Ocean[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Forgotten Forest[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Stone Forest[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Scots pine forest[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Swamp[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Swamp Edge[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Snowy Pine[m
+[00:16:45] [Server thread/INFO]: [0;37;22m * Mega Taiga[m
+[00:16:45] [Server thread/INFO]: [0;37;22m[0;37;22m * Mega Spruce Taiga[m
+[00:16:45] [Server thread/INFO]: [0;37;22m[0;37;22m * Savanna[m
+[00:16:45] [Server thread/INFO]: [0;37;22m[0;37;22m * Swampland[m
+[00:16:45] [Server thread/INFO]: [m
+[00:16:45] [Server thread/INFO]: [0;37;22mGenerator version: 8.0.0-SNAPSHOT-4[m
+[00:16:45] [Server thread/INFO]: [m
+[00:16:45] [Server thread/INFO]: Biomes in total: 26[m
+[00:16:45] [Server thread/INFO]: Preparing world injection[m
+[00:16:45] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:16:45] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:16:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:16:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:16:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:16:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:16:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:16:45] [Server thread/INFO]: View Distance: 10
+[00:16:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:16:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[00:16:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:16:45] [Server thread/INFO]: Random Lighting Updates: false
+[00:16:45] [Server thread/INFO]: Structure Info Saving: true
+[00:16:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:16:45] [Server thread/INFO]: Mob Spawn Range: 4
+[00:16:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: Max TNT Explosions: 100
+[00:16:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:16:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:16:45] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:16:45] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:16:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:16:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:16:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:16:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:16:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:16:45] [Server thread/INFO]: View Distance: 10
+[00:16:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:16:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[00:16:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:16:45] [Server thread/INFO]: Random Lighting Updates: false
+[00:16:45] [Server thread/INFO]: Structure Info Saving: true
+[00:16:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:16:45] [Server thread/INFO]: Mob Spawn Range: 4
+[00:16:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:16:45] [Server thread/INFO]: Max TNT Explosions: 100
+[00:16:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:16:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:16:45] [Server thread/INFO]: Preparing start region for level 0 (Seed: -2366962376581760680)
+[00:16:46] [Server thread/INFO]: Preparing spawn area: 0%
+[00:16:47] [Server thread/INFO]: Preparing start region for level 1 (Seed: -2366962376581760680)
+[00:16:48] [Server thread/INFO]: Preparing start region for level 2 (Seed: -2366962376581760680)
+[00:16:48] [Server thread/INFO]: [LetterHeads] Enabling LetterHeads v18.2
+[00:16:48] [Server thread/INFO]: [LetterHeads] Version 18.2 was successfully enabled!
+[00:16:48] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.40
+[00:16:48] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.9.1
+[00:16:48] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[00:16:48] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: deluxetags
+[00:16:48] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: player
+[00:16:48] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: statistic
+[00:16:48] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: towny
+[00:16:48] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: vault
+[00:16:48] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: voteparty
+[00:16:48] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: VotingPlugin
+[00:16:48] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[00:16:48] [Server thread/INFO]: [DeluxeCommands] Enabling DeluxeCommands v1.7.0
+[00:16:48] [Server thread/INFO]: [DeluxeCommands] Successfully setup compatibility with Spigot!
+[00:16:48] [Server thread/INFO]: [DeluxeCommands] 4 commands loaded!
+[00:16:48] [Server thread/INFO]: [DeluxeCommands] Hooked into PlaceholderAPI for placeholders!
+[00:16:48] [Server thread/INFO]: [DeluxeJoin] Enabling DeluxeJoin v2.5.0
+[00:16:48] [Server thread/INFO]: [DeluxeJoin] 1 DeluxeJoinFormats loaded!
+[00:16:48] [Server thread/INFO]: [DeluxeJoin] 1 DeluxeMotds loaded!
+[00:16:48] [Server thread/INFO]: [DeluxeJoin] First join message is enabled!
+[00:16:48] [Server thread/INFO]: [DeluxeJoin] Succesfully hooked into PlaceholderAPI for placeholders!
+[00:16:48] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.1.5
+[00:16:48] [Server thread/INFO]: [RecipeFinder] Enabling RecipeFinder v2.2
+[00:16:48] [Server thread/INFO]: [RecipeFinder] Checking for language update...
+[00:16:49] [Server thread/INFO]: [RecipeFinder] Language file detected: en_US.default.lang
+[00:16:49] [Server thread/INFO]: [RewardPRO] Enabling RewardPRO v3.17
+[00:16:49] [Server thread/INFO]: [RewardPRO] eu.superm.minecraft.rewardpro.hauptklasse.Main: - isVoting: false
+[00:16:49] [Server thread/INFO]: [0;36;22m[21mRewardPro >>> Plugin RewardPro is enabled with version: 3.17[m
+[00:16:50] [Server thread/INFO]: [ChatReaction] Enabling ChatReaction v1.7.1
+[00:16:50] [Server thread/INFO]: [ChatReaction] You are using Spigot! Tooltips in reaction start messages are enabled!
+[00:16:50] [Server thread/INFO]: [ChatReaction] 0 words loaded!
+[00:16:50] [Server thread/INFO]: [ChatReaction] Creating MySQL connection ...
+[00:16:50] [Server thread/WARN]: Fri Jul 13 00:16:50 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:16:50] [Server thread/INFO]: ---------------------------
+[00:16:50] [Server thread/INFO]:      ChatReaction Updater
+[00:16:50] [Server thread/INFO]:  
+[00:16:50] [Server thread/INFO]: Could not connect to spigotmc.org
+[00:16:50] [Server thread/INFO]: to check for updates! 
+[00:16:50] [Server thread/INFO]:  
+[00:16:50] [Server thread/INFO]: ---------------------------
+[00:16:50] [Server thread/INFO]: ---------------------------
+[00:16:50] [Server thread/INFO]:      ChatReaction Updater
+[00:16:50] [Server thread/INFO]:  
+[00:16:50] [Server thread/INFO]: You are running 1.7.1
+[00:16:50] [Server thread/INFO]: The latest version
+[00:16:50] [Server thread/INFO]: of ChatReaction!
+[00:16:50] [Server thread/INFO]:  
+[00:16:50] [Server thread/INFO]: ---------------------------
+[00:16:50] [Server thread/INFO]: [DeluxeTags] Enabling DeluxeTags v1.7.1
+[00:16:50] [Server thread/INFO]: [DeluxeTags] 53 tags loaded
+[00:16:50] [Server thread/INFO]: [DeluxeTags] Loading DeluxeTags messages.yml
+[00:16:50] [Server thread/INFO]: [DeluxeTags] DeluxeChat will handle fetching placeholders for tags!
+[00:16:50] [Server thread/INFO]: ----------------------------
+[00:16:50] [Server thread/INFO]:      DeluxeTags Updater
+[00:16:50] [Server thread/INFO]:  
+[00:16:50] [Server thread/INFO]: Could not connect to spigotmc.org
+[00:16:50] [Server thread/INFO]: to check for updates! 
+[00:16:50] [Server thread/INFO]:  
+[00:16:50] [Server thread/INFO]: ----------------------------
+[00:16:50] [Server thread/INFO]: ----------------------------
+[00:16:50] [Server thread/INFO]:      DeluxeTags Updater
+[00:16:50] [Server thread/INFO]:  
+[00:16:50] [Server thread/INFO]: You are running 1.7.1
+[00:16:50] [Server thread/INFO]: The latest version
+[00:16:50] [Server thread/INFO]: of DeluxeTags!
+[00:16:50] [Server thread/INFO]:  
+[00:16:50] [Server thread/INFO]: ----------------------------
+[00:16:50] [Server thread/INFO]: [WeatherVote] Enabling WeatherVote v1.4
+[00:16:50] [Server thread/INFO]: [WeatherVote] a Plugin by F_o_F_1092
+[00:16:50] [Server thread/INFO]: [0m[1m[37m[[0m[1m[34mWeather[0m[1m[36mVote[0m[1m[37m][0m[1m[34m ServerType:[0m[1m[36m Bukkit/Spigot[0m[1m[34m, Version:[0m[1m[36m v1_12_R1[0m
+[00:16:50] [Server thread/INFO]: [AutoRestart] Enabling AutoRestart v3.3.0
+[00:16:50] [Server thread/INFO]: [0;32;1m[AutoRestart] Loaded![m
+[00:16:50] [Server thread/INFO]: [mcMMOHorse] Enabling mcMMOHorse v4.3.28
+[00:16:50] [Server thread/INFO]: Loading Death Mane
+[00:16:50] [Server thread/INFO]: Loading Chunky Potato
+[00:16:50] [Server thread/INFO]: Loading Fluffy Poops A Lot
+[00:16:50] [Server thread/INFO]: [InvRestore] Enabling InvRestore v1.0
+[00:16:50] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.14.2
+[00:16:51] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[00:16:51] [Server thread/INFO]: [CoreProtect] Using MySQL for data storage.
+[00:16:51] [Server thread/INFO]: [Essentials_WarpGUI] Enabling Essentials_WarpGUI v1.6.1
+[00:16:51] [Server thread/INFO]: [AdvancedReplay] Enabling AdvancedReplay v1.2.2
+[00:16:51] [Server thread/INFO]: [Replay] Loading Replay v1.2.2 by Jumper251
+[00:16:51] [Server thread/INFO]: [Replay] Finished (12ms)
+[00:16:51] [Server thread/INFO]: [BannerBoard] Enabling BannerBoard v1.9.9
+[00:16:51] [Server thread/INFO]: [Votifier] Enabling Votifier v2.3.7
+[00:16:51] [Server thread/INFO]: [Votifier] Loaded token for website: default
+[00:16:51] [Server thread/INFO]: [Votifier] Method none selected for vote forwarding: Votes will not be received from a forwarder.
+[00:16:51] [nioEventLoopGroup-2-1/INFO]: [Votifier] Votifier enabled on socket /0:0:0:0:0:0:0:0:8192.
+[00:16:51] [Server thread/INFO]: [UltimateWelcome] Enabling UltimateWelcome v1.0
+[00:16:51] [Server thread/INFO]: [m
+[00:16:51] [Server thread/INFO]: [0;32;1mUltimateWelcome enabled![m
+[00:16:51] [Server thread/INFO]: [m
+[00:16:51] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b719
+[00:16:52] [Server thread/INFO]: -------- World Settings For [spawn] --------
+[00:16:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:16:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:16:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:16:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:16:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:16:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:16:52] [Server thread/INFO]: View Distance: 10
+[00:16:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:16:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[00:16:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:16:52] [Server thread/INFO]: Random Lighting Updates: false
+[00:16:52] [Server thread/INFO]: Structure Info Saving: true
+[00:16:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:16:52] [Server thread/INFO]: Mob Spawn Range: 4
+[00:16:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:16:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:16:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:16:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:16:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:16:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:16:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:16:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:16:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:16:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:16:52] [Server thread/INFO]: Max TNT Explosions: 100
+[00:16:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:16:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:16:52] [Server thread/INFO]: Preparing start region for level 3 (Seed: 0)
+[00:16:53] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[00:16:53] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b719 (API v20) Enabled - By Rigby, fernferret, lithium3141 and main--
+[00:16:53] [Server thread/INFO]: [LibsDisguises] Enabling LibsDisguises v9.5.1-SNAPSHOT
+[00:16:53] [Server thread/INFO]: [LibsDisguises] Discovered nms version: v1_12_R1
+[00:16:53] [Server thread/INFO]: [LibsDisguises] Loaded custom disguise libraryaddict
+[00:16:53] [Server thread/INFO]: [LibsDisguises] Loaded 1 custom disguise
+[00:16:54] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.16.1-SNAPSHOT-sMD5NET-b1148
+[00:16:54] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.12-1.12.2 / Spigot-CB-1.12_R1
+[00:16:54] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[00:16:54] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[00:16:54] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[00:16:54] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
+[00:16:54] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.9 blocks.
+[00:16:54] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.10 blocks.
+[00:16:54] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.11 blocks.
+[00:16:54] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.12 blocks.
+[00:16:54] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[00:16:54] [Server thread/INFO]: [NoCheatPlus] Adding packet level hooks for ProtocolLib (MC 1.12.2)...
+[00:16:54] [Server thread/INFO]: [NoCheatPlus] Confirm teleport packet available (via name): TELEPORT_ACCEPT[class=PacketPlayInTeleportAccept, id=0]
+[00:16:54] [Server thread/INFO]: [NoCheatPlus] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance
+[00:16:54] [Server thread/INFO]: [NoCheatPlus] Force disable FastHeal on Minecraft 1.9 and later.
+[00:16:54] [Server thread/INFO]: [NoCheatPlus] Version 3.16.1-SNAPSHOT-sMD5NET-b1148 is enabled.
+[00:16:54] [Server thread/INFO]: [MVdWPlaceholderAPI] Enabling MVdWPlaceholderAPI v2.5.1
+[00:16:54] [Server thread/INFO]: [MVdWPlaceholderAPI] Initializing ...
+[00:16:54] [Server thread/INFO]: [MVdWPlaceholderAPI] Sending metrics ...
+[00:16:54] [Server thread/INFO]: [VotingPlugin] Enabling VotingPlugin v5.13.3
+[00:16:54] [Server thread/WARN]: 23665 [Server thread] INFO com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+
+[00:16:54] [Server thread/WARN]: 23684 [Server thread] INFO com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+
+[00:16:54] [Server thread/INFO]: [VotingPlugin] Enabled VotingPlugin 5.13.3
+[00:16:54] [Server thread/INFO]: [Captcha] Enabling Captcha v0.06
+[00:16:55] [Server thread/INFO]: [FeatherBoard] Enabling FeatherBoard v4.9.0
+[00:16:55] [Server thread/INFO]: [FeatherBoard] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[00:16:55] [Server thread/INFO]: [FeatherBoard] Plugin: FeatherBoard v4.9.0
+[00:16:55] [Server thread/INFO]: [FeatherBoard] Framework version: 2018-06
+[00:16:55] [Server thread/INFO]: [FeatherBoard] Author: Maximvdw (Maxim Van de Wynckel)
+[00:16:55] [Server thread/INFO]: [FeatherBoard] Site: https://www.mvdw-software.com/
+[00:16:55] [Server thread/INFO]: [FeatherBoard] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[00:16:55] [Server thread/INFO]: [FeatherBoard] Loading database driver ...
+[00:16:55] [Server thread/INFO]: [FeatherBoard] Loading dependency Javax Persistence 2.1.0 ...
+[00:16:55] [Server thread/INFO]: [FeatherBoard] Javax Persistence 2.1.0 is now loaded!
+[00:16:55] [Server thread/INFO]: [FeatherBoard] Loading dependency ORMLite 5 ...
+[00:16:55] [Server thread/INFO]: [FeatherBoard] ORMLite 5 is now loaded!
+[00:16:55] [Server thread/INFO]: [FeatherBoard] Loading dependency ORMLite 5 JDBC ...
+[00:16:55] [Server thread/INFO]: [FeatherBoard] ORMLite 5 JDBC is now loaded!
+[00:16:55] [Server thread/INFO]: [FeatherBoard] Loading configuration ...
+[00:16:55] [Server thread/INFO]: [FeatherBoard] Loading messages ...
+[00:16:55] [Server thread/INFO]: [FeatherBoard] Loading language file: lang_en
+[00:16:55] [Server thread/INFO]: [FeatherBoard] Loading placeholders and event triggers ...
+[00:16:55] [Server thread/INFO]: [FeatherBoard] Loading internal placeholders ...
+[00:16:55] [Server thread/INFO]: [FeatherBoard] Fetching available placeholders from server ...
+[00:16:56] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Armor] ...
+[00:16:56] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Bukkit] ...
+[00:16:56] [Server thread/INFO]: [FeatherBoard] Loading placeholder [BungeeCord] ...
+[00:16:56] [Server thread/INFO]: [FeatherBoard] Loading placeholder [ChatReaction] ...
+[00:16:57] [Server thread/INFO]: [FeatherBoard] Loading event hook: ChatReaction start event ...
+[00:16:57] [Server thread/INFO]: [FeatherBoard] Loading event hook: ChatReaction start event ...
+[00:16:57] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Color] ...
+[00:16:57] [Server thread/INFO]: [FeatherBoard] Loading placeholder [CommandPlaceholderPack] ...
+[00:16:57] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Compass placeholders] ...
+[00:16:57] [Server thread/INFO]: [FeatherBoard] Loading placeholder [CustomList] ...
+[00:16:57] [Server thread/INFO]: [FeatherBoard] Loading placeholder [DeluxeTags] ...
+[00:16:57] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Economy] ...
+[00:16:57] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Effects] ...
+[00:16:57] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Entities] ...
+[00:16:57] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Essentials] ...
+[00:16:57] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Facebook] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [FireworkEffect] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Geographical] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Hotbar] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [JavaInfo] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [JobsReborn] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [LWC] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [LeaderHeads] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [LibsDisguises] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Marriage] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Memory] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Multiverse-Core] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Permissions] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [PlaceholderAPI] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Player] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Previous Names] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Quests] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [RedisBungee] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [ServerPinger] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Sound Effects] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Statistics] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [TicksPerSecond] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Towny] ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading event hook: Towny Town ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Enabling event hook: Towny Town!
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading event hook: Towny Town ...
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Enabling event hook: Towny Town!
+[00:16:58] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Twitter] ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading placeholder [Unicode Characters] ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading placeholder [VanillaEvents] ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Combat hook ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Enabling event hook: Vanilla Combat hook!
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Block break hook ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Block place hook ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla player rejoin ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla player join ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Death hook ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Create portal hook ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla player first join ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Combat hook ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Enabling event hook: Vanilla Combat hook!
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Block break hook ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Block place hook ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla player rejoin ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla player join ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Death hook ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla Create portal hook ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: Vanilla player first join ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading placeholder [VoteParty] ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading placeholder [World] ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading placeholder [WorldBorder] ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading placeholder [WorldGuard] ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: WorldGuard Region ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: WorldGuard Region ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading placeholder [mcMMO] ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: mcMMO Party Level up ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: mcMMO Level up event ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Enabling event hook: mcMMO Level up event!
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: mcMMO Level down event ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: mcMMO Party Level up ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: mcMMO Level up event ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Enabling event hook: mcMMO Level up event!
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading event hook: mcMMO Level down event ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Checking for placeholder updates ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loaded 3373 of the 3373 placholders
+[00:16:59] [Server thread/INFO]: [MVdWPlaceholderAPI] Hooked into MVdW plugin: FeatherBoard
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading custom effect 'example1' ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Creating new custom effect: example1
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading custom effect 'example2' ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Creating new custom effect: example2
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Loading custom effect 'example3' ...
+[00:16:59] [Server thread/INFO]: [FeatherBoard] Creating new custom effect: example3
+[00:17:00] [Server thread/INFO]: [FeatherBoard] Using OPTIMAL as the update strategy
+[00:17:00] [Server thread/INFO]: [FeatherBoard] Loading scoreboard 'benchmark' ...
+[00:17:00] [Server thread/INFO]: [FeatherBoard] Loading scoreboard 'combat-scoreboard-example' ...
+[00:17:00] [Server thread/INFO]: [FeatherBoard] Loading scoreboard 'default' ...
+[00:17:00] [Server thread/INFO]: [FeatherBoard] Loading scoreboard 'mcmmo-levelup' ...
+[00:17:00] [Server thread/INFO]: [FeatherBoard] Loading scoreboard 'towny-town-example' ...
+[00:17:00] [Server thread/INFO]: [FeatherBoard] Added 'PERMISSION' as the default scoreboard assign method
+[00:17:00] [Server thread/INFO]: [FeatherBoard] Generating metrics information ...
+[00:17:01] [Server thread/INFO]: [0;35;22m[[0;34;1mFeatherBoard[0;35;22m] [0;32;1mYour version is up to date![m
+[00:17:02] [Server thread/INFO]: [FeatherBoard] Toggle persistence is disabled!
+[00:17:02] [Server thread/INFO]: [FeatherBoard] Adding command 'featherboard'
+[00:17:02] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5.2-SNAPSHOT-b764
+[00:17:02] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5.2-SNAPSHOT-b764 Enabled - By Rigby and fernferret
+[00:17:02] [Server thread/INFO]: [MVPLogging] 0 - Portals(s) loaded
+[00:17:02] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
+[00:17:02] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.4.8
+[00:17:02] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
+[00:17:02] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
+[00:17:02] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
+[00:17:02] [Server thread/INFO]: [ServerListPlus] [Core] Reloading saved player identities...
+[00:17:02] [Server thread/INFO]: [ServerListPlus] Successfully loaded!
+[00:17:02] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.4.8 enabled.
+[00:17:02] [Server thread/INFO]: [BlockParticles] Enabling BlockParticles v1.9.7.2
+[00:17:02] [Server thread/INFO]: [CrazyCrates] Enabling CrazyCrates v1.8.1
+[00:17:02] [Server thread/INFO]: [CrazyCrates] Loading the config.yml
+[00:17:02] [Server thread/INFO]: [CrazyCrates] Successfully loaded config.yml
+[00:17:02] [Server thread/INFO]: [CrazyCrates] Loading the Messages.yml
+[00:17:02] [Server thread/INFO]: [CrazyCrates] Successfully loaded Messages.yml
+[00:17:02] [Server thread/INFO]: [CrazyCrates] Loading the Locations.yml
+[00:17:02] [Server thread/INFO]: [CrazyCrates] Successfully loaded Locations.yml
+[00:17:02] [Server thread/INFO]: [CrazyCrates] Loading the data.yml
+[00:17:02] [Server thread/INFO]: [CrazyCrates] Successfully loaded data.yml
+[00:17:02] [Server thread/INFO]: [CrazyCrates] Loading custom files.
+[00:17:02] [Server thread/INFO]: [CrazyCrates] Loaded custom file: /Crates/Basic.yml.
+[00:17:02] [Server thread/INFO]: [CrazyCrates] Loaded custom file: /Crates/Classic.yml.
+[00:17:02] [Server thread/INFO]: [CrazyCrates] Loaded custom file: /Crates/Crazy.yml.
+[00:17:02] [Server thread/INFO]: [CrazyCrates] Loaded custom file: /Crates/Galactic.yml.
+[00:17:02] [Server thread/INFO]: [CrazyCrates] Finished loading custom files.
+[00:17:02] [Server thread/INFO]: [CrazyCrates] Loading all crate information...
+[00:17:02] [Server thread/INFO]: [CrazyCrates] All crate information has been loaded.
+[00:17:02] [Server thread/INFO]: [CrazyCrates] Loading all the physical crate locations.
+[00:17:02] [Server thread/INFO]: [CrazyCrates] Cleaning up the data.yml file.
+[00:17:02] [Server thread/INFO]: [CrazyCrates] 1 player's data has been marked to be removed.
+[00:17:02] [Server thread/INFO]: [CrazyCrates] All empty player data has been removed.
+[00:17:02] [Server thread/INFO]: [CrazyCrates] The data.yml file has been cleaned.
+[00:17:02] [Server thread/INFO]: [MVdWPlaceholderAPI] CrazyCrates added custom placeholder {crazycrates_me.badbones69.crazycrates.api.objects.crate@224e0036}
+[00:17:02] [Server thread/INFO]: [MVdWPlaceholderAPI] CrazyCrates added custom placeholder {crazycrates_me.badbones69.crazycrates.api.objects.crate@3d03f8ef}
+[00:17:02] [Server thread/INFO]: [MVdWPlaceholderAPI] CrazyCrates added custom placeholder {crazycrates_me.badbones69.crazycrates.api.objects.crate@41bb33f7}
+[00:17:02] [Server thread/INFO]: [MVdWPlaceholderAPI] CrazyCrates added custom placeholder {crazycrates_me.badbones69.crazycrates.api.objects.crate@44036d13}
+[00:17:02] [Server thread/INFO]: [UltraCosmetics] Enabling UltraCosmetics v2.4.11
+[00:17:02] [Server thread/INFO]: 07/13/2018 - UltraCosmetics [INFO]: -------------------------------------------------------------------
+[00:17:02] [Server thread/INFO]: 07/13/2018 - UltraCosmetics [INFO]: UltraCosmetics v2.4.11 is loading... (server: 1.12)
+[00:17:02] [Server thread/INFO]: 07/13/2018 - UltraCosmetics [INFO]: Thanks for downloading it!
+[00:17:02] [Server thread/INFO]: 07/13/2018 - UltraCosmetics [INFO]: Plugin by iSach.
+[00:17:02] [Server thread/INFO]: 07/13/2018 - UltraCosmetics [INFO]: Link: http://bit.ly/UltraCosmetics
+[00:17:03] [Server thread/INFO]: 07/13/2018 - UltraCosmetics [INFO]: Initializing module v1_12_R1
+[00:17:03] [Server thread/INFO]: 07/13/2018 - UltraCosmetics [INFO]: Module initialized
+[00:17:03] [Server thread/INFO]: 07/13/2018 - UltraCosmetics [INFO]: 
+[00:17:03] [Server thread/INFO]: 07/13/2018 - UltraCosmetics [INFO]: Hooked into PlaceholderAPI
+[00:17:03] [Server thread/INFO]: 07/13/2018 - UltraCosmetics [INFO]: 
+[00:17:03] [Server thread/INFO]: 07/13/2018 - UltraCosmetics [INFO]: 
+[00:17:03] [Server thread/INFO]: 07/13/2018 - UltraCosmetics [INFO]: Hooked into Vault for economy: Essentials Economy
+[00:17:03] [Server thread/INFO]: 07/13/2018 - UltraCosmetics [INFO]: 
+[00:17:03] [Server thread/INFO]: 07/13/2018 - UltraCosmetics [INFO]: 
+[00:17:03] [Server thread/INFO]: 07/13/2018 - UltraCosmetics [INFO]: Connecting to MySQL database...
+[00:17:03] [Server thread/INFO]: 07/13/2018 - UltraCosmetics [INFO]: Connected to MySQL database.
+[00:17:03] [Server thread/INFO]: 07/13/2018 - UltraCosmetics [INFO]: 
+[00:17:05] [Server thread/INFO]: 07/13/2018 - UltraCosmetics [INFO]: UltraCosmetics successfully finished loading and is now enabled!
+[00:17:05] [Server thread/INFO]: 07/13/2018 - UltraCosmetics [INFO]: -------------------------------------------------------------------
+[00:17:05] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.6
+[00:17:05] [Server thread/INFO]: [HolographicDisplays] Found ProtocolLib, using new version.
+[00:17:05] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[00:17:05] [Server thread/INFO]: [Marriage] Enabling Marriage v2.0.18
+[00:17:05] [Server thread/INFO]: [Marriage] Loading config...
+[00:17:05] [Server thread/INFO]: [Marriage] Hooked with LuckPerms using Vault!
+[00:17:05] [Server thread/INFO]: [Marriage] Loading dependencies...
+[00:17:05] [Server thread/INFO]: [Marriage] Loading commands...
+[00:17:05] [Server thread/INFO]: [Marriage] Loading database...
+[00:17:05] [Server thread/WARN]: Fri Jul 13 00:17:05 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:17:05] [Server thread/INFO]: [Marriage] Loading listeners...
+[00:17:05] [Server thread/INFO]: [Marriage] Loading updater...
+[00:17:05] [Server thread/INFO]: [Marriage] Loading converter...
+[00:17:05] [Server thread/INFO]: [Marriage] Completed plugin load stage.
+[00:17:05] [Server thread/INFO]: [VoteParty] Enabling VoteParty v1.11.1
+[00:17:06] [Server thread/INFO]: ---------------------------
+[00:17:06] [Server thread/INFO]:      VoteParty Updater
+[00:17:06] [Server thread/INFO]:  
+[00:17:06] [Server thread/INFO]: You are running 1.11.1
+[00:17:06] [Server thread/INFO]: The latest version
+[00:17:06] [Server thread/INFO]: of VoteParty!
+[00:17:06] [Server thread/INFO]:  
+[00:17:06] [Server thread/INFO]: ---------------------------
+[00:17:06] [Server thread/INFO]: [SEARCH] Enabling SEARCH v1.7.6
+[00:17:06] [Server thread/INFO]: [SEARCH] Loading SEARCH Anticheat v1.7.6 by Jumper251
+[00:17:06] [Server thread/INFO]: [SEARCH] Registered 15 modules.
+[00:17:06] [Server thread/INFO]: [SEARCH] Cannot use create_replay log_violations needs to be enabled.
+[00:17:06] [Server thread/INFO]: [SEARCH] Finished (114ms)
+[00:17:06] [Server thread/INFO]: [CratesPlus] Enabling CratesPlus v4.4.5
+[00:17:06] [Server thread/INFO]: [0;36;1mCratesPlus Version 4.4.5[m
+[00:17:06] [Server thread/INFO]: [0;32;1mHolographicDisplays was found, hooking in![m
+[00:17:06] [Server thread/INFO]: [dynmap] Enabling dynmap v2.6-beta-1-Dev201807082003
+[00:17:07] [Server thread/INFO]: [dynmap] Using LuckPerms 4.2.17 for access control
+[00:17:07] [Server thread/INFO]: [dynmap] Opening MySQL database localhost:3306/axismap as map store
+[00:17:07] [Server thread/WARN]: Fri Jul 13 00:17:07 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:17:07] [Server thread/WARN]: Fri Jul 13 00:17:07 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:17:07] [Server thread/ERROR]: [dynmap] Error creating tables - Access denied for user 'axismap'@'localhost' (using password: YES)
+[00:17:07] [Server thread/ERROR]: [dynmap] Map storage initialization failure
+[00:17:07] [Server thread/INFO]: [dynmap] Unloaded 0 components.
+[00:17:07] [Server thread/INFO]: [dynmap] Disabled
+[00:17:07] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[00:17:07] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:17:07] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[00:17:07] [Server thread/INFO]: [AsyncWorldEdit] Initializing WorldEdit.
+[00:17:07] [Server thread/INFO]: [AsyncWorldEdit] Direct chunk commands...enabled
+[00:17:07] [Server thread/INFO]: [Essentials] Enabling Essentials v2.15.0.16
+[00:17:07] [Server thread/WARN]: [Essentials] §4Version mismatch! Please update Essentials_WarpGUI to the same version.
+[00:17:07] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[00:17:07] [Server thread/INFO]: No kits found to migrate.
+[00:17:07] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[00:17:07] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[00:17:07] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[00:17:07] [Server thread/INFO]: Using locale en_US
+[00:17:07] [Server thread/INFO]: [Essentials] Using Spigot 1.7.10+ ServerListPingEvent iterator
+[00:17:07] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[00:17:07] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[00:17:07] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[00:17:07] [Server thread/INFO]: [ChatInjector] Enabling ChatInjector v1.0.0
+[00:17:07] [Server thread/INFO]: [PlayerMention] Enabling PlayerMention v3.7
+[00:17:07] [Server thread/INFO]: [0;30;1m[21m[[0;32;1m[21mPlayerMention[0;30;1m[21m] [0;32;1mhas successfully loaded, enjoy![m
+[00:17:07] [Server thread/INFO]: [0;30;1m-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-[m
+[00:17:07] [Server thread/INFO]: Info:[m
+[00:17:07] [Server thread/INFO]: Running version: 3.7[m
+[00:17:07] [Server thread/INFO]: Hooked into PlaceholderAPI[m
+[00:17:07] [Server thread/INFO]: Hooked into MVdW's Placeholder API[m
+[00:17:07] [Server thread/INFO]: Hooked into mcMMO[m
+[00:17:07] [Server thread/INFO]: Hooked into Marriage[m
+[00:17:07] [Server thread/INFO]: [0;30;1m-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-[m
+[00:17:07] [Server thread/INFO]: [MCBans] Enabling MCBans v4.4.4
+[00:17:07] [Server thread/INFO]: [MCBans] Loading language file: default
+[00:17:07] [Server thread/INFO]: [MCBans] Using SuperPerms for permission control.
+[00:17:07] [Thread-47/INFO]: [MCBans] Connecting to the API Server!
+[00:17:07] [Server thread/INFO]: [MCBans] CoreProtect plugin found. Going to use this for rollback.
+[00:17:07] [Server thread/INFO]: [MCBans] MCBans version 4.4.4 is enabled!
+[00:17:07] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.8.7
+[00:17:07] [Server thread/INFO]: [WorldBorder] [CONFIG] Using elliptic/round border, knockback of 3.0 blocks, and timer delay of 5.
+[00:17:07] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task started.
+[00:17:07] [Server thread/INFO]: [WorldBorder] For reference, the main world's spawn location is at X: 12.0 Y: 64.0 Z: 184.0
+[00:17:07] [Server thread/INFO]: [mcMMOAction] Enabling mcMMOAction v2.3.2
+[00:17:08] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.22-SNAPSHOT (build 1552)
+[00:17:08] [Server thread/INFO]: [AdvancedAchievements] Enabling AdvancedAchievements v5.8.2
+[00:17:08] [Thread-47/INFO]: [MCBans] API Server found: api.mcbans.com :: response time: 433
+[00:17:08] [Thread-47/INFO]: [MCBans] Fastest server selected: api.mcbans.com :: response time: 433
+[00:17:08] [Server thread/INFO]: [AdvancedAchievements] Loading and backing up configuration files...
+[00:17:08] [Server thread/WARN]: [AdvancedAchievements] Overriding configuration: disabling PetMasterGive and PetMasterReceive categories.
+[00:17:08] [Server thread/WARN]: [AdvancedAchievements] Ensure you have placed Pet Master with a minimum version of 1.4 in your plugins folder or add PetMasterGive and PetMasterReceive to the DisabledCategories list in config.yml.
+[00:17:08] [Server thread/INFO]: [AdvancedAchievements] Loaded 51 achievements in 45 categories.
+[00:17:08] [Server thread/INFO]: [AdvancedAchievements] 2 disabled categories: [PetMasterReceive, PetMasterGive]
+[00:17:08] [Server thread/INFO]: [AdvancedAchievements] Registering event listeners...
+[00:17:08] [Server thread/INFO]: [AdvancedAchievements] Initialising database...
+[00:17:08] [Server thread/INFO]: [AdvancedAchievements] Setting up command executor and custom tab completers...
+[00:17:08] [Server thread/INFO]: [AdvancedAchievements] Launching scheduled tasks...
+[00:17:08] [Server thread/INFO]: [AdvancedAchievements] Registering permissions...
+[00:17:08] [Thread-48/INFO]: [AdvancedAchievements] Checking for plugin update...
+[00:17:08] [Server thread/INFO]: [AdvancedAchievements] Plugin has finished loading and is ready to run! Took 502ms.
+[00:17:08] [Server thread/INFO]: [Train_Carts] Enabling Train_Carts v1.12.2-v2
+[00:17:12] [Server thread/INFO]: [Train_Carts] 13 Trains have been loaded in 1 world. (13 Minecarts)
+[00:17:12] [Server thread/INFO]: [Train_Carts] 0 detector rail regions loaded covering 0 blocks
+[00:17:12] [Server thread/INFO]: [Train_Carts] Restoring trains and loading nearby chunks...
+[00:17:12] [Server thread/INFO]: [Train_Carts] Multiverse Portals detected, trains can be teleported to MV Portals
+[00:17:12] [Server thread/INFO]: [Train_Carts] Train_Carts version 1.12.2-v2 (build: 246) enabled! (4.021s)
+[00:17:12] [Server thread/INFO]: [CrazyAuctions] Enabling CrazyAuctions v1.2.5.1
+[00:17:12] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.15.0.16
+[00:17:12] [Server thread/INFO]: [Vampire] Enabling Vampire v2.14.0
+[00:17:12] [Server thread/INFO]: [0;36;22m[[0;36;1mVampire 2.14.0[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[00:17:12] [Server thread/INFO]: [0;36;22m[[0;36;1mVampire 2.14.0[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m82ms[0;33;1m) ===[m
+[00:17:12] [Server thread/INFO]: [HolographicExtension] Enabling HolographicExtension v1.9.2
+[00:17:12] [Server thread/INFO]: [HolographicExtension] [Holographic Extension] ProtocolLib Enabled. Using NEW HOOK
+[00:17:13] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.2.1;84bc322
+[00:17:13] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[00:17:13] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[00:17:13] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[00:17:13] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[00:17:13] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[00:17:13] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[00:17:13] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[00:17:13] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[00:17:13] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[00:17:13] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[00:17:13] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[00:17:13] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[00:17:13] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[00:17:13] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[00:17:13] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[00:17:13] [Server thread/INFO]: [WorldGuard] (spawn) TNT ignition is PERMITTED.
+[00:17:13] [Server thread/INFO]: [WorldGuard] (spawn) Lighters are PERMITTED.
+[00:17:13] [Server thread/INFO]: [WorldGuard] (spawn) Lava fire is blocked.
+[00:17:13] [Server thread/INFO]: [WorldGuard] (spawn) Fire spread is UNRESTRICTED.
+[00:17:13] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn'
+[00:17:13] [Server thread/INFO]: [WorldGuard] Loading region data...
+[00:17:13] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v4.3.2-SNAPSHOT
+[00:17:13] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Bukkit v1_12_R1 (Minecraft 1.12)...
+[00:17:13] [Server thread/INFO]: [MythicMobs] MythicMobs Lib's Disguises Support has been enabled!
+[00:17:13] [Server thread/INFO]: [MythicMobs] MythicMobs mcMMO Support has been enabled!
+[00:17:13] [Server thread/INFO]: [MythicMobs] MythicMobs Vault Support has been enabled!
+[00:17:13] [Server thread/INFO]: [MythicMobs] MythicMobs WorldGuard Support has been enabled!
+[00:17:13] [Server thread/INFO]: [MythicMobs] Loaded 5 mobs.
+[00:17:13] [Server thread/INFO]: [MythicMobs] Loaded 3 vanilla mob overrides.
+[00:17:13] [Server thread/INFO]: [MythicMobs] Loaded 0 mob stacks.
+[00:17:13] [Server thread/INFO]: [MythicMobs] Loaded 3 skills.
+[00:17:13] [Server thread/INFO]: [MythicMobs] Loaded 2 random spawns.
+[00:17:13] [Server thread/INFO]: [MythicMobs] Loaded 3 mythic items.
+[00:17:13] [Server thread/INFO]: [MythicMobs] Loaded 1 drop tables.
+[00:17:13] [Server thread/INFO]: [MythicMobs] Loaded 0 mob spawners.
+[00:17:13] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.
+[00:17:13] [Server thread/INFO]: [MythicMobs] v4.3.2-SNAPSHOT has been successfully loaded!
+[00:17:13] [Server thread/INFO]: [Quests] Enabling Quests v2.0.11-beta
+[00:17:13] [Server thread/INFO]: [Quests] Your server is running version v1_12_R1
+[00:17:13] [Server thread/INFO]: [Quests] Task type blockbreak has been registered.
+[00:17:13] [Server thread/INFO]: [Quests] Task type blockbreakcertain has been registered.
+[00:17:13] [Server thread/INFO]: [Quests] Task type blockplace has been registered.
+[00:17:13] [Server thread/INFO]: [Quests] Task type blockplacecertain has been registered.
+[00:17:13] [Server thread/INFO]: [Quests] Task type mobkilling has been registered.
+[00:17:13] [Server thread/INFO]: [Quests] Task type mobkillingcertain has been registered.
+[00:17:13] [Server thread/INFO]: [Quests] Task type playerkilling has been registered.
+[00:17:13] [Server thread/INFO]: [Quests] Task type fishing has been registered.
+[00:17:13] [Server thread/INFO]: [Quests] Task type inventory has been registered.
+[00:17:13] [Server thread/INFO]: [Quests] Task type walking has been registered.
+[00:17:13] [Server thread/INFO]: [Quests] Task type taming has been registered.
+[00:17:13] [Server thread/INFO]: [Quests] Task type milking has been registered.
+[00:17:13] [Server thread/INFO]: [Quests] Task type shearing has been registered.
+[00:17:13] [Server thread/INFO]: [Quests] Task type position has been registered.
+[00:17:13] [Server thread/INFO]: [Quests] Task type playtime has been registered.
+[00:17:13] [Server thread/INFO]: [Quests] Metrics started. This can be disabled at /plugins/bStats/config.yml.
+[00:17:13] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.15.0.16
+[00:17:13] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[00:17:13] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.15.0.16
+[00:17:13] [Server thread/INFO]: [TitleManager] Enabling TitleManager v2.0.9
+[00:17:14] [Server thread/INFO]: [RandomCoords] Enabling RandomCoords v0.6.2-RELEASE
+[00:17:14] [Server thread/INFO]: [34m[1m[RandomCoords][34m[1mRandomCoords[34m[1m Version: [34m[1m0.6.2-RELEASE[34m[1m enabled.[0m
+[00:17:15] [Server thread/INFO]: [Denizen] Enabling Denizen v1.0.2-SNAPSHOT (build 1649)
+[00:17:16] [Server thread/INFO]: [Towny] Enabling Towny v0.92.0.11
+[00:17:16] [Server thread/INFO]: ====================      Towny      ========================
+[00:17:16] [Server thread/INFO]: [Towny] Database: [Load] mysql [Save] mysql
+[00:17:17] [Server thread/INFO]: [Towny] Performing backup
+[00:17:17] [Server thread/INFO]: [Towny] ***** Warning *****
+[00:17:17] [Server thread/INFO]: [Towny] ***** Only Snapshots and Regen files will be backed up
+[00:17:17] [Server thread/INFO]: [Towny] ***** Make sure you schedule a backup in MySQL too!!!
+[00:17:17] [Server thread/INFO]: [Towny] Using: Vault v1.6.6-b${env.TRAVIS_BUILD_NUMBER}, Essentials Economy via Vault, Essentials v2.15.0.16
+[00:17:17] [Server thread/WARN]: Essentials detected: The Towny authors would like to make you
+[00:17:17] [Server thread/WARN]: aware that Essentials has been causing town and nation bank
+[00:17:17] [Server thread/WARN]: accounts to reset. Furthermore their handling of bank accounts
+[00:17:17] [Server thread/WARN]: has left vital town, nation, warchest and server accounts
+[00:17:17] [Server thread/WARN]: vulnerable to exploitation. Towny has made changes to stop
+[00:17:17] [Server thread/WARN]: these exploits from occuring but we cannot stop Essentials
+[00:17:17] [Server thread/WARN]: Economy from reseting bank accounts. Please change to another
+[00:17:17] [Server thread/WARN]: Essentials-type plugin as soon as you are able.
+[00:17:17] [Server thread/INFO]: [Towny] Time until a New Day: 11 hours, 42 minutes, 43 seconds
+[00:17:17] [Server thread/INFO]: =============================================================
+[00:17:17] [Server thread/INFO]: [Towny] Version: 0.92.0.11 - Mod Enabled
+[00:17:17] [Server thread/INFO]: =============================================================
+[00:17:17] [Server thread/INFO]: [Jobs] Enabling Jobs v4.5.4
+[00:17:18] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 8 titles![m
+[00:17:18] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 0 restricted areas![m
+[00:17:18] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 49 protected blocks timers![m
+[00:17:18] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 641 custom item names![m
+[00:17:18] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 41 custom entity names![m
+[00:17:18] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 27 custom enchant names![m
+[00:17:18] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 16 custom color names![m
+[00:17:18] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 4 shop items![m
+[00:17:18] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 12 jobs![m
+[00:17:18] [Server thread/INFO]: [0;33;1m[Jobs] Explorer job manager registered![m
+[00:17:18] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Started database save task.[m
+[00:17:18] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Started buffered payment thread.[m
+[00:17:18] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 0 schedulers![m
+[00:17:18] [Server thread/INFO]: [0;33;1m[Jobs] Preloaded 1 players data in 0.0[m
+[00:17:18] [Server thread/INFO]: [0;33;1m[Jobs] [0;33;22mmcMMO was found - Enabling capabilities.[m
+[00:17:18] [Server thread/INFO]: [0;33;1m[Jobs] WorldGuard detected.[m
+[00:17:18] [Server thread/INFO]: [0;33;1m[Jobs] MythicMobs detected.[m
+[00:17:18] [Server thread/INFO]: [0;33;1m[Jobs] [0;33;22mMythicMobs4 was found - Enabling capabilities.[m
+[00:17:18] [Server thread/INFO]: [0;33;1m[Jobs] Loading explorer data[m
+[00:17:18] [Server thread/INFO]: [0;33;1m[Jobs] Loaded explorer data (11)[m
+[00:17:19] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 60 furnaces and 4 brewing stands for reassigning[m
+[00:17:19] [Server thread/INFO]: [0;33;1m[Jobs] Plugin has been enabled succesfully.[m
+[00:17:19] [Server thread/INFO]: [Werewolf] Enabling Werewolf v1.3
+[00:17:19] [Server thread/INFO]: [SilkSpawners] Enabling SilkSpawners v5.0.2
+[00:17:20] [Server thread/INFO]: [SilkSpawners] WorldGuard was found and support is enabled
+[00:17:20] [Server thread/INFO]: [SilkSpawners] Loading support for v1_12_R1
+[00:17:20] [Server thread/INFO]: [SilkSpawners] AutoUpdater is enabled.
+[00:17:21] [Server thread/INFO]: [SilkSpawners] Result from AutoUpdater is: NO_UPDATE
+[00:17:21] [Server thread/INFO]: [SilkSpawners] BarAPI is disabled due to config setting.
+[00:17:21] [Server thread/INFO]: [TownyChat] Enabling TownyChat v0.51
+[00:17:21] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.16.3
+[00:17:21] [Server thread/INFO]: [BannerBoard_Skills] Enabling BannerBoard_Skills v2.0.1
+[00:17:21] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer MCMMO for plugin BannerBoard_Skills...[m
+[00:17:21] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer BannerBoard_Skills:MCMMO for plugin BannerBoard_Skills...[m
+[00:17:21] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer JOBSREBORN for plugin BannerBoard_Skills...[m
+[00:17:21] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer BannerBoard_Skills:JOBSREBORN for plugin BannerBoard_Skills...[m
+[00:17:21] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.9-SNAPSHOT-jenkins-CraftBook-223
+[00:17:21] [Server thread/INFO]: [CraftBook] Loading persistent data from YAML!
+[00:17:21] [Server thread/INFO]: [LeaderHeads] Enabling LeaderHeads v3.1.8.3
+[00:17:21] [Server thread/INFO]: [LeaderHeads] Successfully connected to MySQL.
+[00:17:22] [Server thread/INFO]: [LeaderHeads] Loaded automatic reward: kills
+[00:17:22] [Server thread/INFO]: [LeaderHeads] Loaded automatic reward: votes
+[00:17:22] [Server thread/INFO]: [LeaderHeads] Hooked into Citizens
+[00:17:22] [Server thread/INFO]: [LeaderHeads] Hooked into HolographicDisplays
+[00:17:22] [Server thread/INFO]: [Dynmap-Towny] Enabling Dynmap-Towny v0.70
+[00:17:22] [Server thread/INFO]: [Dynmap-Towny] initializing
+[00:17:22] [Server thread/INFO]: [TownyGUI] Enabling TownyGUI v0.17
+[00:17:22] [Server thread/INFO]: [ShopGUIPlus] Enabling ShopGUIPlus v1.18.0
+[00:17:22] [Server thread/INFO]: [ShopGUIPlus] Permissions support enabled.
+[00:17:22] [Server thread/INFO]: [SilkSpawners] WorldGuard was found and support is enabled
+[00:17:22] [Server thread/INFO]: [SilkSpawners] Loading support for v1_12_R1
+[00:17:22] [Server thread/INFO]: [ShopGUIPlus] SilkSpawners support enabled.
+[00:17:22] [Server thread/INFO]: [ShopGUIPlus] Vault economy support enabled.
+[00:17:22] [Server thread/WARN]: Fri Jul 13 00:17:22 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:17:22] [Server thread/INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v1.7.9.3.8
+[00:17:22] [Server thread/INFO]: [SilkSpawners] WorldGuard was found and support is enabled
+[00:17:22] [Server thread/INFO]: [SilkSpawners] Loading support for v1_12_R1
+[00:17:22] [Server thread/INFO]: [ChatControl] Enabling ChatControl v7.8.28
+[00:17:23] [Server thread/INFO]: [0;36;1m  _____ _           _    _____            _             _  [0;35;1m+[m
+[00:17:23] [Server thread/INFO]: [0;36;1m / ____| |         | |  / ____|          | |           | |[m
+[00:17:23] [Server thread/INFO]: [0;36;1m| |    | |__   __ _| |_| |     ___  _ __ | |_ _ __ ___ | |[m
+[00:17:23] [Server thread/INFO]: [0;36;1m| |    | '_ \ / _` | __| |    / _ \| '_ \| __| '__/ _ \| |[m
+[00:17:23] [Server thread/INFO]: [0;36;22m| |____| | | | (_| | |_| |___| (_) | | | | |_| | | (_) | |[m
+[00:17:23] [Server thread/INFO]: [0;36;22m \_____|_| |_|\__,_|\__|\_____\___/|_| |_|\__|_|  \___/|_|[m
+[00:17:23] [Server thread/INFO]:  [m
+[00:17:24] [Server thread/INFO]: Connecting to MySQL database..[m
+[00:17:24] [Server thread/WARN]: Fri Jul 13 00:17:24 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (3d84241bb014707a8c96572abe308e79de65f670)
+[00:17:24] [Server thread/INFO]:  [m
+[00:17:24] [Server thread/INFO]: [0;36;22mChecking compatible plugins[0;30;1m..[m
+[00:17:24] [Server thread/INFO]: [0;37;22mFound: Essentials, LWC, MVdWPlaceholderAPI, McMMO, Multiverse-Core, PlaceholderAPI, ProtocolLib, Towny, Vault, WorldEdit, WorldGuard[m
+[00:17:24] [Server thread/INFO]:  [m
+[00:17:24] [Server thread/INFO]: [0;36;22mRules loads now[0;30;1m..[m
+[00:17:24] [Server thread/INFO]: [0;37;22m43 global, 15 chat, 4 command, 2 packet and 1 book rule(s) found[m
+[00:17:24] [Server thread/INFO]:  [m
+[00:17:24] [Server thread/INFO]: [0;36;22mListening starts[0;30;1m..[m
+[00:17:24] [Server thread/INFO]: [0;37;22mRules & antispam listening at [0;37;1mnormal priority.[m
+[00:17:24] [Server thread/INFO]: [0;36;22mHooked into[0;30;1m: [0;37;1mDiscordSRV[m
+[00:17:24] [Server thread/INFO]: [DiscordSRV] Language initialized as English
+[00:17:24] [Server thread/INFO]: [DiscordSRV] API listener me.kangarko.chatcontrol.final. .CoM8 subscribed (1 methods)
+[00:17:24] [Server thread/INFO]: [0;37;22mFallback chat listener started at [0;37;1mnormal priority[m
+[00:17:24] [Server thread/INFO]:  [m
+[00:17:24] [Server thread/INFO]: [0;32;22mWe're live! (took 157 ms)[m
+[00:17:24] [Server thread/INFO]: [0;36;22m______________________________________________________________[m
+[00:17:24] [Server thread/INFO]:  [m
+[00:17:24] [Server thread/INFO]: [mcMMO-Towny] Enabling mcMMO-Towny v1.0.0-SNAPSHOT
+[00:17:24] [Server thread/INFO]: [DeluxeChat] Enabling DeluxeChat v1.12.8
+[00:17:24] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Thank you so much to these people for allowing DiscordSRV to grow to what it is: Ac3dUd3, Androkai, anton8604, buildblox, Bysokar, CoreyD97, DeeKay, Diamondman121314/DMAN, FataL, Foxy, geekhideout, Helmic, KaizenWorlds, LDSG Ghost, Mick, mikedmd, mikedmd again, Mitecraft, PChard, Rui, Ryan (The Loyal One), Sicnus
+[00:17:24] [Server thread/INFO]: [DeluxeChat] 2 formats loaded!
+[00:17:24] [Server thread/INFO]: [DeluxeChat] Loading DeluxeChat messages.yml
+[00:17:24] [Server thread/INFO]: [DeluxeChat] TownyChat integration is enabled!
+[00:17:24] [Server thread/INFO]: [DeluxeChat] Detected Vault
+[00:17:24] [Server thread/INFO]: [DeluxeChat] Hooked into Vault
+[00:17:25] [Server thread/INFO]: ----------------------------
+[00:17:25] [Server thread/INFO]:      DeluxeChat Updater
+[00:17:25] [Server thread/INFO]:  
+[00:17:25] [Server thread/INFO]: You are running 1.12.8
+[00:17:25] [Server thread/INFO]: The latest version
+[00:17:25] [Server thread/INFO]: of DeluxeChat!
+[00:17:25] [Server thread/INFO]:  
+[00:17:25] [Server thread/INFO]: ----------------------------
+[00:17:25] [Server thread/INFO]: [BannerBoard_LeaderHeads] Enabling BannerBoard_LeaderHeads v1.0.7
+[00:17:25] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer LEADERHEADS for plugin BannerBoard_LeaderHeads...[m
+[00:17:25] [Server thread/INFO]: [BannerBoard] [INFO] Successfully registered BannerBoard custom renderer BannerBoard_LeaderHeads:LEADERHEADS for plugin BannerBoard_LeaderHeads...[m
+[00:17:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:17:25] [DiscordSRV - Initialization/WARN]: 54935 [DiscordSRV - Initialization] INFO github.scarsz.discordsrv.dependencies.jda.core.JDA - Login Successful!
+
+[00:17:26] [Server thread/INFO]: Done (41.880s)! For help, type "help" or "?"
+[00:17:26] [Server thread/INFO]: [AsyncWorldEdit] Loading plugins...
+[00:17:26] [JDA MainWS-ReadThread/WARN]: 55547 [JDA MainWS-ReadThread] INFO github.scarsz.discordsrv.dependencies.jda.core.requests.WebSocketClient - Connected to WebSocket
+
+[00:17:26] [Craft Scheduler Thread - 10/WARN]: Fri Jul 13 00:17:26 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:17:26] [JDA MainWS-ReadThread/WARN]: 55914 [JDA MainWS-ReadThread] INFO github.scarsz.discordsrv.dependencies.jda.core.JDA - Finished Loading!
+
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:Axisrealm™(385412093081550850)
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:welcome(386443632753770511)
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:announcement(387243683142959104)
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:information(386448601099927553)
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:todo(389835178861789195)
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:server_status(459205200805363714)
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:previews(459830141837901864)
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:general-chat(459200631073406987)
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:music-queue(387228053505310720)
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:bot-commands(461043897565577226)
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:game-chat(387112587092819978)
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:support(387114363078705152)
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:suggestions(387114377511305217)
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:staff-music(385422127790293002)
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:staff-chat(385425568801226762)
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:bug-report(392667162244022273)
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:spy-chat(461473815466213386)
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:console(461556106712580116)
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel TC:console(461556106712580116)
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling TownyChat hook
+[00:17:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Automatically enabled hooking for 4 TownyChat channels: general, town, nation, local
+[00:17:27] [Craft Scheduler Thread - 6/INFO]: [PlaceholderAPI] 119 placeholder expansions are available on the cloud.
+[00:17:28] [Server thread/INFO]: [0;32;1m[AutoRestart] Up to date![m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Loading images...[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image acrobacias_logo.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image acrobatics_logo.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Adentrate-survival.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image agricultor_job.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image alchemy_logo.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image alquimia_job.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image alquimista_logo.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image archery_logo.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image arqueria_logo.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image artesano_job.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image axes_logo.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image background_texture.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image big_old_parchment.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image blacklogo.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image blacklogofull.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image brewer_job.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image builder_job.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image cavador_job.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image cazador_job.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image constructor_job.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image crafter_job.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image diamond_sword.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image diamond_swordflipped.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image digger_job.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image encantador_job.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image enchanter_job.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image excavacion_logo.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image excavation_logo.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image explorador_job.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image explorer_job.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image farmer_job.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image fisherman_job.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image fishing_logo.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Fondo.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Fondo2.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Fondo3.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Framepicture-banco.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Framepicture-cofres.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Framepicture-menu.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Framepicture-parcelas-comandos.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Framepicture-parcelas1.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Framepicture-parcelas2.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Framepicture-parcelas3.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Framepicture-proteccion.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Framepicture-proteccion1.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Framepicture-proteccion2.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Framepicture-proteccion3.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Framepicture-proteccion4.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Framepicture-proteccion5.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Framepicture-proteccion6.png.[m
+[00:17:28] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Framepicture-proteccion7.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Framepicture-shop.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Framepicture-subasta.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Framepicture-tirate.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Framepicture-tutoriales.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image hachas_logo.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image herbalism_logo.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image herrero_job.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image hunter_job.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Mina.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image mineria_logo.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image minero_job.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image miner_job.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image mining_logo.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image old_parchment.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image old_parchment_active.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image old_parchment_inactive.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image pescador_job.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image pescador_logo.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image pvpbg.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Reino.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image repair_logo.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image reparador_logo.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Safe.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image salvage_logo.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image smelting_logo.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image swords_logo.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image talador_job.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image taming_logo.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Transparente.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image unarmed_logo.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image Vacio.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image weaponsmith_job.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image whitelogo.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image whitelogofull.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image woodcutter_job.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded image woodcutting_logo.png.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded 87 image(s).[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Loaded font ARCADEPI.TTF.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Loaded font Roboto-Black.ttf.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Loaded font Roboto-BlackItalic.ttf.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Loaded font Roboto-Bold.ttf.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Loaded font Roboto-BoldCondensed.ttf.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Loaded font Roboto-BoldCondensedItalic.ttf.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Loaded font Roboto-BoldItalic.ttf.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Loaded font Roboto-Condensed.ttf.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Loaded font Roboto-CondensedItalic.ttf.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Loaded font Roboto-Italic.ttf.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Loaded font Roboto-Light.ttf.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Loaded font Roboto-LightItalic.ttf.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Loaded font Roboto-Medium.ttf.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Loaded font Roboto-MediumItalic.ttf.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Loaded font Roboto-Regular.ttf.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Loaded font Roboto-Thin.ttf.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Loaded font Roboto-ThinItalic.ttf.[m
+[00:17:29] [Server thread/INFO]: [INFO] [BannerBoard] Connecting to skinrender.com with key ***********KA3O9DT...[m
+[00:17:29] [Craft Scheduler Thread - 10/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
+[00:17:29] [Craft Scheduler Thread - 10/INFO]: [NoCheatPlus] Added hook: FlyNCP [1.7.6].
+[00:17:29] [Craft Scheduler Thread - 10/INFO]: [NoCheatPlus] Added hook: ImprobableNCP [1.7.6].
+[00:17:29] [Craft Scheduler Thread - 10/INFO]: [NoCheatPlus] Added hook: NukerNCP [1.7.6].
+[00:17:29] [Craft Scheduler Thread - 10/INFO]: [NoCheatPlus] Added hook: FightSpeedNCP [1.7.6].
+[00:17:29] [Craft Scheduler Thread - 10/INFO]: [NoCheatPlus] Added hook: AttackFrequencyNCP [1.7.6].
+[00:17:29] [Craft Scheduler Thread - 10/INFO]: [NoCheatPlus] Added hook: FlyingFrequencyNCP [1.7.6].
+[00:17:29] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[00:17:29] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[00:17:29] [Server thread/INFO]: Saving data.
+[00:17:30] [Craft Scheduler Thread - 27/INFO]: [Marriage] Purged 0 player entries in 8ms
+[00:17:30] [Craft Scheduler Thread - 29/WARN]: Fri Jul 13 00:17:30 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:17:30] [Craft Scheduler Thread - 29/INFO]: [0;36;1m[21mUltraCosmetics -> Successfully connected to MySQL server! :)[m
+[00:17:30] [Craft Scheduler Thread - 29/INFO]: 07/13/2018 - UltraCosmetics [INFO]: initial SQLLoader to reduce lag when table is large
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest storyquest1 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest1 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest2 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest3 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest4 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest5 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest6 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest7 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest8 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest9 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest10 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest11 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest12 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest13 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest14 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest15 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest16 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest17 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest18 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest19 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest20 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest21 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest22 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest23 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest24 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest25 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest26 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest27 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest28 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest29 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest30 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest31 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest32 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest33 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest34 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest35 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest36 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest37 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest38 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest39 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest40 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest41 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest42 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest43 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest44 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest45 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest46 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest47 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest48 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest49 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest50 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest51 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest52 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest53 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest54 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest55 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest56 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest57 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest58 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest59 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest60 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest61 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest62 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest63 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest64 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest65 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest66 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest67 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest68 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest69 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest70 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest71 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest72 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest73 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest74 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest75 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest76 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest77 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest farmingquest78 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest1 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest2 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest3 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest4 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest5 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest6 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest7 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest8 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest9 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest10 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest11 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest12 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest13 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest14 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest15 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest16 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest17 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest18 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest19 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest20 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest21 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest22 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest23 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest24 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest25 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest26 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest27 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest28 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest29 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest30 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miningquest31 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest1 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest2 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest3 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest4 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest5 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest6 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest7 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest8 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest9 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest10 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest11 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest12 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest13 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest14 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest15 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest16 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest17 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest18 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest19 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest20 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest21 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest22 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest23 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest24 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest25 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest26 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest27 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest28 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest29 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest30 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest31 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest32 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest33 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest34 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest35 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest36 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest37 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest38 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest39 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest40 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest41 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest42 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest43 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest44 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest45 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest46 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest47 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest combatquest48 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miscquest6 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miscquest7 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miscquest8 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miscquest9 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miscquest10 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miscquest11 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miscquest12 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miscquest13 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miscquest14 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miscquest15 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest miscquest16 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest1 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest2 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest3 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest4 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest5 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest6 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest7 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest8 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest9 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest10 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest11 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest12 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest13 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest14 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest15 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest16 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest17 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest18 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest19 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest20 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest21 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest nightmarequest22 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest1 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest2 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest3 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest4 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest5 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest6 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest7 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest8 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest9 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest10 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest11 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest12 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest13 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest14 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest15 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest16 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest17 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest18 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest19 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest20 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest21 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest22 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest23 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest24 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest25 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest26 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest27 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest28 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest gatheringquest29 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest1 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest2 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest3 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest4 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest5 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest6 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest7 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest8 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest9 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest10 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest11 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest12 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest13 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest14 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest15 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest16 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest17 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest18 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest19 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest20 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest21 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest22 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest23 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest24 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest25 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest26 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest27 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest28 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest29 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest30 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest31 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest32 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest33 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest34 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest35 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest36 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest37 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest38 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest39 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest40 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest41 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest42 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest43 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest44 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest45 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest46 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest47 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest48 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest49 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest50 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest51 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest52 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest53 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest54 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest extremequest55 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest buildingquest1 with 3 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest buildingquest2 with 2 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest buildingquest3 with 2 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest buildingquest4 with 2 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest buildingquest5 with 3 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest buildingquest6 with 3 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest animalquest1 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest animalquest2 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest animalquest3 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest animalquest4 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest animalquest5 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest animalquest6 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest animalquest7 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest animalquest8 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest animalquest9 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest animalquest10 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest animalquest11 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [Quests] Registering quest animalquest12 with 1 tasks.
+[00:17:30] [Server thread/INFO]: [0;33;1m[Jobs] Successfully linked with Vault.[m
+[00:17:34] [Server thread/INFO]: [Citizens] Loaded 10 NPCs.
+[00:17:35] [Server thread/INFO]: [TownyChat] -******* TownyChat enabled *******-
+[00:17:35] [Server thread/INFO]: [VotingPlugin] Hooked into Vault permissions
+[00:17:35] [Craft Scheduler Thread - 44/INFO]: [Vault] Checking for Updates ... 
+[00:17:35] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded BannerBoard [2]
+[00:17:35] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded BannerBoard [3]
+[00:17:35] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded BannerBoard [4]
+[00:17:35] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded BannerBoard [5]
+[00:17:35] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded BannerBoard [6]
+[00:17:35] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded BannerBoard [7]
+[00:17:35] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded BannerBoard [9]
+[00:17:35] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded BannerBoard [13]
+[00:17:35] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded BannerBoard [14]
+[00:17:35] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded BannerBoard [16]
+[00:17:35] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded BannerBoard [18]
+[00:17:35] [Server thread/INFO]: [INFO] [BannerBoard] Succesfully loaded BannerBoard [20]
+[00:17:35] [Server thread/INFO]: [VotingPlugin] Successfully hooked into Vault!
+[00:17:35] [Craft Scheduler Thread - 104/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[00:17:35] [Craft Scheduler Thread - 101/INFO]: [Holographic Extension] Enabled player related placeholders with ProtocolLib.
+[00:17:36] [Craft Scheduler Thread - 104/INFO]: [0;37;22m[[0;36;1mCratesPlus[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[00:17:36] [Craft Scheduler Thread - 44/INFO]: [Vault] Stable Version: 1.5.6 | Current Version: 1.6.6
+[00:17:36] [Craft Scheduler Thread - 99/INFO]: [HEXT] NOTICE: 
+[00:17:36] [Craft Scheduler Thread - 99/INFO]: Install protocolLib
+[00:17:36] [Craft Scheduler Thread - 99/INFO]: [0;35;1mHolographic Extension 1.7.2[0;37;22m Is ready to be downloaded now![m
+[00:17:36] [Craft Scheduler Thread - 59/INFO]: [VotingPlugin] VotingPlugin is up to date! Version: 5.13.3
+[00:17:37] [Server thread/INFO]: [FeatherBoard] Checking for module updates ...
+[00:17:37] [Server thread/INFO]: [FeatherBoard] Fetching modules from server ...
+[00:17:38] [Server thread/INFO]: [LeaderHeads] Skipping plugin Quests with author [fatpigsarefat] and hardcoded author Blackvein
+[00:17:51] [Craft Scheduler Thread - 5/INFO]: [0;31;1m[WARNING] [BannerBoard] No data was found for leaderboard kills[m
+[00:17:51] [Craft Scheduler Thread - 98/INFO]: [0;31;1m[WARNING] [BannerBoard] No data was found for leaderboard kills[m
+[00:17:51] [Craft Scheduler Thread - 7/INFO]: [0;31;1m[WARNING] [BannerBoard] No data was found for leaderboard kills[m
+[00:18:34] [User Authenticator #1/WARN]: Fri Jul 13 00:18:34 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:18:34] [User Authenticator #1/INFO]: UUID of player DarrylSSY is a65d1ac7-a445-4a16-a20f-36b9d0c6f8d3
+[00:18:34] [Server thread/INFO]: [DiscordSRV] Player DarrylSSY joined with silent joining permission, not sending a join message
+[00:18:34] [Server thread/INFO]: DarrylSSY[/127.0.0.1:58414] logged in with entity id 2358 at ([spawn]131.2355557302086, 83.0, 376.463622557553)
+[00:18:34] [Craft Scheduler Thread - 94/WARN]: Fri Jul 13 00:18:34 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:18:34] [Craft Scheduler Thread - 5/WARN]: Fri Jul 13 00:18:34 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:18:35] [Server thread/INFO]: Plugin Watchdog thread started.
+[00:18:35] [pool-40-thread-1/WARN]: Fri Jul 13 00:18:35 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:18:35] [pool-40-thread-1/INFO]: [mcMMO] Killing orphans
+[00:18:35] [pool-40-thread-1/WARN]: Fri Jul 13 00:18:35 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:18:42] [Server thread/INFO]: DarrylSSY issued server command: /mvtp spawn
+[00:18:44] [Server thread/INFO]: DarrylSSY issued server command: /spawn
+[00:18:55] [Server thread/INFO]: [LWC] Player created entity [CHICKEN]
+[00:21:46] [Server thread/INFO]: DarrylSSY issued server command: /discord
+[00:22:01] [Server thread/INFO]: DarrylSSY issued server command: /helpo
+[00:22:02] [Server thread/INFO]: DarrylSSY issued server command: /help
+[00:22:21] [Server thread/INFO]: DarrylSSY issued server command: /spawn
+[00:22:31] [Server thread/INFO]: [LWC] onDestroyProtection
+[00:22:38] [Server thread/INFO]: Saving data.
+[00:23:51] [Async Chat Thread - #0/INFO]: [CHAT] DarrylSSY: [0;36;1m[0;31;1ma[m
+[00:23:56] [Async Chat Thread - #0/INFO]: [CHAT] DarrylSSY: [0;36;1m[0;32;22ma[m
+[00:23:57] [Async Chat Thread - #0/INFO]: [CHAT] DarrylSSY: [0;36;1m[0;34;22ma[m
+[00:24:01] [Async Chat Thread - #0/INFO]: [CHAT] DarrylSSY: [0;36;1m[0;32;22ma[m
+[00:24:02] [Async Chat Thread - #0/INFO]: [CHAT] DarrylSSY: [0;36;1m[0;33;1ma[m
+[00:24:04] [Async Chat Thread - #0/INFO]: [CHAT] DarrylSSY: [0;36;1m[0;36;1ma[m
+[00:25:12] [Server thread/INFO]: DarrylSSY issued server command: /deluxejoin reload
+[00:25:13] [Server thread/INFO]: DarrylSSY lost connection: Disconnected
+[00:25:13] [Server thread/INFO]: 1531412713562[m
+[00:25:13] [Thread-85/WARN]: Fri Jul 13 00:25:13 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:25:13] [Server thread/INFO]: [DiscordSRV] Player DarrylSSY quit with silent quitting permission, not sending a quit message
+[00:25:17] [User Authenticator #2/INFO]: UUID of player DarrylSSY is a65d1ac7-a445-4a16-a20f-36b9d0c6f8d3
+[00:25:17] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@728b5c21[id=a65d1ac7-a445-4a16-a20f-36b9d0c6f8d3,name=DarrylSSY,properties={textures=[com.mojang.authlib.properties.Property@3b98b86]},legacy=false] (/127.0.0.1:59303): §7Please wait§c56§7seconds
+§7before joining again!
+[00:25:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@728b5c21[id=a65d1ac7-a445-4a16-a20f-36b9d0c6f8d3,name=DarrylSSY,properties={textures=[com.mojang.authlib.properties.Property@3b98b86]},legacy=false] (/127.0.0.1:59303) lost connection: §7Please wait§c56§7seconds
+§7before joining again!
+[00:26:23] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[00:26:28] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[00:26:31] [User Authenticator #3/WARN]: Fri Jul 13 00:26:31 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:26:31] [User Authenticator #3/INFO]: UUID of player DarrylSSY is a65d1ac7-a445-4a16-a20f-36b9d0c6f8d3
+[00:26:31] [Server thread/INFO]: [DiscordSRV] Player DarrylSSY joined with silent joining permission, not sending a join message
+[00:26:31] [Server thread/INFO]: DarrylSSY[/127.0.0.1:59466] logged in with entity id 18325 at ([spawn]232.86228895798408, 72.92977003696016, 420.5571941652551)
+[00:26:31] [Craft Scheduler Thread - 49/WARN]: Fri Jul 13 00:26:31 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:26:31] [pool-40-thread-1/WARN]: Fri Jul 13 00:26:31 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:26:31] [pool-40-thread-1/INFO]: [mcMMO] Killing orphans
+[00:26:31] [pool-40-thread-1/WARN]: Fri Jul 13 00:26:31 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:26:35] [Server thread/INFO]: DarrylSSY issued server command: /captcha
+[00:26:38] [Server thread/INFO]: DarrylSSY issued server command: /? captcha
+[00:27:10] [Server thread/INFO]: DarrylSSY issued server command: /deluxejoin reload
+[00:27:15] [Server thread/INFO]: DarrylSSY issued server command: /plugman unload captcha
+[00:27:15] [Server thread/INFO]: [Captcha] Disabling Captcha v0.06
+[00:27:20] [Server thread/INFO]: DarrylSSY issued server command: /plugman load captcha
+[00:27:20] [Server thread/INFO]: [Captcha] Enabling Captcha v0.06
+[00:27:20] [Server thread/INFO]: Saving data.
+[00:27:21] [Server thread/INFO]: DarrylSSY lost connection: Disconnected
+[00:27:21] [Thread-91/WARN]: Fri Jul 13 00:27:21 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:27:21] [Server thread/INFO]: [DiscordSRV] Player DarrylSSY quit with silent quitting permission, not sending a quit message
+[00:27:21] [Server thread/INFO]: 1531412841734[m
+[00:27:25] [User Authenticator #4/INFO]: UUID of player DarrylSSY is a65d1ac7-a445-4a16-a20f-36b9d0c6f8d3
+[00:27:25] [Server thread/INFO]: [DiscordSRV] Player DarrylSSY joined with silent joining permission, not sending a join message
+[00:27:25] [Server thread/INFO]: DarrylSSY[/127.0.0.1:59615] logged in with entity id 20074 at ([spawn]233.6541512000474, 70.0, 413.78639346762367)
+[00:27:25] [Craft Scheduler Thread - 112/WARN]: Fri Jul 13 00:27:25 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:27:25] [pool-40-thread-1/WARN]: Fri Jul 13 00:27:25 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:27:25] [pool-40-thread-1/INFO]: [mcMMO] Killing orphans
+[00:27:25] [pool-40-thread-1/WARN]: Fri Jul 13 00:27:25 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:28:08] [Server thread/INFO]: [0;30;1m[9m+----------------+[m
+[00:28:08] [Server thread/INFO]: [0;37;22mDeluxeJoin [0;32;1mhas been reloaded![m
+[00:28:08] [Server thread/INFO]: 1 [0;37;22mformats loaded.[m
+[00:28:08] [Server thread/INFO]: [0;30;1m[9m+----------------+[m
+[00:28:15] [Server thread/INFO]: DarrylSSY lost connection: Disconnected
+[00:28:15] [Thread-97/WARN]: Fri Jul 13 00:28:15 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:28:15] [Server thread/INFO]: [DiscordSRV] Player DarrylSSY quit with silent quitting permission, not sending a quit message
+[00:28:15] [Server thread/INFO]: 1531412895103[m
+[00:28:20] [User Authenticator #5/INFO]: UUID of player DarrylSSY is a65d1ac7-a445-4a16-a20f-36b9d0c6f8d3
+[00:28:20] [Server thread/INFO]: [DiscordSRV] Player DarrylSSY joined with silent joining permission, not sending a join message
+[00:28:20] [Server thread/INFO]: DarrylSSY[/127.0.0.1:59846] logged in with entity id 21895 at ([spawn]232.35235109028528, 70.0, 417.0259450502817)
+[00:28:20] [Craft Scheduler Thread - 117/WARN]: Fri Jul 13 00:28:20 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:28:21] [pool-40-thread-1/WARN]: Fri Jul 13 00:28:21 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:28:21] [pool-40-thread-1/INFO]: [mcMMO] Killing orphans
+[00:28:21] [pool-40-thread-1/WARN]: Fri Jul 13 00:28:21 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:30:36] [Server thread/INFO]: DarrylSSY issued server command: /discord
+[00:30:52] [Server thread/INFO]: DarrylSSY issued server command: /deluxejoin reload
+[00:30:53] [Server thread/INFO]: DarrylSSY lost connection: Disconnected
+[00:30:53] [Thread-103/WARN]: Fri Jul 13 00:30:53 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:30:53] [Server thread/INFO]: [DiscordSRV] Player DarrylSSY quit with silent quitting permission, not sending a quit message
+[00:30:53] [Server thread/INFO]: 1531413053388[m
+[00:31:01] [User Authenticator #6/INFO]: UUID of player DarrylSSY is a65d1ac7-a445-4a16-a20f-36b9d0c6f8d3
+[00:31:01] [Server thread/INFO]: [DiscordSRV] Player DarrylSSY joined with silent joining permission, not sending a join message
+[00:31:01] [Server thread/INFO]: DarrylSSY[/127.0.0.1:60201] logged in with entity id 27114 at ([spawn]232.1428647674504, 70.0625, 417.01445442944123)
+[00:31:01] [Craft Scheduler Thread - 126/WARN]: Fri Jul 13 00:31:01 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:31:01] [pool-40-thread-1/WARN]: Fri Jul 13 00:31:01 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:31:01] [pool-40-thread-1/INFO]: [mcMMO] Killing orphans
+[00:31:01] [pool-40-thread-1/WARN]: Fri Jul 13 00:31:01 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:31:07] [Async Chat Thread - #1/INFO]: [CHAT] DarrylSSY: [0;36;1m[0;32;1m[m
+[00:31:07] [Async Chat Thread - #1/INFO]: [CHAT] DarrylSSY: [0;36;1m[0;32;1ma[m
+[00:31:10] [Async Chat Thread - #1/INFO]: [CHAT] DarrylSSY: [0;36;1m[0;36;1ma[m
+[00:32:08] [Server thread/INFO]: DarrylSSY issued server command: /deluxejoin reload
+[00:32:09] [Server thread/INFO]: DarrylSSY lost connection: Disconnected
+[00:32:09] [Thread-109/WARN]: Fri Jul 13 00:32:09 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:32:09] [Server thread/INFO]: [DiscordSRV] Player DarrylSSY quit with silent quitting permission, not sending a quit message
+[00:32:09] [Server thread/INFO]: 1531413129540[m
+[00:32:12] [User Authenticator #7/INFO]: UUID of player DarrylSSY is a65d1ac7-a445-4a16-a20f-36b9d0c6f8d3
+[00:32:12] [Server thread/INFO]: [DiscordSRV] Player DarrylSSY joined with silent joining permission, not sending a join message
+[00:32:12] [Server thread/INFO]: DarrylSSY[/127.0.0.1:60403] logged in with entity id 29410 at ([spawn]232.1428647674504, 70.0625, 417.01445442944123)
+[00:32:12] [Craft Scheduler Thread - 126/WARN]: Fri Jul 13 00:32:12 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:32:12] [pool-40-thread-1/WARN]: Fri Jul 13 00:32:12 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:32:12] [pool-40-thread-1/INFO]: [mcMMO] Killing orphans
+[00:32:12] [pool-40-thread-1/WARN]: Fri Jul 13 00:32:12 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:32:18] [Async Chat Thread - #2/INFO]: [CHAT] DarrylSSY: [0;36;1m[0;37;22ma[m
+[00:32:22] [Server thread/INFO]: Saving data.
+[00:32:47] [Server thread/INFO]: DarrylSSY issued server command: /vote
+[00:32:58] [Server thread/INFO]: Stopping the server
+[00:32:58] [Server thread/INFO]: Stopping server
+[00:32:58] [Server thread/INFO]: [Captcha] Disabling Captcha v0.06
+[00:32:58] [Server thread/INFO]: [BannerBoard_LeaderHeads] Disabling BannerBoard_LeaderHeads v1.0.7
+[00:32:58] [Server thread/INFO]: [DeluxeChat] Disabling DeluxeChat v1.12.8
+[00:32:58] [Server thread/INFO]: [mcMMO-Towny] Disabling mcMMO-Towny v1.0.0-SNAPSHOT
+[00:32:58] [Server thread/INFO]: [ChatControl] Disabling ChatControl v7.8.28
+[00:32:58] [Server thread/INFO]: [0;30;1m[[0;36;22mChatControl[0;30;1m][0;37;22m [0;37;1mSaving player data to MySQL..[m
+[00:32:58] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v1.7.9.3.8
+[00:32:58] [Server thread/INFO]: [ShopGUIPlus] Disabling ShopGUIPlus v1.18.0
+[00:32:58] [Server thread/INFO]: [TownyGUI] Disabling TownyGUI v0.17
+[00:32:58] [Server thread/INFO]: [Dynmap-Towny] Disabling Dynmap-Towny v0.70
+[00:32:58] [Server thread/INFO]: [LeaderHeads] Disabling LeaderHeads v3.1.8.3
+[00:32:58] [Server thread/INFO]: [LeaderHeads] Shutting down database connection.
+[00:32:58] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.9-SNAPSHOT-jenkins-CraftBook-223
+[00:32:58] [Server thread/INFO]: [CraftBook] Saving persistent data to YAML!
+[00:32:58] [Server thread/INFO]: [BannerBoard_Skills] Disabling BannerBoard_Skills v2.0.1
+[00:32:58] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.16.3
+[00:32:59] [Server thread/INFO]: [DiscordSRV] Saved linked accounts in 7ms
+[00:32:59] [Server thread/INFO]: [DiscordSRV] Saved metrics in 5ms
+[00:32:59] [Server thread/INFO]: [DiscordSRV] Shutdown completed in 311ms
+[00:32:59] [Server thread/INFO]: [TownyChat] Disabling TownyChat v0.51
+[00:32:59] [Server thread/INFO]: [SilkSpawners] Disabling SilkSpawners v5.0.2
+[00:32:59] [Server thread/INFO]: [Werewolf] Disabling Werewolf v1.3
+[00:32:59] [Server thread/INFO]: [Jobs] Disabling Jobs v4.5.4
+[00:32:59] [Server thread/INFO]: [0;33;1m[Jobs] Saved 2 new explorer entries.[m
+[00:32:59] [Server thread/INFO]: [Jobs] Saving blocks
+[00:32:59] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Database save task shutdown![m
+[00:32:59] [Server thread/INFO]: [0;33;1m[Jobs] [0;32;22mPlugin has been disabled succesfully.[m
+[00:32:59] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Buffered payment thread shutdown.[m
+[00:32:59] [Server thread/INFO]: [Towny] Disabling Towny v0.92.0.11
+[00:32:59] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: towny
+[00:32:59] [Server thread/INFO]: ==============================================================
+[00:32:59] [Server thread/INFO]: [Towny] Version: 0.92.0.11 - Mod Disabled
+[00:32:59] [Server thread/INFO]: =============================================================
+[00:32:59] [Server thread/INFO]: [Denizen] Disabling Denizen v1.0.2-SNAPSHOT (build 1649)
+[00:32:59] [Server thread/INFO]: [Denizen]  v1.0.2-SNAPSHOT (build 1649) disabled.
+[00:32:59] [Server thread/INFO]: [RandomCoords] Disabling RandomCoords v0.6.2-RELEASE
+[00:32:59] [Server thread/INFO]: [TitleManager] Disabling TitleManager v2.0.9
+[00:32:59] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.15.0.16
+[00:32:59] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.15.0.16
+[00:32:59] [Server thread/INFO]: [Quests] Disabling Quests v2.0.11-beta
+[00:32:59] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v4.3.2-SNAPSHOT
+[00:32:59] [Server thread/INFO]: [MythicMobs] Disabling Mythic Mobs...
+[00:32:59] [Server thread/INFO]: [MythicMobs] All active settings have been saved.
+[00:32:59] [Server thread/INFO]: [MythicMobs] v4.3.2-SNAPSHOT has been Disabled!
+[00:32:59] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.2.1;84bc322
+[00:32:59] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[00:32:59] [Server thread/INFO]: [HolographicExtension] Disabling HolographicExtension v1.9.2
+[00:32:59] [Server thread/INFO]: [Vampire] Disabling Vampire v2.14.0
+[00:32:59] [Server thread/INFO]: [0;36;22m[[0;36;1mVampire 2.14.0[0;36;22m] [0;33;1mDisabled[m
+[00:32:59] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.15.0.16
+[00:32:59] [Server thread/INFO]: [CrazyAuctions] Disabling CrazyAuctions v1.2.5.1
+[00:32:59] [Server thread/INFO]: [Train_Carts] Disabling Train_Carts v1.12.2-v2
+[00:32:59] [Server thread/INFO]: [BKCommonLib] Train_Carts disabled!
+[00:32:59] [Server thread/INFO]: [AdvancedAchievements] Disabling AdvancedAchievements v5.8.2
+[00:32:59] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder hook for placeholder: aach
+[00:32:59] [Server thread/INFO]: [AdvancedAchievements] Remaining requests sent to the database, plugin successfully disabled.
+[00:32:59] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.22-SNAPSHOT (build 1552)
+[00:32:59] [Server thread/INFO]: [mcMMOAction] Disabling mcMMOAction v2.3.2
+[00:32:59] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.8.7
+[00:32:59] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[00:32:59] [Server thread/INFO]: [MCBans] Disabling MCBans v4.4.4
+[00:32:59] [Server thread/INFO]: [MCBans] MCBans version 4.4.4 is disabled!
+[00:32:59] [Server thread/INFO]: [PlayerMention] Disabling PlayerMention v3.7
+[00:32:59] [Server thread/INFO]: [ChatInjector] Disabling ChatInjector v1.0.0
+[00:32:59] [Server thread/INFO]: [Essentials] Disabling Essentials v2.15.0.16
+[00:32:59] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
+[00:32:59] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[00:32:59] [Server thread/INFO]: [CratesPlus] Disabling CratesPlus v4.4.5
+[00:32:59] [Server thread/INFO]: [EpicWorldGenerator] Disabling EpicWorldGenerator v8.0.0-SNAPSHOT-4
+[00:32:59] [Server thread/INFO]: [SEARCH] Disabling SEARCH v1.7.6
+[00:32:59] [Server thread/INFO]: [SEARCH] Disabling SEARCH Anticheat v1.7.6
+[00:32:59] [Server thread/INFO]: [VoteParty] Disabling VoteParty v1.11.1
+[00:32:59] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: voteparty
+[00:32:59] [Server thread/INFO]: [Marriage] Disabling Marriage v2.0.18
+[00:32:59] [Server thread/INFO]: [Marriage] Loading database...
+[00:32:59] [Server thread/WARN]: Fri Jul 13 00:32:59 SGT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+[00:32:59] [Server thread/INFO]: [Marriage] Plugin has been completely disabled.
+[00:32:59] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.2.6
+[00:32:59] [Server thread/INFO]: [LWC] Disabling LWC v2.0.7
+[00:32:59] [Server thread/INFO]: [LWC] Flushing protection updates (0)
+[00:32:59] [Server thread/INFO]: [BKCommonLib] Disabling BKCommonLib v1.12.2-v4
+[00:32:59] [Server thread/INFO]: [UltraCosmetics] Disabling UltraCosmetics v2.4.11
+[00:32:59] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder hook for placeholder: ultracosmetics
+[00:32:59] [Server thread/INFO]: [CrazyCrates] Disabling CrazyCrates v1.8.1
+[00:32:59] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder hook for placeholder: crazycrates
+[00:32:59] [Server thread/INFO]: [BlockParticles] Disabling BlockParticles v1.9.7.2
+[00:32:59] [Server thread/INFO]: [MassiveCore] Disabling MassiveCore v2.14.0
+[00:32:59] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m[0;31;1mIntegration Deactivated [0;35;1mIntegrationLiabilityAreaEffectCloud[m
+[00:32:59] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1m[0;31;1mIntegration Deactivated [0;35;1mIntegrationVault[m
+[00:32:59] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.14.0[0;36;22m] [0;33;1mDisabled[m
+[00:32:59] [Server thread/INFO]: [Vault] Disabling Vault v1.6.6-b${env.TRAVIS_BUILD_NUMBER}
+[00:32:59] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: vault
+[00:32:59] [Server thread/INFO]: [ServerListPlus] Disabling ServerListPlus v3.4.8
+[00:32:59] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.4.8 disabled.
+[00:32:59] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5.2-SNAPSHOT-b764
+[00:32:59] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.10-SNAPSHOT
+[00:32:59] [Server thread/INFO]: [FeatherBoard] Disabling FeatherBoard v4.9.0
+[00:32:59] [Server thread/INFO]: [FeatherBoard] Cancelling all tasks ...
+[00:32:59] [Server thread/INFO]: [React] Disabling React v6.568
+[00:32:59] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder hook for placeholder: react
+[00:32:59] [Server thread/INFO]: [AsyncWorldEdit] Disabling AsyncWorldEdit v3.5.4
+[00:32:59] [Server thread/INFO]: [AsyncWorldEdit] Unloading plugins...
+[00:32:59] [Server thread/INFO]: [AsyncWorldEdit] Disable
+[00:32:59] [Server thread/INFO]: [VotingPlugin] Disabling VotingPlugin v5.13.3
+[00:32:59] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: VotingPlugin
+[00:32:59] [Server thread/INFO]: [MVdWPlaceholderAPI] Disabling MVdWPlaceholderAPI v2.5.1
+[00:32:59] [Server thread/INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.16.1-SNAPSHOT-sMD5NET-b1148
+[00:32:59] [Server thread/INFO]: [NoCheatPlus] Removed hook: AllViolations(NCP) [1.0].
+[00:32:59] [Server thread/INFO]: [NoCheatPlus] Removed hook: FlyNCP [1.7.6].
+[00:32:59] [Server thread/INFO]: [NoCheatPlus] Removed hook: ImprobableNCP [1.7.6].
+[00:32:59] [Server thread/INFO]: [NoCheatPlus] Removed hook: NukerNCP [1.7.6].
+[00:32:59] [Server thread/INFO]: [NoCheatPlus] Removed hook: FightSpeedNCP [1.7.6].
+[00:32:59] [Server thread/INFO]: [NoCheatPlus] Removed hook: AttackFrequencyNCP [1.7.6].
+[00:32:59] [Server thread/INFO]: [NoCheatPlus] Removed hook: FlyingFrequencyNCP [1.7.6].
+[00:32:59] [Server thread/INFO]: [NoCheatPlus] Version 3.16.1-SNAPSHOT-sMD5NET-b1148 is disabled.
+[00:32:59] [Server thread/INFO]: [LibsDisguises] Disabling LibsDisguises v9.5.1-SNAPSHOT
+[00:32:59] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.3.0
+[00:32:59] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b719
+[00:32:59] [Server thread/INFO]: [UltimateWelcome] Disabling UltimateWelcome v1.0
+[00:32:59] [Server thread/INFO]: [Votifier] Disabling Votifier v2.3.7
+[00:32:59] [Server thread/INFO]: [Votifier] Votifier disabled.
+[00:32:59] [Server thread/INFO]: [BannerBoard] Disabling BannerBoard v1.9.9
+[00:33:00] [Server thread/INFO]: [AdvancedReplay] Disabling AdvancedReplay v1.2.2
+[00:33:00] [Server thread/INFO]: [Essentials_WarpGUI] Disabling Essentials_WarpGUI v1.6.1
+[00:33:00] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v4.2.17
+[00:33:00] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mClosing storage...[m
+[00:33:00] [Server thread/WARN]: 990326 [Server thread] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms - Shutdown initiated...
+
+[00:33:00] [Server thread/WARN]: 990331 [Server thread] INFO me.lucko.luckperms.lib.hikari.HikariDataSource - luckperms - Shutdown completed.
+
+[00:33:00] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mClosing messaging service...[m
+[00:33:00] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mShutting down internal scheduler...[m
+[00:33:00] [Server thread/INFO]: [0;37;22m[21m[[0;36;1mL[0;36;22mP[0;37;22m[21m] [0;36;22mGoodbye![m
+[00:33:00] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.14.2
+[00:33:01] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...[m
+[00:33:01] [Server thread/INFO]: [CoreProtect] Success! Resuming server shutdown.
+[00:33:01] [Server thread/INFO]: [AsyncWorldEditInjector] Disabling AsyncWorldEditInjector v3.5.2
+[00:33:01] [Server thread/INFO]: [AsyncWorldEditInjector] Disabled
+[00:33:01] [Server thread/INFO]: [InvRestore] Disabling InvRestore v1.0
+[00:33:01] [Server thread/INFO]: [mcMMOHorse] Disabling mcMMOHorse v4.3.28
+[00:33:01] [Server thread/INFO]: [0;32;1mAll horses saved to database.[m
+[00:33:01] [Server thread/INFO]: [AutoRestart] Disabling AutoRestart v3.3.0
+[00:33:01] [Server thread/INFO]: [WeatherVote] Disabling WeatherVote v1.4
+[00:33:01] [Server thread/INFO]: [WeatherVote] a Plugin by F_o_F_1092
+[00:33:01] [Server thread/INFO]: [DeluxeTags] Disabling DeluxeTags v1.7.1
+[00:33:01] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: deluxetags
+[00:33:01] [Server thread/INFO]: [ChatReaction] Disabling ChatReaction v1.7.1
+[00:33:01] [Server thread/WARN]: [RewardPRO] <MySQL> Disconnected!
+[00:33:01] [Server thread/INFO]: [0;36;22m[21mRewardPro >>> Plugin RewardPro is diabled[m
+[00:33:01] [Server thread/INFO]: [ConsoleSpamFix] Disabling ConsoleSpamFix v1.5.0
+[00:33:01] [Server thread/INFO]: [ConsoleSpamFix] Messages hidden since the server started: 4
+[00:33:01] [Server thread/INFO]: [ConsoleSpamFix] ConsoleSpamFix is disabled!
+[00:33:01] [Server thread/INFO]: [RecipeFinder] Disabling RecipeFinder v2.2
+[00:33:01] [Server thread/INFO]: [PlugMan] Disabling PlugMan v2.1.5
+[00:33:01] [Server thread/INFO]: [DeluxeJoin] Disabling DeluxeJoin v2.5.0
+[00:33:01] [Server thread/INFO]: [DeluxeCommands] Disabling DeluxeCommands v1.7.0
+[00:33:01] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.9.1
+[00:33:01] [Server thread/INFO]: [PluginConstructorAPI] Disabling PluginConstructorAPI v1.0.40
+[00:33:01] [Server thread/INFO]: [LetterHeads] Disabling LetterHeads v18.2
+[00:33:01] [Server thread/INFO]: [LetterHeads] Version 18.2 was successfully disabled!
+[00:33:01] [Server thread/INFO]: Saving players
+[00:33:01] [Server thread/INFO]: DarrylSSY lost connection: Server closed
+[00:33:01] [Server thread/INFO]: DarrylSSY left the game
+[00:33:01] [Server thread/INFO]: Saving worlds
+[00:33:01] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[00:33:01] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[00:33:01] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[00:33:01] [Server thread/INFO]: Saving chunks for level 'spawn'/overworld

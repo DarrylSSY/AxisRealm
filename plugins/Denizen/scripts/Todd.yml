@@ -1,0 +1,14 @@
+Todd:
+  type: assignment
+  interact scripts:
+    - 1 ToddMain
+
+ToddMain:
+  type: interact
+  steps:
+    1:
+      click trigger:
+        script:
+          - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Hey, name's Todd. Are there any quests you would like to do?"
+          - wait 1
+          - execute as_player "quest"

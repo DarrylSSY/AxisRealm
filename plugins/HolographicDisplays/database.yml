@@ -1,0 +1,32 @@
+razroidnpc:
+  location: spawn, 223.500, 72.500, 458.500
+  lines:
+  - '&2Special NPC'
+rightclick:
+  location: spawn, 223.500, 73.000, 458.500
+  lines:
+  - '&6&l<<Right Click NPC>>'
+darrylssy:
+  location: spawn, 224.500, 72.500, 422.500
+  lines:
+  - '&2Special NPC'
+todd:
+  location: spawn, 212.515, 72.500, 427.500
+  lines:
+  - '&2Quest NPC'
+warp:
+  location: spawn, 221.520, 72.500, 433.491
+  lines:
+  - '&2Warp NPC'
+ducklet:
+  location: spawn, 233.500, 72.500, 422.500
+  lines:
+  - '&2Event NPC'
+rammy:
+  location: spawn, 258.552, 72.500, 409.402
+  lines:
+  - '&2Special NPC'
+finney:
+  location: spawn, 243.481, 72.500, 430.427
+  lines:
+  - '&2Auction NPC'

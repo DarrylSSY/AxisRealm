@@ -1,0 +1,23 @@
+geolocation: Singapore
+lastAccountName: krakken858
+timestamps:
+  login: 1530456298611
+  logout: 1530461069422
+  lastteleport: 1530459606350
+ipAddress: 115.66.157.121
+lastlocation:
+  world: spawn
+  x: 225.82393510981527
+  y: 70.0
+  z: 462.1918879579826
+  yaw: -173.82722
+  pitch: 9.153099
+money: '2360.0'
+logoutlocation:
+  world: spawn
+  x: 238.92943361162884
+  y: 74.61815469392508
+  z: 429.49738902647505
+  yaw: -43.240723
+  pitch: 15.54945
+afk: false

@@ -1,0 +1,22 @@
+geolocation: Poland
+lastAccountName: Lazurowwy
+timestamps:
+  login: 1530124587845
+  logout: 1530126308701
+  lastteleport: 1530125054202
+ipAddress: 79.185.188.206
+lastlocation:
+  world: spawn
+  x: 225.53726224838346
+  y: 69.5
+  z: 425.63860300771495
+  yaw: 229.79541
+  pitch: 21.000074
+money: '1247.2500000000000081'
+logoutlocation:
+  world: world
+  x: 2444.521710859658
+  y: 73.0
+  z: 2883.2752301047767
+  yaw: 231.75192
+  pitch: 10.050003

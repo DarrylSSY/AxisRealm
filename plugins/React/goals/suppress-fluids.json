@@ -1,0 +1,16 @@
+{
+    "reaction": {
+        "near": "fluid",
+        "time": "15t",
+        "type": "lock_fluid"
+    },
+    "action-health-regen": 1,
+    "author": "React",
+    "action-health-max": 400,
+    "name": "Suppress Fluids",
+    "description": "Reduces fluid flows",
+    "interval": "5t",
+    "conditions": ["fluid_tick_usage>0.25"],
+    "enabled": false,
+    "action-health-damage": 70
+}

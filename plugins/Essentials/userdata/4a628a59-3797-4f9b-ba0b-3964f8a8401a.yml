@@ -1,0 +1,31 @@
+geolocation: Singapore
+lastAccountName: Howyin
+timestamps:
+  login: 1530388310909
+  logout: 1530390879515
+  lastteleport: 1530389201350
+ipAddress: 116.14.94.218
+lastlocation:
+  world: spawn
+  x: 251.9250000119209
+  y: 70.0
+  z: 428.30000001192093
+  yaw: -254.24323
+  pitch: 18.599716
+money: '711.0'
+logoutlocation:
+  world: world
+  x: -100.01146062032186
+  y: 81.0
+  z: 773.3121146307428
+  yaw: 76.50668
+  pitch: 39.30051
+homes:
+  home:
+    world: world
+    x: -98.8987942036952
+    y: 81.0
+    z: 772.4772957412738
+    yaw: 130.95663
+    pitch: 4.350465
+afk: false

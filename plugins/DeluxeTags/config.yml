@@ -1,0 +1,275 @@
+# DeluxeTags version: 1.7.1 Main Configuration
+# 
+# Create your tags using the following format:
+# 
+# deluxetags:
+#   VIP: 
+#     order: 1
+#     tag: '&7[&eVIP&7]'
+#     description: 'This tag is awarded by getting VIP'
+# 
+# Placeholders for your DeluxeChat formats config:
+# 
+# %deluxetags_identifier% - display the players active tag identifier
+# %deluxetags_tag% - display the players active tag
+# %deluxetags_description% - display the players active tag description
+# %deluxetags_amount% - display the amount of tags a player has access to
+# 
+# Placeholders for your essentials/chat handling formats config:
+# 
+# {deluxetags_identifier} - display the players active tag identifier
+# {deluxetags_tag} - display the players active tag
+# {deluxetags_description} - display the players active tag description
+# {deluxetags_amount} - display the amount of tags a player has access to
+force_tags: false
+check_updates: true
+deluxe_chat: true
+format_chat:
+  enabled: true
+  format: '{deluxetags_tag} <%1$s> %2$s'
+gui:
+  name: '&6Available tags&f: &6%deluxetags_amount%'
+  tag_select_item:
+    material: NAME_TAG
+    data: 0
+    displayname: '&6Tag&f: &6%deluxetags_identifier%'
+    lore:
+    - '%deluxetags_tag%'
+    - '%deluxetags_description%'
+  divider_item:
+    material: STAINED_GLASS_PANE
+    data: 15
+    displayname: ''
+    lore: []
+  has_tag_item:
+    material: SKULL_ITEM
+    data: 3
+    displayname: '&eCurrent tag&f: &6%deluxetags_identifier%'
+    lore:
+    - '%deluxetags_tag%'
+    - Click to remove your current tag
+  no_tag_item:
+    material: SKULL_ITEM
+    data: 3
+    displayname: '&cYou don''t have a tag set!'
+    lore:
+    - '&7Click a tag above to select one!'
+  exit_item:
+    material: IRON_DOOR
+    data: 0
+    displayname: '&cClick to exit'
+    lore:
+    - '&7Exit the tags menu'
+deluxetags:
+  guest:
+    order: 0
+    tag: '&7[Guest]'
+    description: '&fNew player'
+  wanderer:
+    order: 1
+    tag: '&e[Wanderer]'
+    description: '&6Member of Axisrealm SMP Server'
+  citizen:
+    order: 2
+    tag: '&6[Citizen]'
+    description: '&eThanks for donating!'
+  adept:
+    order: 3
+    tag: '&2[Adept]'
+    description: '&aContributer to the server'
+  champion:
+    order: 4
+    tag: '&3[Champion]'
+    description: '&bThe greatest'
+  legend:
+    order: 5
+    tag: '&5[Legend]'
+    description: '&dThe true one'
+  trainee:
+    order: 50
+    tag: '&2|Trainee|'
+    description: '&eTrainee of Axisrealm'
+  moderator:
+    order: 51
+    tag: '&6|Mod|'
+    description: '&eModerator of Axisrealm'
+  smoderator:
+    order: 52
+    tag: '&6|S.Mod|'
+    description: '&eModerator of Axisrealm'
+  admin:
+    order: 53
+    tag: '&c|Admin|'
+    description: '&4Admin of Axisrealm'
+  owner:
+    order: 54
+    tag: '&4|Owner|'
+    description: '&cOwner of Axisrealm'
+  voter:
+    order: 100
+    tag: '&e[Voter]'
+    description: '&6Reached 100 votes'
+  alpha:
+    order: 102
+    tag: '&6[Alpha]'
+    description: '&eAlpha Tester of Axisrealm'
+  beta:
+    order: 103
+    tag: '&d[Beta]'
+    description: '&5Beta Tester of Axisrealm'
+  puff:
+    order: 104
+    tag: '&b[Duck]'
+    description: '&3Participant of Event'
+  ender:
+    order: 105
+    tag: '&5[Ender]'
+    description: '&dFirst 10 to visit The End'
+  lucky:
+    order: 200
+    tag: '&a[Lucky]'
+    description: '&2The lucky one'
+  c392:
+    order: 201
+    tag: '&9[C392]'
+    description: '&1Classmate of DarrylSSY'
+  jester:
+    order: 202
+    tag: '&e[Jester]'
+    description: '&6Provides quality entertainment'
+  sg50:
+    order: 203
+    tag: '&c[SG50]'
+    description: '&4Participant of 2015 National Day Event'
+  sg51:
+    order: 204
+    tag: '&c[SG51]'
+    description: '&3Participant of 2016 National Day Event'
+  train:
+    order: 205
+    tag: '&4[Train]'
+    description: '&cRetired train conductor'
+  banned:
+    order: 206
+    tag: '&0[Banned]'
+    description: '&fUnbanned from server'
+  codehaven:
+    order: 207
+    tag: '&3[CodeHaven]'
+    description: '&bOwner of CodeHaven'
+  fng:
+    order: 208
+    tag: '&6[FNG]'
+    description: '&eMember of Friday Night Gaming'
+  senpai:
+    order: 209
+    tag: '&d[Senpai]'
+    description: '&5Host of AstensitySMP'
+  death:
+    order: 300
+    tag: '&0&k[&0Death&k]'
+    description: '&fThe scary one'
+  empress:
+    order: 301
+    tag: '&5&k[&5Empress&k]'
+    description: '&dThe true beauty'
+  kappa:
+    order: 302
+    tag: '&a&k[&aKappa&k]'
+    description: '&2Kappa, kappa, kappa'
+  kitty:
+    order: 303
+    tag: '&d&k[&dKitty&k]'
+    description: '&5The cute one'
+  lord:
+    order: 304
+    tag: '&6&k[&6Lord&k]'
+    description: '&eThe best of the best'
+  queen:
+    order: 305
+    tag: '&d&k[&dQueen&k]'
+    description: '&5The mightiest of all'
+  wolf:
+    order: 306
+    tag: '&b&k[&bWolf&k]'
+    description: '&fThe cunning one'
+  skps:
+    order: 400
+    tag: '&a[SKPS]'
+    description: '&2Student of Sengkang Primary School'
+  acs:
+    order: 500
+    tag: '&2[ACS]'
+    description: '&aStudent of Anglo-Chinese School'
+  blss:
+    order: 501
+    tag: '&2[BLSS]'
+    description: '&aStudent of Boon Lay Secondary School'
+  ccks:
+    order: 502
+    tag: '&2[CKSS]'
+    description: '&aStudent of Chua Chu Kang Secondary School'
+  css:
+    order: 503
+    tag: '&2[CSS]'
+    description: '&aStudent of Canberra Secondary School'
+  efss:
+    order: 504
+    tag: '&2[EFSS]'
+    description: '&aStudent of Edgefield Secondary School'
+  gdlss:
+    order: 505
+    tag: '&2[GDLSS]'
+    description: '&aStudent of Greendale Secondary School'
+  nchs:
+    order: 506
+    tag: '&2[NCHS]'
+    description: '&aStudent of Nan Chiau High School'
+  tss:
+    order: 507
+    tag: '&2[TSS]'
+    description: '&aStudent of Tanglin Secondary School'
+  ite:
+    order: 600
+    tag: '&3[ITE]'
+    description: '&bStudent of Institute of Technical Education'
+  shatec:
+    order: 601
+    tag: '&3[Shatec]'
+    description: '&bStudent of Shatec'
+  np:
+    order: 602
+    tag: '&3[NP]'
+    description: '&bStudent of Ngee Ann Polytechnic'
+  nyp:
+    order: 603
+    tag: '&3[NYP]'
+    description: '&bStudent of Nanyang Polyechnic'
+  rp:
+    order: 604
+    tag: '&3[RP]'
+    description: '&bStudent of Republic Polytechnic'
+  sp:
+    order: 605
+    tag: '&3[SP]'
+    description: '&bStudent of Singapore Polytechnic'
+  tp:
+    order: 606
+    tag: '&3[TP]'
+    description: '&bStudent of Temasek Polytechnic'
+  nus:
+    order: 700
+    tag: '&5[NUS]'
+    description: '&dStudent of National University of Singapore'
+  ntu:
+    order: 701
+    tag: '&5[NTU]'
+    description: '&dStudent of Nanyang Technological University'
+  smu:
+    order: 702
+    tag: '&5[SMU]'
+    description: '&dStudent of Singapore Management University'
+  sutd:
+    order: 703
+    tag: '&5[SIT]'
+    description: '&dStudent of Singapore Institute of Technology'

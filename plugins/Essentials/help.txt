@@ -1,0 +1,286 @@
+&c&l Help &7&l-> &a&lGuides:
+
+&7&m--&6&lStarting&7&m----------------------------------------  
+
+&b/help &3-Shows this screen.
+&b/help starter &3-New here? Do this command.
+&b/help money &3-A guide on different ways of earning money.
+&b/help commands &3-A guide on important useful commands.
+
+&c&l Help &7&l-> &a&lGuides:
+
+&7&m--&6&lEarly Game Part 1&7&m---------------------------------
+
+&b/help jobs &3-Guide on jobs
+&b/help market &3-Guide on our global market and auctions
+&b/help shop &3-This teaches you about our global shop.
+&b/help towny &3-Shows information on Towny.
+
+&c&l Help &7&l-> &a&lGuides:
+
+&7&m--&6&lEarly Game Part 2&7&m---------------------------------
+
+&b/help mcmmo &3-Guide on mcMMO, our RPG plugin.
+&b/help mcmmohorse &3-Guide on mcMMO, our RPG plugin for horses.
+&b/help crates &3-Guide on our crates system.
+
+
+&c&l Help &7&l-> &a&lGuides:
+
+&7&m--&6&lMid Game&7&m-------------------------------------------
+ 
+&b/help werewolf &3-Guide on werewolves
+&b/help vampire &3-Guide on vampire
+
+
+
+&c&l Help &7&l-> &a&lGuides:
+
+&7&m--&6&lEnd Game&7&m------------------------------------------
+
+&b/help ce &3-Guide on our custom enchantment system
+&b/help cm &3-Guide on our custom monsters system
+
+
+
+&c&l Help &7&l-> &a&lGuides:
+
+&7&m--&6&lOther Guides&7&m--------------------------------------
+
+&b/help donate &3-Shows you information on different donation perks.
+
+
+
+
+#commands
+&c&l Help &7&l-> &a&lCommands:
+&c< > = Required        ( ) = Optional
+
+&7&m--&6&lServer Info&7&m---------------------------------------
+&b/rules &3-Shows you the rules.
+&b/discord &3-Shows you the link to our Discord server
+&b/website &3-Shows you the link to our website
+&b/map &3-Shows you the website of the Live Map.
+
+
+&c&l Help &7&l-> &a&lCommands:
+&c< > = Required        ( ) = Optional
+
+&7&m--&6&lModeration&7&m----------------------------------------
+&b/ticket &3-Have an issue? File a ticket to explain your issue.
+
+
+
+&c&l Help &7&l-> &a&lCommands:
+&c< > = Required        ( ) = Optional
+
+&7&m--&6&lUseful Commands Part 1&7&m---------------------------
+
+&b/shop &3-Opens the global shop.
+&b/market &3-Opens the global market.
+&b/claim &3-Video tutorial on using Towny.
+&b/ca sell <price> (amount) &3-Create a listing for the item you are holding on the market.
+&c&l Help &7&l-> &a&lCommands:
+&c< > = Required        ( ) = Optional
+
+&7&m--&6&lUseful Commands Part 2&7&m---------------------------
+
+&b/vote &3-Shows you a list of clickable voting sites you can vote on.
+&b/tags &3-Allows you to set a tag to be displayed in chat.
+&b/rewards &3-Shows you a list of rewards you can get from voting.
+&b/donate &3-Opens the donation shop.
+&c&l Help &7&l-> &a&lCommands:
+&c< > = Required        ( ) = Optional
+
+&7&m--&6&lUseful Commands Part 3&7&m---------------------------
+&b/money &3-Shows you the amount of money you have
+&b/baltop &3-Shows the top players in terms of wealth
+&b/jobs browse &3-Shows you a list of jobs that you can join.
+&b/jobs <jobname> &3-Shows you information about the specified job.
+&b/jobs join <jobname> &3-Causes you to immediately join the specified job.
+&c&l Help &7&l-> &a&lCommands:
+&c< > = Required        ( ) = Optional
+
+&7&m--&6&lUseful Commands Part 4&7&m---------------------------
+&b/back &3-Takes you back to your previous location, before teleporting.
+&b/gkit &3-Brings you a list of possible kits.
+&b/town list &3-Shows the list of towns.
+&b/town join <townname> &3-Allows you to join the specified town.
+&b/mail &3-Shows you the commands for player mail.
+&c&l Help &7&l-> &a&lCommands:
+&c< > = Required        ( ) = Optional
+
+&7&m--&6&lUseful Commands Part 5&7&m---------------------------
+&b/mcstats &3-Shows your current McMMO skill levels.
+&b/towny time &3-Shows the time till the next towny day when taxes are collected.
+&b/towny prices &3-Shows the cost of town creation, nation creation and teaxes.
+&b/town new <townname> &3-Allows you to create a town.
+&b/votepoint &3-View amount of vote points you have.
+&c&l Help &7&l-> &a&lCommands:
+&c< > = Required        ( ) = Optional
+
+&7&m--&6&lUseful Commands Part 6&7&m---------------------------
+&b/voteshop &3-Shows vote shop.
+&b/auction &3-Shows a list of auction commands.
+&b/auction start <amount> <price> &3-Starts an auction with the item you are currently holding.
+
+
+&c&l Help &7&l-> &a&lCommands:
+&c< > = Required        ( ) = Optional
+
+&7&m--&6&lTeleportation Commands Part 1&7&m--------------------
+&b/spawn &3-Teleports you to the spawn location.
+&b/sethome &3-Sets your home location to where you are standing.
+&b/home &3-Teleport to home.
+&b/back &3-Teleport back to your previous location.
+&b/tpa <playername> &3-Sends a teleport request to the specified player to teleport to them.
+&c&l Help &7&l-> &a&lCommands:
+&c< > = Required        ( ) = Optional
+
+&7&m--&6&lTeleportation Commands Part 2&7&m--------------------
+&b/tpahere <playername> &3-Sends a teleport request to the specified player to teleport them to you.
+&b/lobby &3-Teleport to lobby.
+
+
+
+&c&l Help &7&l-> &a&lCommands:
+&c< > = Required        ( ) = Optional
+
+&7&m--&6&lChat Commands Part 1&7&m-----------------------------
+&b/msg <playername> <message> &3-Send a message to a specified player.
+&b/r <message> &3-Quick reply a message.
+&b/l (message) &3-Toggle or send message to nearby players chat.
+&b/g (message) &3-Toggle or send message to global chat.
+
+&c&l Help &7&l-> &a&lCommands:
+&c< > = Required        ( ) = Optional
+
+&7&m--&6&lChat Commands Part 2&7&m-----------------------------
+&b/tc (message) &3-Toggle or send message to town chat.
+&b/nc (message) &3-Toggle or send message to nation chat.
+
+
+#starter
+&c&l1.&bHello, you must be new here to Axisrealm!
+&2If you have not, talk to &6Razroid &2who can be found right infront of the spawn point.
+&2He will then instruct you to look for &6Darryl &2who will reward you with a &6Wanderer Rank&2. The &6Wanderer Rank &2is needed to progress in this server. 
+
+&c&l2.&bAfter you are done with the Starter Quest, you can set a title beside your name!
+&2You may do so using the &6/tags &2command. You can also gain tags through a variety of different ways. For more information of another player's tag, mouse over their title in chat.
+
+&c&l3.&bRemember that there are NPCs!
+&2In Axisrealm, we have NPCs at spawn that allows you to do a variety of different things. Do remember to interact with them for more information. For example, our event NPC &6Ducklet &2will be the NPC you would go to for events and event rewards!
+&c&l4.&bTime to start your adventure!
+&2Once you are ready, you can start by entering the portal at spawn. 
+&2You might want to look at the money guide with &6/help money &2as well as the early game guides with &6/help 2 &2and &6/help 3&2.
+
+
+#money
+&c&l1.&bThe easiest way to make money is from doing Jobs!
+&2To see how much money you have, type &6/money&2.
+&2The primary way to make money is through Jobs.
+&2To find a job, type &6/jobs browse&2. Look for the name of a job you are interested in and then type &6/jobs <jobname> &2to learn more about it. Type &6/jobs join <jobname> &2to join that job, and begin making money doing it.
+&2You can have up to 3 jobs. To learn all about jobs and what they provide, simply type &6/help jobs
+
+&c&l2.&bAdditonally, you can make money from selling!
+&2You are able to make money from killing monsters and selling items to other players via the global shop, global market or the auctions. For more information on the global shop, be sure to type &6/help shop&2. For more information on the global market, be sure to type &6/help market&2
+
+&c&l3.&bIf you love grinding, you can also earn money from doing quests!
+&2You can look for the Quest NPC, &6Todd&2, or do &6/quest&2, for quests! Quests will reward you with great rewards, ranging from money, to EXP and even items!
+
+&c&l4.&bJust be active!
+&2You will get money rewards from voting with &6/vote&2. Additionally, you get money from every hour of being online and we also have a chat reaction game which you can compete with other players in the chat for a money reward!
+
+&c&l5.&bMethods not for those faint-hearted.
+&2You can earn a huge amount of money by starting a town and charging your residents a tax fee. Do note that starting a town is very expensive and that there are upkeeps you have to maintain too. Do check our Towny guide, &6/help towny&2, on more information on how you could achieve this.
+
+#jobs
+&c&l1.&bAn introduction to jobs
+&2also referred to as professions, are simple and consistent avenues to make money in our economy. Jobs were designed to complement your playstyle, so there are some considerations before picking your job.
+
+&c&l2.&bRegaring amount of jobs
+&2By default, you can have up to 3 jobs, so picking jobs that already fit into the way you play makes it a much smarter choice. Do note that the more jobs you have, the less you earn per job. So pick wisely!
+
+&c&l3.&bJoining a job
+&2To see a list of available jobs, simply type &6/jobs list&2.
+&2To see information on a job and their payout details, type &6/jobs <jobname>&2.
+&2When you have made your decision on the job you like, type &6/jobs join <jobname> &2to join the job.
+
+&c&l4.&bLeveling a job
+&2Do note that in Axisrealm, we have modified our jobs leveling system to be exponential. This means that leveling in Axisrealm is extremely slow the higher your level. You can level the job up by doing the job. Type &6/jobs stats &2to view the stats of your current job.
+
+&c&l5.&bJobs payout
+&2We have also changed the payout to be exponential to match our leveling, the higher your job level, the higher your pay. Jobs payout differently per action, and also have different max payouts per hour. Tte harder the job, the more money you can make within an hour.
+
+#market
+&c&l1.&bSelling items
+&2First off, you will need to hold the item you would like to sell in your hand, then type the command &6/ca sell <price> (amount)&2.Afterwards, the item will be sent to the global market which is accessible with &6/market&2.
+
+&c&l2.&bBuying items
+&2You can purchase from the market by double clicking on the item you want, which will then be sent to your mouse which you can put in your inventory.
+
+#shop
+&c&l-BEING WORKED ON-
+
+#towny
+&2For a full video guide, do &6"/town"&2.
+
+&bSo you want to form a town? Go to an unoccupied area in the wilderness and type &6"/town new <townname>"&b.
+
+&2Note: Town (and Nation) names can only be one word. You can use '_' instead of space to get around that limit however, as most outputs should format it as a space.  
+
+&bYou are now standing within your homeblock. When making a town, the nearest chunk is claimed as your town. Chunks are a 16x16 area and 128 blocks high from bedrock to the clouds. You can easily find the edges of your town by walking until ~Wilderness pops up stating you are no longer within your fledgling town's boundaries.
+
+&2All right! You have a town! Needs a little polish though. First let's check out its status.
+
+&bBy the way, &6"/town" &bcan also be written as its shorter form, &6"/t"&b. Typing this without parameters will display your town's status.
+
+&2Looks like we have a maximum of 16 town blocks to begin with. In towny, plots/townblocks = chunks. As your town grows bigger with more residents, your limit increases. Also, admins have the power to give bonus blocks to a town (and take away!)
+
+&bFor now, we should be standing just outside our town. Let's try claiming the town block we are standing in by typing &6"/t claim"&b.
+
+&2You may pull out the map of the town area with &6"/t map"&2.
+
+&bYou may find yourself looking at the map a lot. Towny has a cool thing where a player can enter modes that help him interact with the environment as he travels. One mode is mapping mode, simply type &6"/res set mode map"&b.
+
+&2Like /t, /res is short for /resident. Alright now try walking in the wilderness. The map should pop up every time you walk between chunks. If you ever find the map confusing, you may use the live map with &6"/map" &2which will also display towns. However, the live map takes time to update and hence it will not display your town in real time.
+
+&bTo set a plot for sale, you may type &6"/plot forsale <price>" &bto set the plot you are standing on for sale.
+
+&2To buy a plot that is for sale, you may type &6/plot claim" &band it will buy the plot you are standing on.
+
+&bTo allow your friend to be able to build in your plot, type &6"/resident set perm ally off"&b.
+
+&2To add a friend, type &6"/res friend add <playername>"&2.
+
+&bTo remove a friend, type &6"/res friend remove <playername>"&2.
+
+&2To add a player to your town, type &6"/t add <playername>"&2.
+
+#mcmmo
+&c&l-BEING WORKED ON-
+
+#mcmmohorse
+&c&l-BEING WORKED ON-
+
+#crates
+&c&l-BEING WORKED ON-
+
+#werewolf
+&c&l-BEING WORKED ON-
+
+#vampire
+&c&l-BEING WORKED ON-
+
+#ce
+&c&l-BEING WORKED ON-
+
+#cm
+&c&l-BEING WORKED ON-
+
+#donate
+&c&l-BEING WORKED ON-
+
+#stafflist,onlinestaff
+&6Online Staff:
+{PLAYERLIST:MODERATOR} {PLAYERLIST:ADMIN} {PLAYERLIST:OWNER}

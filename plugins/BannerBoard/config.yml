@@ -1,0 +1,256 @@
+# This is the BannerBoard configuration
+# Make sure to always make a backup of this file before making any changes!
+# Made by BigTeddy98
+# 
+# Every BannerBoard has some internal settings stored in this file.
+# Please do not make any changes to whatever is in the internal section.
+
+lastUsedId: 20
+skins:
+  profileLookupURL: https://sessionserver.mojang.com/session/minecraft/profile/
+  offlineMode:
+    uuidLookupURL: https://api.mojang.com/users/profiles/minecraft/
+    isOfflineMode: false
+idrange:
+  startid: 25000
+  amount: 5000
+skinserver: http://www.skinrender.com:2798/
+skinrender_key: DD1LJA5BKLD6A9LH3R8KA3O9DT
+bannerboards:
+  '2':
+    internal:
+      frames:
+      - spawn_235.0_73.0_408.0_0.0_0.0
+      - spawn_236.0_73.0_408.0_0.0_0.0
+      - spawn_237.0_73.0_408.0_0.0_0.0
+      - spawn_238.0_73.0_408.0_0.0_0.0
+      facing: NORTH
+    configurable:
+      renderers:
+      - COLOR -color 0,0,0
+      - IMAGE -src whitelogo.png -width 128 -height 128 -xOffset 0
+      - TEXT -text BEGIN YOUR -size 60 -font Roboto Lt -color 255,255,255 -strokeColor
+        0,0,0 -strokeThickness 0 -yOffset 60 -xOffset 128
+      - TEXT -text ADVENTURE -size 60 -font Roboto Bk -color 255,255,255 -strokeColor
+        0,0,0 -strokeThickness 0 -yOffset 110 -xOffset 128
+  '3':
+    internal:
+      frames:
+      - spawn_224.0_73.0_434.0_0.0_0.0
+      - spawn_224.0_73.0_433.0_0.0_0.0
+      - spawn_224.0_73.0_432.0_0.0_0.0
+      facing: WEST
+    configurable:
+      renderers:
+      - COLOR -color 60,60,60
+      - IMAGE -src big_old_parchment.png -height 50 -yOffset 80
+      - TEXT -text WARPS -size 60 -font Roboto Bk -color 255,255,255 -strokeColor
+        0,0,0 -strokeThickness 0 -yOffset 60
+      - TEXT -text RIGHT CLICK -size 40 -font Roboto -color 0,0,0 -strokeColor 0,0,0
+        -strokeThickness 0 -yOffset 115
+  '4':
+    internal:
+      frames:
+      - spawn_222.0_73.0_430.0_0.0_0.0
+      - spawn_221.0_73.0_430.0_0.0_0.0
+      - spawn_220.0_73.0_430.0_0.0_0.0
+      facing: SOUTH
+    configurable:
+      renderers:
+      - COLOR -color 60,60,60
+      - IMAGE -src big_old_parchment.png -height 50 -yOffset 80
+      - TEXT -text WARPS -size 60 -font Roboto Bk -color 255,255,255 -strokeColor
+        0,0,0 -strokeThickness 0 -yOffset 60
+      - TEXT -text RIGHT CLICK -size 40 -font Roboto -color 0,0,0 -strokeColor 0,0,0
+        -strokeThickness 0 -yOffset 115
+  '5':
+    internal:
+      frames:
+      - spawn_227.0_73.0_410.0_0.0_0.0
+      - spawn_228.0_73.0_410.0_0.0_0.0
+      - spawn_229.0_73.0_410.0_0.0_0.0
+      facing: NORTH
+    configurable:
+      renderers:
+      - COLOR -color 60,60,60
+      - IMAGE -src big_old_parchment.png -height 50 -yOffset 80
+      - TEXT -text STOCKS -size 60 -font Roboto Bk -color 255,255,255 -strokeColor
+        0,0,0 -strokeThickness 0 -yOffset 60
+      - TEXT -text RIGHT CLICK -size 40 -font Roboto -color 0,0,0 -strokeColor 0,0,0
+        -strokeThickness 0 -yOffset 115
+  '6':
+    internal:
+      frames:
+      - spawn_224.0_73.0_416.0_0.0_0.0
+      - spawn_224.0_73.0_415.0_0.0_0.0
+      - spawn_224.0_73.0_414.0_0.0_0.0
+      facing: WEST
+    configurable:
+      renderers:
+      - COLOR -color 60,60,60
+      - TEXT -text JOBS & -size 60 -font Roboto Bk -color 255,255,255 -strokeColor
+        0,0,0 -strokeThickness 0 -yOffset 60
+      - TEXT -text MCMMO -size 60 -font Roboto Bk -color 255,255,255 -strokeColor
+        0,0,0 -strokeThickness 0 -yOffset 115
+  '7':
+    internal:
+      frames:
+      - spawn_211.0_73.0_429.0_0.0_0.0
+      - spawn_212.0_73.0_429.0_0.0_0.0
+      - spawn_213.0_73.0_429.0_0.0_0.0
+      facing: NORTH
+    configurable:
+      renderers:
+      - COLOR -color 60,60,60
+      - IMAGE -src big_old_parchment.png -height 50 -yOffset 80
+      - TEXT -text QUESTS -size 60 -font Roboto Bk -color 255,255,255 -strokeColor
+        0,0,0 -strokeThickness 0 -yOffset 60
+      - TEXT -text RIGHT CLICK -size 40 -font Roboto -color 0,0,0 -strokeColor 0,0,0
+        -strokeThickness 0 -yOffset 115
+  '9':
+    internal:
+      frames:
+      - spawn_214.0_73.0_428.0_0.0_0.0
+      - spawn_214.0_73.0_427.0_0.0_0.0
+      - spawn_214.0_73.0_426.0_0.0_0.0
+      facing: WEST
+    configurable:
+      renderers:
+      - COLOR -color 60,60,60
+      - IMAGE -src big_old_parchment.png -height 50 -yOffset 80
+      - TEXT -text WARPS -size 60 -font Roboto Bk -color 255,255,255 -strokeColor
+        0,0,0 -strokeThickness 0 -yOffset 60
+      - TEXT -text RIGHT CLICK -size 40 -font Roboto -color 0,0,0 -strokeColor 0,0,0
+        -strokeThickness 0 -yOffset 115
+  '13':
+    internal:
+      frames:
+      - spawn_244.0_73.0_428.0_0.0_0.0
+      - spawn_243.0_73.0_428.0_0.0_0.0
+      - spawn_242.0_73.0_428.0_0.0_0.0
+      facing: SOUTH
+    configurable:
+      renderers:
+      - COLOR -color 60,60,60
+      - IMAGE -src big_old_parchment.png -height 50 -yOffset 80
+      - TEXT -text AUCTION -size 60 -font Roboto Bk -color 255,255,255 -strokeColor
+        0,0,0 -strokeThickness 0 -yOffset 60
+      - TEXT -text RIGHT CLICK -size 40 -font Roboto -color 0,0,0 -strokeColor 0,0,0
+        -strokeThickness 0 -yOffset 115
+  '14':
+    internal:
+      frames:
+      - spawn_241.0_73.0_429.0_0.0_0.0
+      - spawn_241.0_73.0_430.0_0.0_0.0
+      - spawn_241.0_73.0_431.0_0.0_0.0
+      facing: EAST
+    configurable:
+      renderers:
+      - COLOR -color 60,60,60
+      - IMAGE -src big_old_parchment.png -height 50 -yOffset 80
+      - TEXT -text AUCTION -size 60 -font Roboto Bk -color 255,255,255 -strokeColor
+        0,0,0 -strokeThickness 0 -yOffset 60
+      - TEXT -text RIGHT CLICK -size 40 -font Roboto -color 0,0,0 -strokeColor 0,0,0
+        -strokeThickness 0 -yOffset 115
+  '16':
+    internal:
+      frames:
+      - spawn_221.0_73.0_417.0_0.0_0.0
+      - spawn_221.0_72.0_417.0_0.0_0.0
+      - spawn_221.0_71.0_417.0_0.0_0.0
+      - spawn_221.0_70.0_417.0_0.0_0.0
+      - spawn_220.0_73.0_417.0_0.0_0.0
+      - spawn_220.0_72.0_417.0_0.0_0.0
+      - spawn_220.0_71.0_417.0_0.0_0.0
+      - spawn_220.0_70.0_417.0_0.0_0.0
+      - spawn_219.0_73.0_417.0_0.0_0.0
+      - spawn_219.0_72.0_417.0_0.0_0.0
+      - spawn_219.0_71.0_417.0_0.0_0.0
+      - spawn_219.0_70.0_417.0_0.0_0.0
+      - spawn_218.0_73.0_417.0_0.0_0.0
+      - spawn_218.0_72.0_417.0_0.0_0.0
+      - spawn_218.0_71.0_417.0_0.0_0.0
+      - spawn_218.0_70.0_417.0_0.0_0.0
+      facing: SOUTH
+    configurable:
+      renderers:
+      - JOBSREBORN
+      - TEXT -font Roboto -size 64 -yOffset 89 -text JOBS -style BOLD -color 0,0,0,255
+  '18':
+    internal:
+      frames:
+      - spawn_217.0_73.0_413.0_0.0_0.0
+      - spawn_217.0_72.0_413.0_0.0_0.0
+      - spawn_217.0_71.0_413.0_0.0_0.0
+      - spawn_217.0_70.0_413.0_0.0_0.0
+      - spawn_218.0_73.0_413.0_0.0_0.0
+      - spawn_218.0_72.0_413.0_0.0_0.0
+      - spawn_218.0_71.0_413.0_0.0_0.0
+      - spawn_218.0_70.0_413.0_0.0_0.0
+      - spawn_219.0_73.0_413.0_0.0_0.0
+      - spawn_219.0_72.0_413.0_0.0_0.0
+      - spawn_219.0_71.0_413.0_0.0_0.0
+      - spawn_219.0_70.0_413.0_0.0_0.0
+      - spawn_220.0_73.0_413.0_0.0_0.0
+      - spawn_220.0_72.0_413.0_0.0_0.0
+      - spawn_220.0_71.0_413.0_0.0_0.0
+      - spawn_220.0_70.0_413.0_0.0_0.0
+      - spawn_221.0_73.0_413.0_0.0_0.0
+      - spawn_221.0_72.0_413.0_0.0_0.0
+      - spawn_221.0_71.0_413.0_0.0_0.0
+      - spawn_221.0_70.0_413.0_0.0_0.0
+      facing: NORTH
+    configurable:
+      renderers:
+      - MCMMO
+      - TEXT -font Roboto -size 64 -yOffset 89 -text MCMMO -style BOLD -color 0,0,0,255
+  '20':
+    internal:
+      frames:
+      - spawn_236.0_73.0_424.0_0.0_0.0
+      - spawn_236.0_72.0_424.0_0.0_0.0
+      - spawn_236.0_71.0_424.0_0.0_0.0
+      - spawn_236.0_70.0_424.0_0.0_0.0
+      - spawn_237.0_73.0_424.0_0.0_0.0
+      - spawn_237.0_72.0_424.0_0.0_0.0
+      - spawn_237.0_71.0_424.0_0.0_0.0
+      - spawn_237.0_70.0_424.0_0.0_0.0
+      - spawn_238.0_73.0_424.0_0.0_0.0
+      - spawn_238.0_72.0_424.0_0.0_0.0
+      - spawn_238.0_71.0_424.0_0.0_0.0
+      - spawn_238.0_70.0_424.0_0.0_0.0
+      - spawn_239.0_73.0_424.0_0.0_0.0
+      - spawn_239.0_72.0_424.0_0.0_0.0
+      - spawn_239.0_71.0_424.0_0.0_0.0
+      - spawn_239.0_70.0_424.0_0.0_0.0
+      - spawn_240.0_73.0_424.0_0.0_0.0
+      - spawn_240.0_72.0_424.0_0.0_0.0
+      - spawn_240.0_71.0_424.0_0.0_0.0
+      - spawn_240.0_70.0_424.0_0.0_0.0
+      - spawn_241.0_73.0_424.0_0.0_0.0
+      - spawn_241.0_72.0_424.0_0.0_0.0
+      - spawn_241.0_71.0_424.0_0.0_0.0
+      - spawn_241.0_70.0_424.0_0.0_0.0
+      facing: NORTH
+    configurable:
+      renderers:
+      - IMAGE -src pvpbg.png
+      - COLOR -color 0,0,0,60
+      - IMAGE -src old_parchment.png -height 80 -width 1280 -yOffset 0
+      - TEXT -text LEADERBOARD FOR KILLS -font Roboto Bk -color 255,255,255 -size
+        40 -yOffset 60
+      - IMAGE -src whitelogo.png -height 170 -width 170 -yOffset 240
+      - LEADERHEADS -texturesize 260 -leaderboardname kills -timeframe alltime -number
+        1 -skinurl http://www.skinrender.com:8798/fullskin-%name%-640-0-15-0-0-10-0-48-0-131-45-0-135-0-20-22-0-15-18
+        -font Roboto -nameSize 30 -numberSize 20 -textOffset 70 -color 255,255,255
+        -nameOffset 30 -yOffset 40
+      - IMAGE -src whitelogo.png -height 170 -width 170 -yOffset 275 -xOffset 60
+      - LEADERHEADS -texturesize 260 -leaderboardname kills -timeframe alltime -number
+        2 -skinurl skinurl http://www.skinrender.com:2798/fullskin-%name%-640-0-22-0-354-15-0-0-34-18-0-31-18-0-352-13-0-352-22
+        -font Roboto -nameSize 30 -textOffset 70 -color 255,255,255 -nameOffset 30
+        -yOffset 75 -xOffset 20
+      - IMAGE -src whitelogo.png -height 170 -width 170 -yOffset 285 -xOffset 512
+      - LEADERHEADS -texturesize 260 -leaderboardname kills -timeframe alltime -number
+        3 -skinurl skinurl http://www.skinrender.com:2798/fullskin-%name%-640-0-328-0-349-333-0-0-338-18-0-340-20-78-8-6-78-6-8
+        -font Roboto -nameSize 30 -textOffset 30 -color 255,255,255 -nameOffset 30
+        -yOffset 125 -xOffset 472

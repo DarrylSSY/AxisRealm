@@ -1,0 +1,80 @@
+Global:
+  disable_banishment: false
+  banish_on_disable: true
+  disable_basegame_breeding: false
+  banish_on_player_quit: true
+  Force_claim_on_tame: false
+  priceForHorse:
+    HORSE: 100.0
+    DONKEY: 100.0
+    MULE: 100.0
+    UNDEAD_HORSE: 100.0
+    SKELETON_HORSE: 100.0
+    LLAMA: 100.0
+  savetype: 2
+  RequirePermissionToRide: false
+Horses:
+  DarrylSSY:
+    7ea0abce-68de-4f3d-b695-2e358d86be49:
+      name: Death Mane
+      wrath: 0
+      agility: 0
+      swiftness: 0
+      vitality: 0
+      color: BLACK
+      isdead: false
+      godmode: false
+      powerlevel: 0
+      style: NONE
+      variant: HORSE
+      hassaddle: true
+      sex: true
+      sprintPow: 0.16742562969180672
+      jumpPow: 0.660953149246453
+      inventory:
+      - ==: org.bukkit.inventory.ItemStack
+        type: SADDLE
+      - null
+  HarukiGrande:
+    b4a0e7c1-18ae-48c0-9a34-df77d66bcfd5:
+      name: Chunky Potato
+      wrath: 2
+      agility: 28
+      swiftness: 349
+      vitality: 3
+      color: CREAMY
+      isdead: false
+      godmode: false
+      powerlevel: 73
+      style: WHITEFIELD
+      variant: HORSE
+      hassaddle: true
+      sex: false
+      sprintPow: 0.0
+      jumpPow: 0.0
+      inventory:
+      - ==: org.bukkit.inventory.ItemStack
+        type: SADDLE
+      - ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BARDING
+    0d1f3988-21a2-4692-9927-33ab24836c43:
+      name: Fluffy Poops A Lot
+      wrath: 0
+      agility: 9
+      swiftness: 66
+      vitality: 0
+      color: DARK_BROWN
+      isdead: false
+      godmode: false
+      powerlevel: 14
+      style: WHITE
+      variant: HORSE
+      hassaddle: true
+      sex: false
+      sprintPow: 0.25031116269668763
+      jumpPow: 0.6813043889697362
+      inventory:
+      - ==: org.bukkit.inventory.ItemStack
+        type: SADDLE
+      - ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BARDING

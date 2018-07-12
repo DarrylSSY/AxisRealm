@@ -1,0 +1,49 @@
+Locations:
+  '1':
+    World: spawn
+    X: 225
+    Y: 69
+    Z: 441
+    Particle: happyvillager
+  '2':
+    World: spawn
+    X: 225
+    Y: 69
+    Z: 435
+    Particle: happyvillager
+  '3':
+    World: spawn
+    X: 225
+    Y: 69
+    Z: 429
+    Particle: happyvillager
+  '4':
+    World: spawn
+    X: 225
+    Y: 69
+    Z: 423
+    Particle: happyvillager
+  '5':
+    World: spawn
+    X: 228
+    Y: 69
+    Z: 417
+    Particle: happyvillager
+  '6':
+    World: spawn
+    X: 237
+    Y: 69
+    Z: 410
+    Particle: happyvillager
+  '7':
+    World: spawn
+    X: 232
+    Y: 69
+    Z: 413
+    Particle: happyvillager
+  '0':
+    World: spawn
+    X: 225
+    Y: 69
+    Z: 456
+    Particle: happyvillager

@@ -1,0 +1,22 @@
+geolocation: United Kingdom
+lastAccountName: Swissy__Cheese
+timestamps:
+  login: 1530226918769
+  logout: 1530228595774
+ipAddress: 82.11.204.182
+lastlocation:
+  world: world
+  x: 585.6640505469855
+  y: 67.0
+  z: 4005.699999988079
+  yaw: 5.6980934
+  pitch: 15.600038
+money: '660'
+afk: false
+logoutlocation:
+  world: spawn
+  x: 231.6743521270027
+  y: 69.0
+  z: 460.9539865901309
+  yaw: -76.95007
+  pitch: 22.049953

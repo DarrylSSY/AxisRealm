@@ -1,0 +1,15 @@
+Rammy:
+  type: assignment
+  interact scripts:
+    - 1 RammyMain
+
+RammyMain:
+  type: interact
+  steps:
+    1:
+      click trigger:
+        script:
+          - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Have you heard of Phalyns? My parents told me it was a mythical land that exist in another universe."
+          - wait 3
+          - narrate "<green><npc.name> <yellow> -> <gray>You:<green> I don't really believe in such things but it would be so cool to see it!"
+

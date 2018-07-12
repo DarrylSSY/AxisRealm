@@ -1,0 +1,24 @@
+player:
+  height-current: 0.0
+  hotbar: 0
+  height-delta: false
+  shift: false
+  sound-buffer: 0
+  channels: []
+  scroll: 0
+map:
+  enabled: false
+  scrollpos: 0
+  args: ''
+monitor:
+  last-swt: 0
+  switch-notification: 0
+  last-tab: 0
+  tab: -1
+  enabled: false
+  posted: false
+  high: false
+glasses:
+  enabled: false
+actionlogging:
+  enabled: false

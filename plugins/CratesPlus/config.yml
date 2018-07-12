@@ -1,0 +1,2112 @@
+# [][][][][][][][][][][][][][][][][][][][][]
+#  CratesPlus V4.4.5 Config
+# [][][][][][][][][][][][][][][][][][][][][]
+# ------------------------------------------
+# There are many placeholders that can now be used withing the config and messages file, placeholders are as followed:
+# - %name% - Replaces with the players name, Example: "Notch".
+# - %displayname% - Replaces with the players display name, Example: "[Owner] Notch".
+# - %uuid% - Replaces with the players UUID.
+# - %crate% - The crate types name.
+# - %prize% - The name of the winning.
+# - %percentage% - Percentage of the winning, useful for "Chance Message".
+# - %rand;100;500% - Generates a random number between two numbers, example is between 100 and 500.
+# ------------------------------------------
+# Don't change the config version!
+
+Config Version: 6
+Update Checks: true
+Update Branch: spigot
+Metrics: true
+Default Opener: BasicGUI
+Default Cooldown: 5
+Crate Protection: false
+Disable Key Swapping: false
+Default Hologram Text:
+- '%crate%'
+Crates:
+  Tags:
+    Winnings:
+      '1':
+        Type: COMMAND
+        Item Type: NAME_TAG
+        Item Data: 0
+        Percentage: 0
+        Name: '&6&k[&6Lord&k]'
+        Commands:
+        - perms user %name% set deluxetags.tag.lord true
+        Amount: 1
+      '2':
+        Type: COMMAND
+        Item Type: NAME_TAG
+        Item Data: 0
+        Percentage: 0
+        Name: '&d&k[&dQueen&k]'
+        Commands:
+        - perms user %name% set deluxetags.tag.queen true
+        Amount: 1
+      '3':
+        Type: COMMAND
+        Item Type: NAME_TAG
+        Item Data: 0
+        Percentage: 0
+        Name: '&5&k[&5Empress&k]'
+        Commands:
+        - perms user %name% set deluxetags.tag.empress true
+        Amount: 1
+      '4':
+        Type: COMMAND
+        Item Type: NAME_TAG
+        Item Data: 0
+        Percentage: 0
+        Name: '&d&k[&dKitty&k]'
+        Commands:
+        - perms user %name% set deluxetags.tag.kitty true
+        Amount: 1
+      '5':
+        Type: COMMAND
+        Item Type: NAME_TAG
+        Item Data: 0
+        Percentage: 0
+        Name: '&7&k[&7Wolf&k]'
+        Commands:
+        - perms user %name% set deluxetags.tag.wolf true
+        Amount: 1
+      '6':
+        Type: COMMAND
+        Item Type: NAME_TAG
+        Item Data: 0
+        Percentage: 0
+        Name: '&a&k[&aKappa&k]'
+        Commands:
+        - perms user %name% set deluxetags.tag.kappa true
+        Amount: 1
+      '7':
+        Type: COMMAND
+        Item Type: NAME_TAG
+        Item Data: 0
+        Percentage: 0
+        Name: '&0&k[&0Death&k]'
+        Commands:
+        - perms user %name% set deluxetags.tag.death true
+        Amount: 1
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: skull
+    Color: WHITE
+  Treasure:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: YELLOW
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: DIAMOND_HELMET
+        Item Data: 0
+        Name: '&4&lFaithful Crusader Helm'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-5
+        - DURABILITY-5
+        Lore:
+        - §7Angel II
+        - §7Enlightened V
+        - §7Valor III
+        - §3A helmet once commonly found among
+        - §3the Holy Knights of Phalyns.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lFaithful Crusader Helm
+          lore:
+          - §7Angel II
+          - §7Enlightened V
+          - §7Valor III
+          - §3A helmet once commonly found among
+          - §3the Holy Knights of Phalyns.
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 5
+            DURABILITY: 5
+      '2':
+        Type: ITEM
+        Item Type: DIAMOND_CHESTPLATE
+        Item Data: 0
+        Name: '&4&lNoblesse Crusader Chestplate'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-7
+        - DURABILITY-5
+        Lore:
+        - §7OverLoad I
+        - §7Enlightened V
+        - §3A chestplate once commonly found among
+        - §3the Holy Knights of Phalyns.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lNoblesse Crusader Chestplate
+          lore:
+          - §7OverLoad I
+          - §7Enlightened V
+          - §3A chestplate once commonly found among
+          - §3the Holy Knights of Phalyns.
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 7
+            DURABILITY: 5
+      '3':
+        Type: ITEM
+        Item Type: DIAMOND_LEGGINGS
+        Item Data: 0
+        Name: '&4&lLoyal Crusader Leggings'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-5
+        - DURABILITY-5
+        Lore:
+        - §7Fortify III
+        - §7Enlightened X
+        - §3A pair of leggings once commonly found among
+        - §3the Holy Knights of Phalyns.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lLoyal Crusader Leggings
+          lore:
+          - §7Fortify III
+          - §7Enlightened X
+          - §3A pair of leggings once commonly found among
+          - §3the Holy Knights of Phalyns.
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 5
+            DURABILITY: 5
+      '4':
+        Type: ITEM
+        Item Type: DIAMOND_BOOTS
+        Item Data: 0
+        Name: '&4&lVirtuous Crusader Sandles'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-6
+        - DURABILITY-5
+        Lore:
+        - §7Enlightened III
+        - §7Valor V
+        - §7Nursery III
+        - §3A pair of sandles once commonly found among
+        - §3the Holy Knights of Phalyns
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lVirtuous Crusader Sandles
+          lore:
+          - §7Enlightened III
+          - §7Valor V
+          - §7Nursery III
+          - §3A pair of sandles once commonly found among
+          - §3the Holy Knights of Phalyns
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 6
+            DURABILITY: 5
+      '5':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Name: '&4&lBright Edge'
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-7
+        - DURABILITY-5
+        - FIRE_ASPECT-2
+        Lore:
+        - §7DoubleDamage III
+        - §7Execute IV
+        - §3The trusted sword of the Holy Knights
+        - §3of Phalyns.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lBright Edge
+          lore:
+          - §7DoubleDamage III
+          - §7Execute IV
+          - §3The trusted sword of the Holy Knights
+          - §3of Phalyns.
+          enchants:
+            DAMAGE_ALL: 7
+            FIRE_ASPECT: 2
+            DURABILITY: 5
+      '6':
+        Type: ITEM
+        Item Type: BOW
+        Item Data: 0
+        Name: '&4&lEvertrue'
+        Amount: 1
+        Enchantments:
+        - ARROW_DAMAGE-10
+        - ARROW_KNOCKBACK-1
+        - DURABILITY-4
+        Lore:
+        - §7Venom I
+        - §7Piercing IV
+        - §3The Evertrue series of bows was commonly
+        - §3found amongst the Phalyns Rangers.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lEvertrue
+          lore:
+          - §7Venom I
+          - §7Piercing IV
+          - §3The Evertrue series of bows was commonly
+          - §3found amongst the Phalyns Rangers.
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_KNOCKBACK: 1
+            DURABILITY: 4
+      '7':
+        Type: ITEM
+        Item Type: DIAMOND_PICKAXE
+        Item Data: 0
+        Name: '&4&lLucky PicX'
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-3
+        - DURABILITY-4
+        - LOOT_BONUS_BLOCKS-3
+        - MENDING-1
+        Lore:
+        - §7Experience III
+        - §7AutoSmelt V
+        - §3A pickaxe forged with a lucky four leaf clover
+        - §3which brings it envious yields.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lLucky PicX
+          lore:
+          - §7Experience III
+          - §7AutoSmelt V
+          - §3A pickaxe forged with a lucky four leaf clover
+          - §3which brings it envious yields.
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 4
+            LOOT_BONUS_BLOCKS: 3
+            MENDING: 1
+      '8':
+        Type: ITEM
+        Item Type: BOOK
+        Item Data: 0
+        Name: '&8&l&nA Lost &9&l&nRare&8&l&n Book'
+        Amount: 3
+        Enchantments: []
+        Lore:
+        - §7This book has been lost for centuries
+        - §7It is said to be an enchantment book from §9§l§nRare
+        - §7But you must clean it off to find out what kind it is.
+        - §7§l(§6§l!§7§l) §7Right Click to clean off.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§l§nA Lost §9§l§nRare§8§l§n Book
+          lore:
+          - §7This book has been lost for centuries
+          - §7It is said to be an enchantment book from §9§l§nRare
+          - §7But you must clean it off to find out what kind it is.
+          - §7§l(§6§l!§7§l) §7Right Click to clean off.
+      '9':
+        Type: ITEM
+        Item Type: DIAMOND_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 15
+        Enchantments: []
+        Lore: []
+      '10':
+        Type: ITEM
+        Item Type: MONSTER_EGG
+        Item Data: 0
+        Name: NONE
+        Amount: 2
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: SPAWN_EGG
+          id: villager
+        Entity Type: VILLAGER
+      '11':
+        Type: ITEM
+        Item Type: EMERALD_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 8
+        Enchantments: []
+        Lore: []
+      '12':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&eTreasure Crate Key'
+        Amount: 2
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§eTreasure§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eTreasure Crate Key
+          lore:
+          - §7Right-Click on a "§eTreasure§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '13':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&3Mythic Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§3Mythic§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §3Mythic Crate Key
+          lore:
+          - §7Right-Click on a "§3Mythic§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '14':
+        Type: ITEM
+        Item Type: MOB_SPAWNER
+        Item Data: 0
+        Name: '&ePig &fSpawner'
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §ePig §fSpawner
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9UxiYCzLTuRj4gwsSy/MC8ktSgeKJOcUgTZxgMZfEkkQOBqZMiEqgME9wZk42WCq1qJiJgSMVYpILQxQDAwD9MFg8bQAAAA==
+          blockMaterial: MOB_SPAWNER
+      '15':
+        Type: ITEM
+        Item Type: WHITE_SHULKER_BOX
+        Item Data: 0
+        Name: NONE
+        Amount: 2
+        Enchantments: []
+        Lore: []
+  Loot:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: WHITE
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: DIAMOND_HELMET
+        Item Data: 0
+        Name: '&4&lWeathered Skullcap'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-2
+        - DURABILITY-2
+        Lore:
+        - §7Enlightened I
+        - §7Valor II
+        - §3A worned out head gear by the Militia.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lWeathered Skullcap
+          lore:
+          - §7Enlightened I
+          - §7Valor II
+          - §3A worned out head gear by the Militia.
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 2
+      '2':
+        Type: ITEM
+        Item Type: DIAMOND_CHESTPLATE
+        Item Data: 0
+        Name: '&4&lWeathered Battlemail'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-3
+        - DURABILITY-2
+        Lore:
+        - §7OverLoad I
+        - §7Enlightened I
+        - §3A worned out chestplate by the Militia.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lWeathered Battlemail
+          lore:
+          - §7OverLoad I
+          - §7Enlightened I
+          - §3A worned out chestplate by the Militia.
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+      '3':
+        Type: ITEM
+        Item Type: DIAMOND_LEGGINGS
+        Item Data: 0
+        Name: '&4&lWeathered Underpants'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-3
+        - DURABILITY-2
+        Lore:
+        - §7Enlightened II
+        - §3A worned out pair of leggings by the Militia.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lWeathered Underpants
+          lore:
+          - §7Enlightened II
+          - §3A worned out pair of leggings by the Militia.
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+      '4':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Name: '&4&lShiatriced Sword'
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-3
+        - DURABILITY-2
+        Lore:
+        - §7DoubleDamage I
+        - §7Execute II
+        - §3An old but seemingly sturdy sword found
+        - §3among the ruins of a battlefield
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lShiatriced Sword
+          lore:
+          - §7DoubleDamage I
+          - §7Execute II
+          - §3An old but seemingly sturdy sword found
+          - §3among the ruins of a battlefield
+          enchants:
+            DAMAGE_ALL: 3
+            DURABILITY: 2
+      '5':
+        Type: ITEM
+        Item Type: DIAMOND_BOOTS
+        Item Data: 0
+        Name: '&4&lWeathered Bloody Greaves'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-3
+        - DURABILITY-2
+        Lore:
+        - §7Enlightened I
+        - §7Valor I
+        - §3A worned out pair of boots by the Militia.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lWeathered Bloody Greaves
+          lore:
+          - §7Enlightened I
+          - §7Valor I
+          - §3A worned out pair of boots by the Militia.
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 2
+      '6':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '7':
+        Type: ITEM
+        Item Type: DIAMOND
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '8':
+        Type: ITEM
+        Item Type: EXP_BOTTLE
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '9':
+        Type: ITEM
+        Item Type: SEA_LANTERN
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '10':
+        Type: ITEM
+        Item Type: SKULL_ITEM
+        Item Data: 1
+        Name: NONE
+        Amount: 3
+        Enchantments: []
+        Lore: []
+      '11':
+        Type: ITEM
+        Item Type: WHITE_SHULKER_BOX
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '12':
+        Type: ITEM
+        Item Type: BEACON
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '13':
+        Type: ITEM
+        Item Type: ELYTRA
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '14':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&fLoot Crate Key'
+        Amount: 2
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§fLoot§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fLoot Crate Key
+          lore:
+          - §7Right-Click on a "§fLoot§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '15':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&eTreasure Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§eTreasure§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eTreasure Crate Key
+          lore:
+          - §7Right-Click on a "§eTreasure§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '16':
+        Type: ITEM
+        Item Type: BOOK
+        Item Data: 0
+        Name: '&8&l&nA Lost &a&l&nCommon&8&l&n Book'
+        Amount: 5
+        Enchantments: []
+        Lore:
+        - §7This book has been lost for centuries
+        - §7It is said to be an enchantment book from §a§l§nCommon
+        - §7But you must clean it off to find out what kind it is.
+        - §7§l(§6§l!§7§l) §7Right Click to clean off.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§l§nA Lost §a§l§nCommon§8§l§n Book
+          lore:
+          - §7This book has been lost for centuries
+          - §7It is said to be an enchantment book from §a§l§nCommon
+          - §7But you must clean it off to find out what kind it is.
+          - §7§l(§6§l!§7§l) §7Right Click to clean off.
+  Mythic:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: DARK_AQUA
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: DIAMOND_HELMET
+        Item Data: 0
+        Name: '&4&lArcanic Watcher Hood'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-7
+        - DURABILITY-7
+        Lore:
+        - §7Savior V
+        - §7Angel V
+        - §7OverLoad I
+        - §7Enlightened X
+        - §7Valor V
+        - §3A well preserved head wear of the elite
+        - §3Arcanic Duelists of Militia.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lArcanic Watcher Hood
+          lore:
+          - §7Savior V
+          - §7Angel V
+          - §7OverLoad I
+          - §7Enlightened X
+          - §7Valor V
+          - §3A well preserved head wear of the elite
+          - §3Arcanic Duelists of Militia.
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 7
+            DURABILITY: 7
+      '2':
+        Type: ITEM
+        Item Type: DIAMOND_CHESTPLATE
+        Item Data: 0
+        Name: '&4&lSorcerer Order Robe'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-8
+        - DURABILITY-7
+        Lore:
+        - §7Guards I
+        - §7OverLoad II
+        - §7Enlightened X
+        - §3A robe embuned with ancient runes that
+        - §3boosted the Arcanic Duelists.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lSorcerer Order Robe
+          lore:
+          - §7Guards I
+          - §7OverLoad II
+          - §7Enlightened X
+          - §3A robe embuned with ancient runes that
+          - §3boosted the Arcanic Duelists.
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 8
+            DURABILITY: 7
+      '3':
+        Type: ITEM
+        Item Type: DIAMOND_LEGGINGS
+        Item Data: 0
+        Name: '&4&lBlessed Sentinel Legplates'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-7
+        - DURABILITY-7
+        Lore:
+        - §7Savior V
+        - §7Recover V
+        - §7Fortify III
+        - §7Enlightened 12
+        - §3A blessed leggings with hand drawn
+        - §3powerful runes.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lBlessed Sentinel Legplates
+          lore:
+          - §7Savior V
+          - §7Recover V
+          - §7Fortify III
+          - §7Enlightened 12
+          - §3A blessed leggings with hand drawn
+          - §3powerful runes.
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 7
+            DURABILITY: 7
+      '4':
+        Type: ITEM
+        Item Type: DIAMOND_BOOTS
+        Item Data: 0
+        Name: '&4&lSilverstone Coated Boots'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-7
+        - DURABILITY-7
+        Lore:
+        - §7PainGiver V
+        - §7Enlightened VIII
+        - §7Valor X
+        - §7Nursery X
+        - §3Made with the rare and precious silverstone
+        - §3metal found in magic rich mines.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lSilverstone Coated Boots
+          lore:
+          - §7PainGiver V
+          - §7Enlightened VIII
+          - §7Valor X
+          - §7Nursery X
+          - §3Made with the rare and precious silverstone
+          - §3metal found in magic rich mines.
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 7
+            DURABILITY: 7
+      '5':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Name: '&4&lOminous Damnation'
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-10
+        - DURABILITY-8
+        - FIRE_ASPECT-5
+        Lore:
+        - §7Wither V
+        - §7DoubleDamage V
+        - §7Execute X
+        - §3The blade retains some of its powers and
+        - §3you hear the shrill cry of tortured souls in each swing.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lOminous Damnation
+          lore:
+          - §7Wither V
+          - §7DoubleDamage V
+          - §7Execute X
+          - §3The blade retains some of its powers and
+          - §3you hear the shrill cry of tortured souls in each swing.
+          enchants:
+            DAMAGE_ALL: 10
+            FIRE_ASPECT: 5
+            DURABILITY: 8
+      '6':
+        Type: ITEM
+        Item Type: BOW
+        Item Data: 0
+        Name: '&4&lShadow of Vijaya'
+        Amount: 1
+        Enchantments:
+        - ARROW_DAMAGE-20
+        - ARROW_KNOCKBACK-3
+        - DURABILITY-5
+        - ARROW_FIRE-5
+        Lore:
+        - §7MultiArrow X
+        - §7Piercing V
+        - §3Replica of the legendary Vijaya Bow.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lShadow of Vijaya
+          lore:
+          - §7MultiArrow X
+          - §7Piercing V
+          - §3Replica of the legendary Vijaya Bow.
+          enchants:
+            ARROW_DAMAGE: 20
+            ARROW_KNOCKBACK: 3
+            DURABILITY: 5
+            ARROW_FIRE: 5
+      '7':
+        Type: ITEM
+        Item Type: WOOD_SWORD
+        Item Data: 0
+        Name: '&4&lKing Slayer'
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-50
+        - FIRE_ASPECT-10
+        Lore:
+        - §7Headless V
+        - §7Confusion V
+        - §3The notorious and main strength behind
+        - §3an Arcanic Assassin.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lKing Slayer
+          lore:
+          - §7Headless V
+          - §7Confusion V
+          - §3The notorious and main strength behind
+          - §3an Arcanic Assassin.
+          enchants:
+            DAMAGE_ALL: 50
+            FIRE_ASPECT: 10
+      '8':
+        Type: ITEM
+        Item Type: DIAMOND_PICKAXE
+        Item Data: 0
+        Name: '&4&lCursed XistX'
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-7
+        - DURABILITY-10
+        - LOOT_BONUS_BLOCKS-10
+        Lore:
+        - §7Experience 15
+        - §7AutoSmelt X
+        - §3A soul bound pickaxe which is both powerful and
+        - §3loyal to its user to the death.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lCursed XistX
+          lore:
+          - §7Experience 15
+          - §7AutoSmelt X
+          - §3A soul bound pickaxe which is both powerful and
+          - §3loyal to its user to the death.
+          enchants:
+            DIG_SPEED: 7
+            DURABILITY: 10
+            LOOT_BONUS_BLOCKS: 10
+      '9':
+        Type: ITEM
+        Item Type: BOOK
+        Item Data: 0
+        Name: '&8&l&nA Lost &4&l&nLegendary&8&l&n Book'
+        Amount: 2
+        Enchantments: []
+        Lore:
+        - §7This book has been lost for centuries
+        - §7It is said to be an enchantment book from §4§l§nLegendary
+        - §7But you must clean it off to find out what kind it is.
+        - §7§l(§6§l!§7§l) §7Right Click to clean off.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§l§nA Lost §4§l§nLegendary§8§l§n Book
+          lore:
+          - §7This book has been lost for centuries
+          - §7It is said to be an enchantment book from §4§l§nLegendary
+          - §7But you must clean it off to find out what kind it is.
+          - §7§l(§6§l!§7§l) §7Right Click to clean off.
+      '10':
+        Type: ITEM
+        Item Type: EMERALD_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 20
+        Enchantments: []
+        Lore: []
+      '11':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&3Mythic Crate Key'
+        Amount: 2
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§3Mythic§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §3Mythic Crate Key
+          lore:
+          - §7Right-Click on a "§3Mythic§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '12':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&5Astral Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§5Astral§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Astral Crate Key
+          lore:
+          - §7Right-Click on a "§5Astral§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+      '13':
+        Type: ITEM
+        Item Type: DIAMOND_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 25
+        Enchantments: []
+        Lore: []
+      '14':
+        Type: ITEM
+        Item Type: MOB_SPAWNER
+        Item Data: 0
+        Name: '&ePig &fSpawner'
+        Amount: 2
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §ePig §fSpawner
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9UxiYCzLTuRj4gwsSy/MC8ktSgeKJOcUgTZxgMZfEkkQOBqZMiEqgME9wZk42WCq1qJiJgSMVYpILQxQDAwD9MFg8bQAAAA==
+          blockMaterial: MOB_SPAWNER
+      '15':
+        Type: ITEM
+        Item Type: MOB_SPAWNER
+        Item Data: 0
+        Name: '&eCow &fSpawner'
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eCow §fSpawner
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9UxiYk/PLuRj4gwsSy/MC8ktSgeKJOcUgTZxgMZfEkkQOBqZMiEqgME9wZk42WCq1qJiJgSMVYpILQwwDAwDu/RDQbQAAAA==
+          blockMaterial: MOB_SPAWNER
+      '16':
+        Type: ITEM
+        Item Type: MOB_SPAWNER
+        Item Data: 0
+        Name: '&eSkeleton &fSpawner'
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eSkeleton §fSpawner
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52DggLA9Uxg4irNTc1JL8vO4GPiDCxLL8wLyS1KBkok5xSCdnGAxl8SSRA4Gpkwk5UA5nuDMnGywfGpRMRMDRyrETBcGYwYGAHvbZqh3AAAA
+          blockMaterial: MOB_SPAWNER
+  Astral:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: DARK_PURPLE
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: DIAMOND_HELMET
+        Item Data: 0
+        Name: '&4&lEye of Sol'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-10
+        - DURABILITY-10
+        Lore:
+        - §7Angel X
+        - §7OverLoad II
+        - §7Enlightened 20
+        - §7Glowing III
+        - §7Valor X
+        - §7Freeze V
+        - §3A holy helm that draws upon the powers
+        - §3of the Sun to lighten the path of its user.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lEye of Sol
+          lore:
+          - §7Angel X
+          - §7OverLoad II
+          - §7Enlightened 20
+          - §7Glowing III
+          - §7Valor X
+          - §7Freeze V
+          - §3A holy helm that draws upon the powers
+          - §3of the Sun to lighten the path of its user.
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+      '2':
+        Type: ITEM
+        Item Type: DIAMOND_CHESTPLATE
+        Item Data: 0
+        Name: '&4&lStarlight the Illuminator'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-12
+        - DURABILITY-10
+        Lore:
+        - §7Cactus V
+        - §7SmokeBomb I
+        - §7Guards II
+        - §7OverLoad III
+        - §7Enlightened 20
+        - §7BurnShield X
+        - §3Chestplate engraved with the twilight
+        - §3scenery by a master runesmith.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lStarlight the Illuminator
+          lore:
+          - §7Cactus V
+          - §7SmokeBomb I
+          - §7Guards II
+          - §7OverLoad III
+          - §7Enlightened 20
+          - §7BurnShield X
+          - §3Chestplate engraved with the twilight
+          - §3scenery by a master runesmith.
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 12
+            DURABILITY: 10
+      '3':
+        Type: ITEM
+        Item Type: DIAMOND_LEGGINGS
+        Item Data: 0
+        Name: '&4&lGlistening Moonbeam'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-10
+        - DURABILITY-10
+        Lore:
+        - §7Savior X
+        - §7Cactus X
+        - §7Recover 15
+        - §7Fortify V
+        - §7Enlightened 15
+        - §3Radiating a mythic holy light. These
+        - §3leggings seem to be partially phantasmic.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lGlistening Moonbeam
+          lore:
+          - §7Savior X
+          - §7Cactus X
+          - §7Recover 15
+          - §7Fortify V
+          - §7Enlightened 15
+          - §3Radiating a mythic holy light. These
+          - §3leggings seem to be partially phantasmic.
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+      '4':
+        Type: ITEM
+        Item Type: DIAMOND_BOOTS
+        Item Data: 0
+        Name: '&4&lShooting Stars'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-10
+        - DURABILITY-10
+        Lore:
+        - §7Gears I
+        - §7PainGiver X
+        - §7Enlightened 12
+        - §7Valor 20
+        - §7Nursery 12
+        - §3These shoes were enchanted by the
+        - §3most accomplished Imperial Knights.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lShooting Stars
+          lore:
+          - §7Gears I
+          - §7PainGiver X
+          - §7Enlightened 12
+          - §7Valor 20
+          - §7Nursery 12
+          - §3These shoes were enchanted by the
+          - §3most accomplished Imperial Knights.
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            DURABILITY: 10
+      '5':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Name: '&4&lEuldorate'
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-10
+        - DURABILITY-10
+        Lore:
+        - §7DoubleDamage VIII
+        - §7Execute 12
+        - §7Viper V
+        - §7Rage 250
+        - §3Within this sword lies the Primal Rage
+        - §3of an Aldarian which seeks to eradicate all foes.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lEuldorate
+          lore:
+          - §7DoubleDamage VIII
+          - §7Execute 12
+          - §7Viper V
+          - §7Rage 250
+          - §3Within this sword lies the Primal Rage
+          - §3of an Aldarian which seeks to eradicate all foes.
+          enchants:
+            DAMAGE_ALL: 10
+            DURABILITY: 10
+      '6':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Name: '&4&lSoul Cleaver'
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-20
+        - DURABILITY-10
+        Lore:
+        - §7Wither VIII
+        - §7DoubleDamage V
+        - §7Execute V
+        - §7LifeSteal 20
+        - §3With its semi ethereal properties can
+        - §3this sword cut through the very human soul.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lSoul Cleaver
+          lore:
+          - §7Wither VIII
+          - §7DoubleDamage V
+          - §7Execute V
+          - §7LifeSteal 20
+          - §3With its semi ethereal properties can
+          - §3this sword cut through the very human soul.
+          enchants:
+            DAMAGE_ALL: 20
+            DURABILITY: 10
+      '7':
+        Type: ITEM
+        Item Type: BOW
+        Item Data: 0
+        Name: '&4&lStarseeker'
+        Amount: 1
+        Enchantments:
+        - ARROW_DAMAGE-50
+        - DURABILITY-10
+        - ARROW_FIRE-5
+        Lore:
+        - §7Lightning X
+        - §7Piercing X
+        - §3Legends say this bow once shot arrows
+        - §3that could threaten the shooting stars above.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lStarseeker
+          lore:
+          - §7Lightning X
+          - §7Piercing X
+          - §3Legends say this bow once shot arrows
+          - §3that could threaten the shooting stars above.
+          enchants:
+            ARROW_DAMAGE: 50
+            DURABILITY: 10
+            ARROW_FIRE: 5
+      '8':
+        Type: ITEM
+        Item Type: BOW
+        Item Data: 0
+        Name: '&4&lConstella Primodosa'
+        Amount: 1
+        Enchantments:
+        - ARROW_DAMAGE-35
+        - ARROW_KNOCKBACK-5
+        - DURABILITY-10
+        - ARROW_FIRE-2
+        Lore:
+        - §7MultiArrow X
+        - §7Piercing III
+        - §3Forged under the Prime Constellation. §3This bow radiates a light to evoke
+          awe in its beholder.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lConstella Primodosa
+          lore:
+          - §7MultiArrow X
+          - §7Piercing III
+          - §3Forged under the Prime Constellation. §3This bow radiates a light to
+            evoke awe in its beholder.
+          enchants:
+            ARROW_DAMAGE: 35
+            ARROW_KNOCKBACK: 5
+            DURABILITY: 10
+            ARROW_FIRE: 2
+      '9':
+        Type: ITEM
+        Item Type: DIAMOND_PICKAXE
+        Item Data: 0
+        Name: '&4&lXplosive BlastX'
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-5
+        - SILK_TOUCH-1
+        - DURABILITY-20
+        - LOOT_BONUS_BLOCKS-3
+        - MENDING-1
+        Lore:
+        - §7Blast V
+        - §3A pickaxe used by the Royal Miners to
+        - §3build tunnels when time was of the essence.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lXplosive BlastX
+          lore:
+          - §7Blast V
+          - §3A pickaxe used by the Royal Miners to
+          - §3build tunnels when time was of the essence.
+          enchants:
+            DIG_SPEED: 5
+            SILK_TOUCH: 1
+            DURABILITY: 20
+            LOOT_BONUS_BLOCKS: 3
+            MENDING: 1
+      '10':
+        Type: ITEM
+        Item Type: BOOK
+        Item Data: 0
+        Name: '&8&l&nA Lost &4&l&nLegendary&8&l&n Book'
+        Amount: 5
+        Enchantments: []
+        Lore:
+        - §7This book has been lost for centuries
+        - §7It is said to be an enchantment book from §4§l§nLegendary
+        - §7But you must clean it off to find out what kind it is.
+        - §7§l(§6§l!§7§l) §7Right Click to clean off.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §8§l§nA Lost §4§l§nLegendary§8§l§n Book
+          lore:
+          - §7This book has been lost for centuries
+          - §7It is said to be an enchantment book from §4§l§nLegendary
+          - §7But you must clean it off to find out what kind it is.
+          - §7§l(§6§l!§7§l) §7Right Click to clean off.
+      '11':
+        Type: ITEM
+        Item Type: MOB_SPAWNER
+        Item Data: 0
+        Name: '&eVillager &fSpawner'
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §eVillager §fSpawner
+          internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElM52LgDC5ILM9zSSxJ5GBgykxh4CjLzMlJTE8tAirmB8sF5JekAtUn5hSDDMCnnic4MycbLJ9aVMzEwJEKtsbThaGCgQEArzKto34AAAA=
+          blockMaterial: MOB_SPAWNER
+      '12':
+        Type: ITEM
+        Item Type: DIAMOND_PICKAXE
+        Item Data: 0
+        Name: '&4&lXtra DiamondX'
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-8
+        - DURABILITY-15
+        - LOOT_BONUS_BLOCKS-12
+        - MENDING-1
+        Lore:
+        - §7Experience X
+        - §7AutoSmelt 15
+        - §3A legendary pickaxe enchanted with the
+        - §3pinnacle of lucky charms for that Xtra diamond.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lXtra DiamondX
+          lore:
+          - §7Experience X
+          - §7AutoSmelt 15
+          - §3A legendary pickaxe enchanted with the
+          - §3pinnacle of lucky charms for that Xtra diamond.
+          enchants:
+            DIG_SPEED: 8
+            DURABILITY: 15
+            LOOT_BONUS_BLOCKS: 12
+            MENDING: 1
+  Legendary:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: GOLD
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: DIAMOND_HELMET
+        Item Data: 0
+        Percentage: 7
+        Name: '&4&lPrimal Ominous Will'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-15
+        - DURABILITY-15
+        Lore:
+        - §7Intimidate X
+        - §7Angel 15
+        - §7Implants III
+        - §7OverLoad IV
+        - §7Enlightened 25
+        - §7Glowing V
+        - §7Valor 15
+        - §3The despair inducing aura of the mighty
+        - §3Aldarians can be felt from this priceless helm.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lPrimal Ominous Will
+          lore:
+          - §7Intimidate X
+          - §7Angel 15
+          - §7Implants III
+          - §7OverLoad IV
+          - §7Enlightened 25
+          - §7Glowing V
+          - §7Valor 15
+          - §3The despair inducing aura of the mighty
+          - §3Aldarians can be felt from this priceless helm.
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 15
+            DURABILITY: 15
+      '2':
+        Type: ITEM
+        Item Type: DIAMOND_CHESTPLATE
+        Item Data: 0
+        Percentage: 7
+        Name: '&4&lImmortal Azure Guardian'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-20
+        - DURABILITY-15
+        Lore:
+        - §7Savior X
+        - §7Cactus 15
+        - §7Guards IV
+        - §7Enlightened 25
+        - §7Nursery X
+        - §7BurnShield 20
+        - §3Infused with the divine protective spirit
+        - §3of the Priestess to ward off all evil.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lImmortal Azure Guardian
+          lore:
+          - §7Savior X
+          - §7Cactus 15
+          - §7Guards IV
+          - §7Enlightened 25
+          - §7Nursery X
+          - §7BurnShield 20
+          - §3Infused with the divine protective spirit
+          - §3of the Priestess to ward off all evil.
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 20
+            DURABILITY: 15
+      '3':
+        Type: ITEM
+        Item Type: DIAMOND_LEGGINGS
+        Item Data: 0
+        Percentage: 7
+        Name: '&4&lFabled Longetivity Jodhpurs'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-15
+        - DURABILITY-15
+        Lore:
+        - §7Savior 20
+        - §7Cactus 15
+        - §7OverLoad II
+        - §7Recover 25
+        - §7Enlightened 20
+        - §7Freeze 15
+        - §3The mystical properties of this armament
+        - §3increases the life force of its wearer.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lFabled Longetivity Jodhpurs
+          lore:
+          - §7Savior 20
+          - §7Cactus 15
+          - §7OverLoad II
+          - §7Recover 25
+          - §7Enlightened 20
+          - §7Freeze 15
+          - §3The mystical properties of this armament
+          - §3increases the life force of its wearer.
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 15
+            DURABILITY: 15
+      '4':
+        Type: ITEM
+        Item Type: DIAMOND_BOOTS
+        Item Data: 0
+        Percentage: 7
+        Name: '&4&lSoaring Astro-Brogans'
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-15
+        - DURABILITY-15
+        Lore:
+        - §7AntiGravity II
+        - §7Wings I
+        - §7Gears II
+        - §7SmokeBomb 15
+        - §7Enlightened 20
+        - §7Valor 25
+        - §7Nursery 12
+        - §3The silver of angelic power that remains
+        - §3in this treasure grants its user flying powers.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lSoaring Astro-Brogans
+          lore:
+          - §7AntiGravity II
+          - §7Wings I
+          - §7Gears II
+          - §7SmokeBomb 15
+          - §7Enlightened 20
+          - §7Valor 25
+          - §7Nursery 12
+          - §3The silver of angelic power that remains
+          - §3in this treasure grants its user flying powers.
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 15
+            DURABILITY: 15
+      '5':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Percentage: 7
+        Name: '&4&lSword of Abaddon'
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-15
+        - DURABILITY-15
+        Lore:
+        - §7Wither 20
+        - §7DoubleDamage 25
+        - §7Execute 25
+        - §7Viper X
+        - §7LifeSteal 30
+        - §7Rage 800
+        - §3A sword found in the wilderness where
+        - §3time-space fluctuations are know to be present.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lSword of Abaddon
+          lore:
+          - §7Wither 20
+          - §7DoubleDamage 25
+          - §7Execute 25
+          - §7Viper X
+          - §7LifeSteal 30
+          - §7Rage 800
+          - §3A sword found in the wilderness where
+          - §3time-space fluctuations are know to be present.
+          enchants:
+            DAMAGE_ALL: 15
+            DURABILITY: 15
+      '6':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Percentage: 7
+        Name: '&4&lJul Boiv'
+        Amount: 1
+        Enchantments:
+        - DAMAGE_ALL-35
+        - DURABILITY-15
+        Lore:
+        - §7Paralyze 50
+        - §7DoubleDamage 15
+        - §7Execute 15
+        - §7Rage 100
+        - §3This weapon of ancient tales allows its
+        - §3user to stun the enemy while empowering your might.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lJul Boiv
+          lore:
+          - §7Paralyze 50
+          - §7DoubleDamage 15
+          - §7Execute 15
+          - §7Rage 100
+          - §3This weapon of ancient tales allows its
+          - §3user to stun the enemy while empowering your might.
+          enchants:
+            DAMAGE_ALL: 35
+            DURABILITY: 15
+      '7':
+        Type: ITEM
+        Item Type: BOW
+        Item Data: 0
+        Percentage: 7
+        Name: '&4&lAbyss'
+        Amount: 1
+        Enchantments:
+        - ARROW_DAMAGE-70
+        - ARROW_KNOCKBACK-5
+        - DURABILITY-15
+        Lore:
+        - §7IceFreeze 15
+        - §7Venom 25
+        - §7Piercing 20
+        - §3Claimed to be formed in the deepest
+        - §3icepits of Astensia over a century.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lAbyss
+          lore:
+          - §7IceFreeze 15
+          - §7Venom 25
+          - §7Piercing 20
+          - §3Claimed to be formed in the deepest
+          - §3icepits of Astensia over a century.
+          enchants:
+            ARROW_DAMAGE: 70
+            ARROW_KNOCKBACK: 5
+            DURABILITY: 15
+      '8':
+        Type: ITEM
+        Item Type: BOW
+        Item Data: 0
+        Percentage: 7
+        Name: '&4&lEmpyrean Might'
+        Amount: 1
+        Enchantments:
+        - ARROW_DAMAGE-50
+        - ARROW_KNOCKBACK-8
+        - DURABILITY-15
+        - ARROW_FIRE-10
+        Lore:
+        - §7MultiArrow 20
+        - §7Venom III
+        - §7Lightning V
+        - §7Piercing V
+        - §3The mighty Aldarians spent a millennium
+        - §3forging this insurmountable bow.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lEmpyrean Might
+          lore:
+          - §7MultiArrow 20
+          - §7Venom III
+          - §7Lightning V
+          - §7Piercing V
+          - §3The mighty Aldarians spent a millennium
+          - §3forging this insurmountable bow.
+          enchants:
+            ARROW_DAMAGE: 50
+            ARROW_KNOCKBACK: 8
+            DURABILITY: 15
+            ARROW_FIRE: 10
+  Divine:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: DARK_RED
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Percentage: 7
+        Name: '&4&lExcalibur'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §3The sword King Arthur got from the
+        - §3lady of the lake.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lExcalibur
+          lore:
+          - §3The sword King Arthur got from the
+          - §3lady of the lake.
+      '2':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Percentage: 7
+        Name: '&4&lCaliburn'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §3The sword King Arthur pulled from
+        - §3the stone.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lCaliburn
+          lore:
+          - §3The sword King Arthur pulled from
+          - §3the stone.
+      '3':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Percentage: 7
+        Name: '&4&lFinger of Pufuu'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §3
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lFinger of Pufuu
+          lore:
+          - §3
+      '4':
+        Type: ITEM
+        Item Type: DIAMOND_AXE
+        Item Data: 0
+        Percentage: 7
+        Name: '&4&lMjölnir'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §3The hammer of Thor.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lMjölnir
+          lore:
+          - §3The hammer of Thor.
+      '5':
+        Type: ITEM
+        Item Type: BOW
+        Item Data: 0
+        Percentage: 7
+        Name: '&4&lIchaival'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - §7MultiArrow X
+        - §3A bow possessed by Odin.
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§lIchaival
+          lore:
+          - §7MultiArrow X
+          - §3A bow possessed by Odin.
+  Vote:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: WHITE
+    Hide Percentages: true
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: ENDER_PEARL
+        Item Data: 0
+        Name: NONE
+        Amount: 16
+        Enchantments: []
+        Lore: []
+      '2':
+        Type: ITEM
+        Item Type: OBSIDIAN
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '3':
+        Type: ITEM
+        Item Type: IRON_INGOT
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '4':
+        Type: ITEM
+        Item Type: IRON_INGOT
+        Item Data: 0
+        Name: NONE
+        Amount: 48
+        Enchantments: []
+        Lore: []
+      '5':
+        Type: ITEM
+        Item Type: EMERALD_ORE
+        Item Data: 0
+        Name: NONE
+        Amount: 4
+        Enchantments: []
+        Lore: []
+      '6':
+        Type: ITEM
+        Item Type: DIAMOND_ORE
+        Item Data: 0
+        Name: NONE
+        Amount: 16
+        Enchantments: []
+        Lore: []
+      '7':
+        Type: ITEM
+        Item Type: NAME_TAG
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '8':
+        Type: ITEM
+        Item Type: LEASH
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '9':
+        Type: ITEM
+        Item Type: REDSTONE_ORE
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '10':
+        Type: ITEM
+        Item Type: MONSTER_EGG
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: SPAWN_EGG
+          id: horse
+        Entity Type: HORSE
+      '11':
+        Type: ITEM
+        Item Type: MONSTER_EGG
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: SPAWN_EGG
+          id: donkey
+        Entity Type: DONKEY
+      '12':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&fLoot Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§fLoot§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fLoot Crate Key
+          lore:
+          - §7Right-Click on a "§fLoot§7" crate
+          - §7to win an item!
+          - ''
+          enchants:
+            DURABILITY: 1
+  Basic:
+    Knockback: 0.0
+    Block: CHEST
+    Color: WHITE
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: SPONGE
+        Item Data: 0
+        Name: NONE
+        Amount: 16
+        Enchantments: []
+        Lore: []
+      '2':
+        Type: ITEM
+        Item Type: GRASS
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '3':
+        Type: ITEM
+        Item Type: STONE
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '4':
+        Type: ITEM
+        Item Type: SAND
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '5':
+        Type: ITEM
+        Item Type: CACTUS
+        Item Data: 0
+        Name: NONE
+        Amount: 16
+        Enchantments: []
+        Lore: []
+      '6':
+        Type: ITEM
+        Item Type: OBSIDIAN
+        Item Data: 0
+        Name: NONE
+        Amount: 32
+        Enchantments: []
+        Lore: []
+      '7':
+        Type: ITEM
+        Item Type: CHEST
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '8':
+        Type: ITEM
+        Item Type: GLASS
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '9':
+        Type: ITEM
+        Item Type: DIAMOND
+        Item Data: 0
+        Name: NONE
+        Amount: 8
+        Enchantments: []
+        Lore: []
+      '10':
+        Type: ITEM
+        Item Type: STICK
+        Item Data: 0
+        Name: The Legendary Stick
+        Amount: 1
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: The Legendary Stick
+      '11':
+        Type: ITEM
+        Item Type: IRON_INGOT
+        Item Data: 0
+        Name: NONE
+        Amount: 32
+        Enchantments: []
+        Lore: []
+      '12':
+        Type: ITEM
+        Item Type: SADDLE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '13':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: '&fVote Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fVote Crate Key
+          enchants:
+            DURABILITY: 1
+  Drink:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: WHITE
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: POTION
+        Item Data: 0
+        Name: '&6Kappa Juice'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - '§bPrice: $120k'
+        - ''
+        - '§3Win Cash: $300k'
+        - §fKappa kappa kappa kappa
+        - §fKappa kappa kappa kappa
+        Metadata:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §6Kappa Juice
+          lore:
+          - '§bPrice: $120k'
+          - ''
+          - '§3Win Cash: $300k'
+          - §fKappa kappa kappa kappa
+          - §fKappa kappa kappa kappa
+      '2':
+        Type: ITEM
+        Item Type: POTION
+        Item Data: 0
+        Name: '&6Kappa Juice'
+        Amount: 1
+        Enchantments: []
+        Lore:
+        - '§bPrice: $120k'
+        - ''
+        - '§3Win Cash: $300k'
+        - §fKappa kappa kappa kappa
+        - §fKappa kappa kappa kappa
+        Metadata:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §6Kappa Juice
+          lore:
+          - '§bPrice: $120k'
+          - ''
+          - '§3Win Cash: $300k'
+          - §fKappa kappa kappa kappa
+          - §fKappa kappa kappa kappa

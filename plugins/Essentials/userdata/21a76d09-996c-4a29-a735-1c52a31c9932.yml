@@ -1,0 +1,21 @@
+geolocation: Indonesia
+lastAccountName: IceOblivion7
+timestamps:
+  login: 1530181315307
+  logout: 1530181376745
+ipAddress: 118.136.119.202
+lastlocation:
+  world: world
+  x: -201.5
+  y: 69.0
+  z: 240.5
+  yaw: 0.0
+  pitch: 0.0
+money: '560'
+logoutlocation:
+  world: spawn
+  x: 226.1115974980644
+  y: 70.0
+  z: 460.4642975482857
+  yaw: -269.2214
+  pitch: 6.781172

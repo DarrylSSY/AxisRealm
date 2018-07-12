@@ -1,0 +1,24 @@
+These are the files to delete whenever there is a player reset to be done
+
+D:\axisrealm\world\playerdata
+D:\axisrealm\mstore\vampire_uplayer@default
+D:\axisrealm\usercache.json
+D:\axisrealm\plugins\AdvancedAchievements\achievements.db
+D:\axisrealm\plugins\CoreProtect\database.db
+D:\axisrealm\plugins\CrazyAuctions\Data.yml
+D:\axisrealm\plugins\Denizen\saves.yml
+D:\axisrealm\plugins\Essentials\userdata
+D:\axisrealm\plugins\Essentials\usermap.csv
+D:\axisrealm\plugins\Jobs\jobs.sqlite.db
+D:\axisrealm\plugins\LeaderHeads\data\LeaderHeadsDatabase.db
+D:\axisrealm\plugins\Marriage\database.db
+D:\axisrealm\plugins\MassiveCore\idnamecache.json
+D:\axisrealm\plugins\mcMMO\flatfile\
+D:\axisrealm\plugins\mcMMOHorse\horsedata.yml
+D:\axisrealm\plugins\MGArcade\stats.yml
+D:\axisrealm\plugins\MGSplegg\stats.yml
+D:\axisrealm\plugins\MinigamesLib\global_stats.yml
+D:\axisrealm\plugins\Quests\playerdata
+D:\axisrealm\plugins\StockMarket\StockMarket.db
+D:\axisrealm\plugins\Towny\data
+D:\axisrealm\plugins\Werewolf\players

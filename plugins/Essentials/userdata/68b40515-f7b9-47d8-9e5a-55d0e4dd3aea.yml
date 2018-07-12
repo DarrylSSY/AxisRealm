@@ -1,0 +1,21 @@
+geolocation: Singapore
+lastAccountName: TskRn
+timestamps:
+  login: 1530887469398
+  logout: 1530887542337
+ipAddress: 124.197.75.150
+lastlocation:
+  world: world
+  x: -201.5
+  y: 69.0
+  z: 240.5
+  yaw: 0.0
+  pitch: 0.0
+money: '560'
+logoutlocation:
+  world: spawn
+  x: 234.68376197275722
+  y: 70.0625
+  z: 412.98563089126276
+  yaw: -149.85008
+  pitch: 23.849987

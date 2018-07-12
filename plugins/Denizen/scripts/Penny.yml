@@ -1,0 +1,27 @@
+Penny:
+  type: assignment
+  interact scripts:
+    - 1 PennyMain
+
+PennyMain:
+  type: interact
+  steps:
+    1:
+      click trigger:
+        script:
+          - pause waypoints
+          - random 10
+          - narrate "<green><npc.name> <yellow> -> <gray>You:<green> I just saw a flying fish!"
+          - narrate "<green><npc.name> <yellow> -> <gray>You:<green> It is such a great weather isn't it?"
+          - narrate "<green><npc.name> <yellow> -> <gray>You:<green> What brings you here?"
+          - narrate "<green><npc.name> <yellow> -> <gray>You:<green> I love taking walks."
+          - narrate "<green><npc.name> <yellow> -> <gray>You:<green> This island is a beauty, but I bet Phalyns looks better if it existed!"
+          - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Have you seen the weird guy that talks about teleporting? I wonder if he is for real.."
+          - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Most of the villagers here are ducks."
+          - narrate "<green><npc.name> <yellow> -> <gray>You:<green> I wonder what the weird portal looking thing in the town square is..."
+          - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Hello! I am Penny."
+          - narrate "<green><npc.name> <yellow> -> <gray>You:<green> It's quiet here..."
+          - wait 3
+          - resume waypoints
+
+

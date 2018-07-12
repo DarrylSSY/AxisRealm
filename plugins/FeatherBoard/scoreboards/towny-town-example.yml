@@ -1,0 +1,75 @@
+lines:
+  # This is an example for Towny when you enter a town
+  # DO NOT GIVE THE PERMISSION FOR THIS SCOREBOARD
+  # (Unless you want it to show all the time)
+  # You still need to 'trigger' this scoreboard in the 'towny-town'
+
+  # Lets just use the title,header and footer from the default example
+  # for in depth configuration look at the default.yml
+  title:
+    frames:
+    - '<glow>AXISREALM</glow>'
+    - '&7&lAXISREALM'
+    - '&8&lAXISREALM'
+    - '&7&lAXISREALM'
+    - '&f&lAXISREALM'
+    - '&f&lAXISREALM'
+    - '&8&lA&f&lXISREAL&8&lM'
+    - '&f&lA&8&lX&f&lISREA&8&lL&f&lM'
+    - '&f&lAX&8&lI&f&lSRE&8&lA&f&lLM'
+    - '&f&lAXI&8&lS&f&lR&8&lE&f&lALM'
+    - '&f&lAXIS&8&lR&f&lEALM'
+    - '&f&lAXISREALM'
+    - '&f&lAXISREALM'
+    - '&7&lAXISREALM'
+    - '&8&lAXISREALM'
+    - '&7&lAXISREALM'
+    - '&f&lAXISREALM'
+    - '&f&lAXIS&8&lR&f&lEALM'
+    - '&f&lAXI&8&lS&f&lR&8&lE&f&lALM'
+    - '&f&lAX&8&lI&f&lSRE&8&lA&f&lLM'
+    - '&f&lA&8&lX&f&lISREA&8&lL&f&lM'
+    - '&8&lA&f&lXISREAL&8&lM'
+    - '&f&lAXISREALM'
+    interval: 2
+    random: false
+  header:
+    frames:
+    - '&a&m+-------------------+'
+    interval: 10
+    random: true
+  town-label:
+    frames:
+    - '&bYou are in town:'
+    interval: 100
+  town-data:
+    frames:
+    - '{towny_currenttown_nameformatted}'
+    interval: 100
+  spacer1:
+    frames: []
+    interval: 100
+  townboard-label:
+    frames:
+    - '&bTown board:'
+    interval: 100
+  townboard:
+    frames:
+    - '<scroll minwidth="28" width="30">{towny_currenttown_townboard}</scroll>'
+    interval: 3
+  spacer2:
+    frames: []
+    interval: 100
+  population-label:
+    frames:
+    - '&bPopulation:'
+    interval: 100
+  poplulation-data:
+    frames:
+    - '{towny_currenttown_residents}'
+    interval: 100
+  footer:
+    frames:
+    - '&a&m+-------------------+'
+    interval: 10
+    random: true

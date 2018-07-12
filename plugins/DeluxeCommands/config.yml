@@ -1,0 +1,66 @@
+# DeluxeCommands v1.7.0 Main configuration
+# Created by extended_clip
+# 
+# Create commands below!
+# Command format is as follows:
+# 
+# commands:
+#   <command_with_no_slash>:
+#     permission: <permission to use the command>
+#     no_permission_message: <message to send when players do not have permission>
+#     message:
+#     - '[text]<regular text here if you start the line with the [text] identifier'
+#     - '[playercommand] spawn'
+#     - '[consolecommand] eco give %executor% 100'
+#     - '{"text": "JSON text here"}'
+#     - '{"text": "To have multiple JSON components in the same line"}&&{"text": "you must use the && operator between them!"}'
+#     target_permission: <permission to use the command with a player argument at the end: /<command> (player)>
+#     target_no_permission_message: <message to send when players do not have permission to specify a target to set placeholders for>
+#     target_message:
+#     - '[text]<You do not have to specify this option, only if you want separate messages when a target is defined>'
+#     - '{"text": "%player%'s stats:"}'
+#     - '{"text": "This message is only if you want a separate message defined when a"}&&{"text": " target player is specified in the command!"}'
+#     aliases:
+#     - 'somealiasforthiscommand'
+# 
+# You can now add a new entry to define different aliases per command!
+#  simply add the "aliases" option to the commands you would like to define aliases for!
+# DeluxeCommands will detect if you have DeluxeChat or PlaceholderAPI installed! You can use any placeholders you have enabled!
+commands:
+  rules:
+    no_permission_message: '&cYou don''t have permission to use this command!'
+    target_permission: some.custom.target_permission
+    target_no_permission_message: '&cYou don''t have permission to view this command
+      with a target player argument!'
+    message:
+    - '{"text":"View server ","color":"white"}&&{"text":"Rules","color":"blue","bold":true}&&{"text":":","color":"white","bold":false}'
+    - '{"text":"https://axisrealm.com/threads/server-rules.10/","color":"gray","italic":true,"clickEvent":{"action":"open_url","value":"https://axisrealm.com/threads/server-rules.10/"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"Open
+      rules link"}]}}}'
+  forums:
+    no_permission_message: '&cYou don''t have permission to use this command!'
+    target_permission: some.custom.target_permission
+    target_no_permission_message: '&cYou don''t have permission to view this command
+      with a target player argument!'
+    message:
+    - '{"text":"Join us in our ","color":"white"}&&{"text":"forums","color":"blue","bold":true}&&{"text":":","color":"white","bold":false}'
+    - '{"text":"https://axisrealm.com","color":"gray","italic":true,"clickEvent":{"action":"open_url","value":"https://axisrealm.com"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"Open
+      link to forums"}]}}}'
+  map:
+    no_permission_message: '&cYou don''t have permission to use this command!'
+    target_permission: some.custom.target_permission
+    target_no_permission_message: '&cYou don''t have permission to view this command
+      with a target player argument!'
+    message:
+    - '{"text":"View the ","color":"white"}&&{"text":"Map","color":"blue","bold":true}&&{"text":":","color":"white","bold":false}'
+    - '{"text":"https://map.axisrealm.com/","color":"gray","italic":true,"clickEvent":{"action":"open_url","value":"https://map.axisrealm.com/"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"Open
+      invitation link"}]}}}'
+  claim:
+    no_permission_message: '&cYou don''t have permission to use this command!'
+    target_permission: some.custom.target_permission
+    target_no_permission_message: '&cYou don''t have permission to view this command
+      with a target player argument!'
+    message:
+    - '{"text":"Check this link on a video on how to ","color":"white"}&&{"text":"claim
+      region","color":"blue","bold":true}&&{"text":":","color":"white","bold":false}'
+    - '{"text":"http://bit.do/towny","color":"gray","italic":true,"clickEvent":{"action":"open_url","value":"http://bit.do/towny"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"Open
+      invitation link"}]}}}'

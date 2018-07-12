@@ -1,0 +1,142 @@
+# Default FeatherBoard comes with a board called "default". All players have the permission
+# featherboard.group.default  (by default) meaning all players should see the scoreboard unless
+# the permission is negated.
+
+# Example of the use of settings
+# This section is optional
+settings:
+  # If you quickly want to change the
+  # the label color change it here.
+  # It replaces $setting_label-color$ throughout the entire config
+  label-color: "&e"
+  # Show or hide the health
+  # This is an example of the script
+  show-health: true
+  # The priority of the scoreboard. The higher the number -> higher priority
+  # Used when having more than one scoreboard assigned
+  priority: 10
+
+# Example of pre processing script
+# This section is optional
+script-pre: |
+    if (settings['show-health'] == true){
+        board.getMeta().setSetting("enable-health","");
+    }else{
+        board.getMeta().setSetting("enable-health","|disabled|");
+    }
+
+# This section is required. Those are your scoreboard lines
+lines:
+  # Every section here are different lines. The first section will be used as the title
+  # the following sections will be used as the lines on the scoreboard (max 15)
+  # Just as the scoreboard names you can name these 'lines' whatever you want. But to make
+  # things simple I will use logical names such as "title", "spacer", "header", ...
+  title:
+    # Every line has its own frames. The animation will loop through these frames on intervals
+    # that you configure below.
+    # Put all your frames under 'text:'. You can make as many lines as you want and use
+    # placeholders and preset effects.
+    # Keep in mind that there is a limit in line width!
+    frames:
+    - '<glow>AXISREALM</glow>'
+    - '&7&lAXISREALM'
+    - '&8&lAXISREALM'
+    - '&7&lAXISREALM'
+    - '&f&lAXISREALM'
+    - '&f&lAXISREALM'
+    - '&8&lA&f&lXISREAL&8&lM'
+    - '&f&lA&8&lX&f&lISREA&8&lL&f&lM'
+    - '&f&lAX&8&lI&f&lSRE&8&lA&f&lLM'
+    - '&f&lAXI&8&lS&f&lR&8&lE&f&lALM'
+    - '&f&lAXIS&8&lR&f&lEALM'
+    - '&f&lAXISREALM'
+    - '&f&lAXISREALM'
+    - '&7&lAXISREALM'
+    - '&8&lAXISREALM'
+    - '&7&lAXISREALM'
+    - '&f&lAXISREALM'
+    - '&f&lAXIS&8&lR&f&lEALM'
+    - '&f&lAXI&8&lS&f&lR&8&lE&f&lALM'
+    - '&f&lAX&8&lI&f&lSRE&8&lA&f&lLM'
+    - '&f&lA&8&lX&f&lISREA&8&lL&f&lM'
+    - '&8&lA&f&lXISREAL&8&lM'
+    - '&f&lAXISREALM'
+    interval: 2
+    random: false
+  header:
+    frames:
+    - '<rainbow>&m+---------------------+</rainbow>'
+    interval: 10
+  player-label:
+    frames:
+    - '&7&l> $setting_label-color$&lPlayer Info:'
+    interval: 100
+    random: false
+  player-line1:
+    frames:
+    - '&o<cmd repeatmiddle="20">{player}</cmd>'
+    - '&o<cmd repeatmiddle="20">${money_formatted}</cmd>'
+    - '&o<cmd repeatmiddle="20">{stat_hours_played} hours played</cmd>'
+    interval: 2
+    random: false
+  player-line2:
+    frames:
+    - '{ping} &7ms latency'
+    interval: 2
+    random: false
+  # For empty lines just add another 'section' but just don't put any text
+  # in it so it acts like an empty line.
+  spacer1:
+    frames: []
+    interval: 100
+    random: false
+  news-info:
+    frames:
+    - '&7&l> $setting_label-color$&lNews:'
+    interval: 100
+    random: false
+  news:
+    # Lets create some animated news
+    # News is something you need to write quick
+    # and usually you don't want to spend ages on creating
+    # some cool effect. That is why FeatherBoard features
+    # several presets you can use.
+    frames:
+    - '<scroll width="29">&cAttention! &fServer is currently in alpha mode. There will be a server reset after alpha.</scroll>'
+    interval: 2 # When using preset effects. The interval will apply to that effect
+    # Do you want to randomize the animation frames?
+    random: false
+  # For empty lines just add another 'section' but just don't put any text
+  # in it so it acts like an empty line.
+  spacer2:
+    frames: []
+    interval: 100
+    random: false
+  timesplayed-label: #Switch between site, times played and health
+    text:
+    - '&7&l> $setting_label-color$&lWebsite:'
+    - '&7&l> $setting_label-color$&lIP:'
+    interval: 100
+    random: false
+  timesplayed: #Switch between site, times played and health
+    frames:
+    - 'https://axisrealm.com'
+    - 'survival.axisrealm.com'
+    interval: 100
+    random: false
+  # For empty lines just add another 'section' but just don't put any text
+  # in it so it acts like an empty line.
+  spacer3:
+    frames: []
+    interval: 100
+    random: false
+  server-label:
+    frames:
+    - '&7&l> $setting_label-color$&lServer Info:'
+    interval: 100
+    random: false
+  server-line1:
+    frames:
+    - '<repeat times=100>{tps_rounded} &7TPS &7&o(Avg {avgtps_rounded})</repeat>' #Refresh the tps 100 times
+    interval: 1
+    random: false

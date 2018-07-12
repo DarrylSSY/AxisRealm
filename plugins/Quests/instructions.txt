@@ -1,0 +1,19 @@
+* It is recommended to read this in full screen notepad window.
+#################################################################################
+Hello and thank you for purchasing this resource.
+  - Resource Version: v4.0.1
+  - Recommended Plugin Version: v2.0.9-beta (Included)
+
+* HOW TO INSTALL ON YOUR SERVER:
+  - Make sure you have the quests plugin provided installed on your server.
+  - Put the configuration file provided into the 'Quests' folder.
+  - Reload the plugin with '/quest a reload'
+  - Have fun. :)
+
+* SUPPORT:
+  - If you have any problems, join my support discord and create a new ticket with -new
+  - Discord: https://discord.gg/jeg2sKa
+
+Your faithfully,
+JustNoHacks.
+#################################################################################

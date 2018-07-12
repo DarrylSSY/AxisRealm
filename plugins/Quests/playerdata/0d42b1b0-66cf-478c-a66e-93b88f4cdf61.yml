@@ -1,0 +1,53 @@
+quest-progress:
+  miscquest8:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      misc:
+        completed: false
+        progress: 1417
+  miscquest9:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      misc:
+        completed: false
+        progress: 1417
+  miscquest6:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      misc:
+        completed: false
+        progress: 1417
+  miscquest7:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      misc:
+        completed: false
+        progress: 1417
+  storyquest1:
+    started: false
+    completed: true
+    completed-before: true
+    completion-date: 1530272127557
+    task-progress:
+      position:
+        completed: true
+  miscquest10:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      playtime:
+        completed: false

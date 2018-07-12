@@ -1,0 +1,52 @@
+#Placeholders:
+#{tps} - The Server's TPS
+#{version} - The version of the Plugin
+#{name} - The name of the player
+#{ping} - The ping of the player
+#{vl} - The player's violation level
+#{strikes} - The player's strikes
+#{module} - The name of the module
+#{type} - Depending on the module
+#{kills} - Available in the killaura module
+#{max_kills} - Available in the killaura module
+#{leftclicks} - Available in the autoclicker module
+#{rightclicks} - Available in the autoclicker module
+#{id} - The id of the violation log
+
+actions:
+  example:
+  - kick {name}
+  - warn {name} Illegal client modifications &e[{id}]
+  fly:
+  - conditionalcommands:ccmd {name} unless -ping->151|-tps-<19.6|-time_online-<100 do ncp log stream notify &7(&c!&7) &c{name} &7is moving suspiciously &7(Search - {id}) (&c{vl}VL&7)
+  jesus:
+  - conditionalcommands:ccmd {name} unless -ping->161|-tps-<19.6 do ncp log stream notify &7(&c!&7) &c{name} &7attempted to be &cJesus &7(Search - {id}) (&c{vl}VL&7)
+  packet:
+  - conditionalcommands:ccmd {name} unless -ping->161|-tps-<19.6|-time_online-<200 do ncp log stream notify &7(&c!&7) &c{name} &7might be using &cBlink &7(Search - {id}) (&c{vl}VL&7)
+  glide:
+  - conditionalcommands:ccmd {name} unless -ping->161|-tps-<19.6 do ncp log stream notify &7(&c!&7) &c{name} &7attempted to &cglide &7(Search - {id}) (&c{vl}VL&7)
+  killaura:
+  - conditionalcommands:ccmd {name} unless -ping->151|-tps-<19.6 do ncp log stream notify &7(&c!&7) &c{name} &7might be using &cKill Aura &7(Search - {id}) (&c{vl}VL&7)
+  click:
+  - conditionalcommands:ccmd {name} unless -ping->151|-tps-<19.6 do ncp log stream notify &7(&c!&7) &c{name} &7might be using an &cAutoclicker &7(Search - {id}) (&c{vl}VL&7)
+  reach:
+  - conditionalcommands:ccmd {name} unless -ping->151|-tps-<19.6 do ncp log stream notify &7(&c!&7) &c{name} &7failed (Combat) &cReach &7(Search - {id}) (&c{vl}VL&7)
+  improbable:
+  - conditionalcommands:ccmd {name} unless -ping->151|-tps-<19.6 do ncp log stream notify &7(&c!&7) &c{name} &7might be using &cKill Aura &7(Search - Imp - {id}) (&c{vl}VL&7)
+  nuker:
+  - conditionalcommands:ccmd {name} unless -ping->151|-tps-<19.6 do ncp log stream notify &7(&c!&7) &c{name} &7is trying to use &cNuker &7(Search - {id}) (Kicked) (&c{vl}VL&7)
+  - kick {name} Internal Exception; io.netty.handler.timeout.ReadTimeoutException
+  fspeed:
+  - conditionalcommands:ccmd {name} unless -ping->151|-tps-<19.6 do ncp log stream notify &7(&c!&7) &c{name} &7failed (Combat) &cSpeed &7(Search - {id}) (&c{vl}VL&7)
+  attackfrequency:
+  - conditionalcommands:ccmd {name} unless -ping->161|-tps-<19.6 do ncp log stream notify &7(&c!&7) &c{name} &7might be using &cKill Aura &7(Search - AtkFrq- {id}) (&c{vl}VL&7)
+  flyfrequency:
+  - conditionalcommands:ccmd {name} unless -ping->171|-tps-<19.6 do ncp log stream notify &7(&c!&7) &c{name} &7may be using &cSpeed &7(Search - {id}) (&c{vl}VL&7)
+  ping:
+  - conditionalcommands:ccmd {name} unless -tps-<19.6|-time_online-<160 do ncp log stream notify &7(&c!&7) &c{name} &7is likely &cPingSpoofing &7(Ping - &6{ping}&7) (Search - {id}) (&c{vl}VL&7)
+  frontentity:
+  - conditionalcommands:ccmd {name} unless -ping->161|-tps-<19.6 do ncp log stream notify &7(&c!&7) &c{name} &7might be using &cKill Aura &7(Search - FrontEntity - {id}) (&c{vl}VL&7)
+  multiact:
+  - conditionalcommands:ccmd {name} unless -ping->151|-tps-<19.5 do ncp log stream notify &7(&c!&7) &c{name} &7has completed multiple actions at once &7(Search - {id}) (&c{vl}VL&7)
+  worlddl:
+  - ncp log stream notify &7(&c!&7) &c{name} &7might be using WorldDownloader.'

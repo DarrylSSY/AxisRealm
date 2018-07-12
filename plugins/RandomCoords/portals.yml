@@ -1,0 +1,10 @@
+Portal:
+  rtp:
+    p1x: 234
+    p1y: 72
+    p1z: 406
+    p2x: 238
+    p2y: 69
+    p2z: 406
+    PortalWorld: spawn
+    world: world

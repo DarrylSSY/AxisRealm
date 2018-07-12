@@ -1,0 +1,23 @@
+Version: 1.4
+GameVersion:
+  SetOwn: false
+  Version: v1_12_R1
+ColoredConsoleText: true
+VotingTime: 35
+RemindingTime: 25
+TimeoutPeriod: 15
+UseScoreboard: true
+UseVoteGUI: true
+UseBossBar: true
+UseTitle: true
+CheckForHiddenPlayers: false
+PrematureEnd: true
+Price: 0.0
+RawMessages: true
+DisabledWorld:
+- spawn
+- world_nether
+- world_the_end
+VotingInventoryMessages: true
+ShowOnlyToPlayersWithPermission: false
+RefundVotingPriceIfVotingFails: true

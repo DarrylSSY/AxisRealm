@@ -1,0 +1,15 @@
+Warp:
+  type: assignment
+  interact scripts:
+    - 1 WarpMain
+
+WarpMain:
+  type: interact
+  steps:
+    1:
+      click trigger:
+        script:
+          - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Ti&km&ae... space... wa&kr&ap... endless..."
+          - wait 1
+          - execute as_player "warp"
+          

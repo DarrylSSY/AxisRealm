@@ -1,0 +1,172 @@
+# 
+# Should the whole inventory be deleted?
+general:
+  cancel_points: 40
+  log_violations: false
+  kick_message: Illegal client modifications &c[{id}]
+  kick_notify: '&c{name} &7has been kicked for &cillegal client modifications.'
+  ban_command: ban {name} Illegal client modifications &c[{id}]
+  invalidate_strikes_min: 180
+  invalidate_flaggs_hours: 12
+  create_replay: true
+  update_notifications: true
+  ban_wave:
+    enabled: false
+    interval: 30
+    broadcast: false
+    message: '&c{amount} &7players have been banned for &cillegal client modifications.'
+  bungee:
+    enabled: false
+    bungee_host: localhost
+    bungee_port: 5342
+    key: <Your Key>
+    broadcast_message: false
+    execute_command: true
+    synchronize_data: true
+modules:
+  Global:
+    enabled: false
+    strikes: 4
+    action: BAN
+  FlyNCP:
+    enabled: true
+    strikes: 45
+    action: fly
+    message: ''
+  Waterwalk:
+    enabled: true
+    strikes: 20
+    action: jesus
+    message: ''
+  BadPackets:
+    enabled: false
+    strikes: 22
+    action: packet
+    exempt_log: true
+    message: ''
+    settings:
+      packet_threshold: 32
+      packet_flagged_threshold: 26
+      packet_strike_threshold: 70
+      max_movepacket_diff: 2
+      max_keepalive_diff: 5
+  Glide:
+    enabled: true
+    strikes: 25
+    action: glide
+    message: ''
+  Killaura:
+    enabled: true
+    strikes: 20
+    action: killaura
+    message: ''
+    settings:
+      check_wait: 10
+      needed_hits: 2
+      max_bots: 16
+      kill_threshold: 3
+      kill_max_threshold: 8
+  ItemCheck:
+    enabled: false
+    strikes: 0
+    action: NONE
+    settings:
+      check_nbt: false
+      check_enchantments: false
+      check_potions: false
+      clear_inventory: false
+      only_creative: true
+  Autoclicker:
+    enabled: true
+    strikes: 85
+    action: click
+    message: ''
+    settings:
+      click_threshold: 16
+      click_flagged_threshold: 8
+  PacketCheck:
+    enabled: true
+    strikes: 0
+    action: worlddl
+    message: ''
+    settings:
+      send_health: false
+      disable_wdl: true
+      disable_labymod: true
+      alter_playerinfo: true
+  Reach:
+    enabled: true
+    strikes: 10
+    action: reach
+    message: ''
+    settings:
+      max_distance: 3.8
+  ImprobableNCP:
+    enabled: true
+    strikes: 28
+    action: improbable
+    message: ''
+  NukerNCP:
+    enabled: true
+    strikes: 30
+    action: nuker
+    message: ''
+  FightSpeedNCP:
+    enabled: true
+    strikes: 20
+    action: fspeed
+    message: ''
+  AttackFrequencyNCP:
+    enabled: true
+    strikes: 22
+    action: attackfrequency
+    message: ''
+  FlyingFrequencyNCP:
+    enabled: true
+    strikes: 22
+    action: flyfrequency
+    message: ''
+  PingSpoof:
+    enabled: true
+    strikes: 12
+    action: ping
+    message: ''
+  FrontEntity:
+    enabled: true
+    strikes: 7
+    action: frontentity
+    message: ''
+    settings:
+      check_wait: 14
+      needed_hits: 2
+      max_bots: 3
+      hit_threshold: 2
+      only_players: true
+  MultipleActions:
+    enabled: true
+    strikes: 3
+    action: multiact
+    message: ''
+    settings:
+      check_eathit: true
+      check_eatdig: true
+      check_dighit: true
+      check_digplace: true
+      check_invalidbreak: true
+  InventoryAction:
+    enabled: false
+    strikes: 5
+    action: NONE
+    message: '&c{name} &7has moved items in his inventory without it open &7[&7Type={type}&7]
+      &7Ping/TPS&7({ping}&7/{tps}&7)'
+    settings:
+      impossible_hit: true
+      impossible_click: true
+  VehicleMovement:
+    enabled: false
+    strikes: 15
+    action: NONE
+    message: '&c{name} &7is attempted &cBoatFly &7[&7Entity={type}&7] &7Ping/TPS&7({ping}&7/{tps}&7)'
+    settings:
+      check_horse: true
+      check_boat: true

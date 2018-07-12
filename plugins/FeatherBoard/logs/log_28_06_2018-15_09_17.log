@@ -1,0 +1,470 @@
+28/06/2018 15:09:17 [INFO] Loading language file: lang_en
+28/06/2018 15:09:17 [INFO] Loading placeholders and event triggers ...
+28/06/2018 15:09:17 [INFO] Loading internal placeholders ...
+28/06/2018 15:09:17 [INFO] Fetching available placeholders from server ...
+28/06/2018 15:09:18 [INFO] Loading placeholder [Armor] ...
+28/06/2018 15:09:17 [DEBUG] Loaded placeholder: CustomPlaceholders
+28/06/2018 15:09:17 [DEBUG] Loaded placeholder: MySQL
+28/06/2018 15:09:18 [INFO] Loading placeholder [Bukkit] ...
+28/06/2018 15:09:18 [INFO] Loading placeholder [BungeeCord] ...
+28/06/2018 15:09:18 [DEBUG] Loaded placeholder: bukkit
+28/06/2018 15:09:18 [DEBUG] Loaded placeholder: armor
+28/06/2018 15:09:17 [INFO] Loading messages ...
+28/06/2018 15:09:18 [DEBUG] Loaded placeholder: chatreaction
+28/06/2018 15:09:18 [INFO] Loading event hook: ChatReaction start event ...
+28/06/2018 15:09:18 [INFO] Loading placeholder [ChatReaction] ...
+28/06/2018 15:09:18 [DEBUG] Loaded placeholder: bungeecord
+28/06/2018 15:09:18 [INFO] Loading event hook: ChatReaction start event ...
+28/06/2018 15:09:18 [INFO] Loading placeholder [Color] ...
+28/06/2018 15:09:18 [INFO] Loading placeholder [Compass placeholders] ...
+28/06/2018 15:09:18 [INFO] Loading placeholder [CommandPlaceholderPack] ...
+28/06/2018 15:09:18 [DEBUG] Loaded placeholder: color
+28/06/2018 15:09:18 [INFO] Loading placeholder [CustomList] ...
+28/06/2018 15:09:18 [DEBUG] Loaded placeholder: compass
+28/06/2018 15:09:18 [DEBUG] Loaded placeholder: command
+28/06/2018 15:09:18 [DEBUG] Loaded placeholder: deluxetags
+28/06/2018 15:09:18 [DEBUG] Loaded placeholder: economy
+28/06/2018 15:09:18 [INFO] Loading placeholder [Effects] ...
+28/06/2018 15:09:18 [DEBUG] Loaded placeholder: customlist
+28/06/2018 15:09:18 [DEBUG] Loaded placeholder: essentials
+28/06/2018 15:09:18 [INFO] Loading placeholder [Economy] ...
+28/06/2018 15:09:18 [DEBUG] Loaded placeholder: entities
+28/06/2018 15:09:18 [DEBUG] Loaded placeholder: playereffects
+28/06/2018 15:09:18 [INFO] Loading placeholder [Essentials] ...
+28/06/2018 15:09:18 [INFO] Loading placeholder [DeluxeTags] ...
+28/06/2018 15:09:18 [INFO] Loading placeholder [Facebook] ...
+28/06/2018 15:09:19 [INFO] Loading placeholder [FireworkEffect] ...
+28/06/2018 15:09:19 [DEBUG] Loaded placeholder: firework
+28/06/2018 15:09:19 [DEBUG] Loaded placeholder: facebook
+28/06/2018 15:09:18 [INFO] Loading placeholder [Entities] ...
+28/06/2018 15:09:19 [INFO] Loading placeholder [Geographical] ...
+28/06/2018 15:09:19 [DEBUG] Loaded placeholder: hotbar
+28/06/2018 15:09:19 [DEBUG] Loaded placeholder: geographical
+28/06/2018 15:09:19 [DEBUG] Loaded placeholder: java
+28/06/2018 15:09:19 [DEBUG] Loaded placeholder: jobsreborn
+28/06/2018 15:09:19 [INFO] Loading placeholder [JobsReborn] ...
+28/06/2018 15:09:19 [INFO] Loading placeholder [LWC] ...
+28/06/2018 15:09:19 [INFO] Loading placeholder [Hotbar] ...
+28/06/2018 15:09:19 [INFO] Loading placeholder [LibsDisguises] ...
+28/06/2018 15:09:19 [DEBUG] Loaded placeholder: libsdisguises
+28/06/2018 15:09:19 [INFO] Loading placeholder [Marriage] ...
+28/06/2018 15:09:19 [DEBUG] Loaded placeholder: marriage
+28/06/2018 15:09:19 [INFO] Loading placeholder [Memory] ...
+28/06/2018 15:09:19 [INFO] Loading placeholder [Multiverse-Core] ...
+28/06/2018 15:09:19 [INFO] Loading placeholder [Permissions] ...
+28/06/2018 15:09:19 [DEBUG] Loaded placeholder: multiverse
+28/06/2018 15:09:19 [INFO] Loading placeholder [JavaInfo] ...
+28/06/2018 15:09:19 [INFO] Loading placeholder [LeaderHeads] ...
+28/06/2018 15:09:19 [DEBUG] Loaded placeholder: placeholderapi
+28/06/2018 15:09:19 [INFO] Loading placeholder [PlaceholderAPI] ...
+28/06/2018 15:09:19 [INFO] Loading placeholder [Player] ...
+28/06/2018 15:09:20 [DEBUG] Loaded placeholder: player
+28/06/2018 15:09:20 [INFO] Loading placeholder [Previous Names] ...
+28/06/2018 15:09:20 [INFO] Loading placeholder [Quests] ...
+28/06/2018 15:09:20 [DEBUG] Loaded placeholder: previousnames
+28/06/2018 15:09:19 [DEBUG] Loaded placeholder: permissions
+28/06/2018 15:09:19 [DEBUG] Loaded placeholder: lwc
+28/06/2018 15:09:20 [INFO] Loading placeholder [RedisBungee] ...
+28/06/2018 15:09:20 [DEBUG] Loaded placeholder: redisbungee
+28/06/2018 15:09:20 [DEBUG] Loaded placeholder: quests
+28/06/2018 15:09:20 [INFO] Loading placeholder [ServerPinger] ...
+28/06/2018 15:09:20 [DEBUG] Loaded placeholder: serverpinger
+28/06/2018 15:09:20 [INFO] Loading placeholder [Sound Effects] ...
+28/06/2018 15:09:20 [INFO] Loading placeholder [Statistics] ...
+28/06/2018 15:09:20 [DEBUG] Loaded placeholder: sound
+28/06/2018 15:09:20 [DEBUG] Loaded placeholder: stockmarket-yahoofinance
+28/06/2018 15:09:20 [INFO] Loading placeholder [StockMarket] ...
+28/06/2018 15:09:19 [DEBUG] Loaded placeholder: memory
+28/06/2018 15:09:20 [INFO] Loading placeholder [Towny] ...
+28/06/2018 15:09:20 [DEBUG] Loaded placeholder: towny
+28/06/2018 15:09:19 [DEBUG] Loaded placeholder: leaderheads
+28/06/2018 15:09:20 [INFO] Enabling event hook: Towny Town!
+28/06/2018 15:09:20 [INFO] Loading event hook: Towny Town ...
+28/06/2018 15:09:20 [INFO] Loading placeholder [Twitter] ...
+28/06/2018 15:09:20 [INFO] Loading event hook: Towny Town ...
+28/06/2018 15:09:21 [INFO] Loading placeholder [Unicode Characters] ...
+28/06/2018 15:09:20 [INFO] Enabling event hook: Towny Town!
+28/06/2018 15:09:21 [DEBUG] Loaded placeholder: twitter
+28/06/2018 15:09:20 [DEBUG] Loaded placeholder: statistics
+28/06/2018 15:09:20 [DEBUG] Loaded placeholder: stockmarket
+28/06/2018 15:09:20 [INFO] Loading placeholder [StockMarket YahooFinance] ...
+28/06/2018 15:09:21 [INFO] Loading event hook: Vanilla Combat hook ...
+28/06/2018 15:09:21 [INFO] Loading event hook: Vanilla Block break hook ...
+28/06/2018 15:09:21 [INFO] Loading event hook: Vanilla player rejoin ...
+28/06/2018 15:09:21 [INFO] Loading placeholder [VanillaEvents] ...
+28/06/2018 15:09:21 [INFO] Enabling event hook: Vanilla Combat hook!
+28/06/2018 15:09:21 [DEBUG] Loaded placeholder: vanillaevents
+28/06/2018 15:09:21 [INFO] Loading event hook: Vanilla Block place hook ...
+28/06/2018 15:09:20 [DEBUG] Loaded placeholder: townychat
+28/06/2018 15:09:21 [DEBUG] Loaded placeholder: unicode
+28/06/2018 15:09:21 [INFO] Loading event hook: Vanilla Death hook ...
+28/06/2018 15:09:21 [INFO] Loading event hook: Vanilla player first join ...
+28/06/2018 15:09:21 [INFO] Loading event hook: Vanilla Combat hook ...
+28/06/2018 15:09:21 [INFO] Loading event hook: Vanilla Block break hook ...
+28/06/2018 15:09:21 [INFO] Enabling event hook: Vanilla Combat hook!
+28/06/2018 15:09:20 [INFO] Loading placeholder [TicksPerSecond] ...
+28/06/2018 15:09:21 [INFO] Loading event hook: Vanilla Block place hook ...
+28/06/2018 15:09:20 [DEBUG] Loaded placeholder: tickspersecond
+28/06/2018 15:09:21 [INFO] Loading event hook: Vanilla player rejoin ...
+28/06/2018 15:09:21 [INFO] Loading event hook: Vanilla player join ...
+28/06/2018 15:09:21 [INFO] Loading event hook: Vanilla Create portal hook ...
+28/06/2018 15:09:21 [INFO] Loading event hook: Vanilla player first join ...
+28/06/2018 15:09:21 [INFO] Loading placeholder [VoteParty] ...
+28/06/2018 15:09:21 [INFO] Loading placeholder [World] ...
+28/06/2018 15:09:21 [DEBUG] Loaded placeholder: world
+28/06/2018 15:09:21 [INFO] Loading placeholder [WorldGuard] ...
+28/06/2018 15:09:21 [DEBUG] Loaded placeholder: worldborder
+28/06/2018 15:09:21 [DEBUG] Loaded placeholder: worldguard
+28/06/2018 15:09:21 [INFO] Loading event hook: WorldGuard Region ...
+28/06/2018 15:09:21 [INFO] Loading placeholder [mcMMO] ...
+28/06/2018 15:09:21 [INFO] Loading event hook: WorldGuard Region ...
+28/06/2018 15:09:21 [INFO] Loading event hook: mcMMO Party Level up ...
+28/06/2018 15:09:21 [INFO] Loading event hook: mcMMO Level up event ...
+28/06/2018 15:09:21 [INFO] Enabling event hook: mcMMO Level up event!
+28/06/2018 15:09:21 [INFO] Loading event hook: mcMMO Level down event ...
+28/06/2018 15:09:21 [INFO] Loading placeholder [WorldBorder] ...
+28/06/2018 15:09:21 [INFO] Loading event hook: mcMMO Party Level up ...
+28/06/2018 15:09:21 [INFO] Loading event hook: mcMMO Level down event ...
+28/06/2018 15:09:21 [INFO] Checking for placeholder updates ...
+28/06/2018 15:09:21 [INFO] Loading event hook: mcMMO Level up event ...
+28/06/2018 15:09:22 [INFO] Loading custom effect 'example3' ...
+28/06/2018 15:09:22 [INFO] Creating new custom effect: example3
+28/06/2018 15:09:22 [INFO] Loading custom effect 'example1' ...
+28/06/2018 15:09:21 [DEBUG] Loaded placeholder: voteparty
+28/06/2018 15:09:21 [INFO] Loaded 3407 of the 3407 placholders
+28/06/2018 15:09:22 [INFO] Loading custom effect 'example2' ...
+28/06/2018 15:09:22 [DEBUG]  - Server supports Objective entries
+28/06/2018 15:09:22 [DEBUG]  - Server supports Team color
+28/06/2018 15:09:22 [INFO] Creating new custom effect: example2
+28/06/2018 15:09:21 [INFO] Loading event hook: Vanilla Death hook ...
+28/06/2018 15:09:22 [DEBUG]  - Server supports Team prefix/suffix
+28/06/2018 15:09:22 [DEBUG] Using SCOREBOARD v7
+28/06/2018 15:09:23 [INFO] Using OPTIMAL as the update strategy
+28/06/2018 15:09:22 [DEBUG]  - Server supports Team entries
+28/06/2018 15:09:21 [INFO] Loading event hook: Vanilla Create portal hook ...
+28/06/2018 15:09:22 [INFO] Creating new custom effect: example1
+28/06/2018 15:09:23 [DEBUG] 	Line: combat-label Static: true
+28/06/2018 15:09:23 [DEBUG] 	Line: combat-data Static: false
+28/06/2018 15:09:23 [DEBUG] 	Line: spacer1 Static: false
+28/06/2018 15:09:23 [DEBUG] 	Line: health-label Static: true
+28/06/2018 15:09:23 [DEBUG] 	Line: footer Static: true
+28/06/2018 15:09:23 [INFO] Loading scoreboard 'mcmmo-levelup' ...
+28/06/2018 15:09:23 [DEBUG] 	Line: health-data-2 Static: false
+28/06/2018 15:09:23 [DEBUG] 	Line: skill-label Static: true
+28/06/2018 15:09:23 [DEBUG] 	Line: health-data-1 Static: false
+28/06/2018 15:09:23 [DEBUG] 	Line: title Static: false
+28/06/2018 15:09:23 [DEBUG] 	Line: spacer1 Static: true
+28/06/2018 15:09:23 [INFO] Loading scoreboard 'combat-scoreboard-example' ...
+28/06/2018 15:09:23 [DEBUG] 	Line: header Static: true
+28/06/2018 15:09:23 [DEBUG] 	Line: skill Static: false
+28/06/2018 15:09:21 [DEBUG] Loaded placeholder: mcmmo
+28/06/2018 15:09:23 [DEBUG] 	Line: title Static: false
+28/06/2018 15:09:21 [INFO] Loading event hook: Vanilla player join ...
+28/06/2018 15:09:23 [DEBUG] 	Line: info-label Static: false
+28/06/2018 15:09:23 [DEBUG] 	Line: header Static: true
+28/06/2018 15:09:21 [INFO] Enabling event hook: mcMMO Level up event!
+28/06/2018 15:09:23 [DEBUG] 	Line: skilllevel Static: false
+28/06/2018 15:09:23 [DEBUG] 	Line: skilllevel-label Static: true
+28/06/2018 15:09:23 [DEBUG] 	Line: footer Static: true
+28/06/2018 15:09:23 [INFO] Loading scoreboard 'default' ...
+28/06/2018 15:09:24 [DEBUG] 	Line: title Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: player-label Static: true
+28/06/2018 15:09:23 [DEBUG] 	Line: spacer2 Static: true
+28/06/2018 15:09:24 [DEBUG] 	Line: header Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: news-info Static: true
+28/06/2018 15:09:24 [DEBUG] 	Line: news Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: spacer1 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: player-line1 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: timesplayed-label Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: timesplayed Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: spacer2 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: server-label Static: true
+28/06/2018 15:09:24 [DEBUG] 	Line: server-line1 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: title Static: false
+28/06/2018 15:09:24 [INFO] Loading scoreboard 'towny-town-example' ...
+28/06/2018 15:09:24 [DEBUG] 	Line: header Static: true
+28/06/2018 15:09:24 [DEBUG] 	Line: town-data Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: spacer1 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: townboard-label Static: true
+28/06/2018 15:09:24 [DEBUG] 	Line: town-label Static: true
+28/06/2018 15:09:24 [DEBUG] 	Line: spacer2 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: poplulation-data Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: spacer3 Static: false
+28/06/2018 15:09:24 [INFO] Loading scoreboard 'benchmark' ...
+28/06/2018 15:09:24 [DEBUG] 	Line: player-line2 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: line1 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: title Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: line3 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: population-label Static: true
+28/06/2018 15:09:24 [DEBUG] 	Line: footer Static: true
+28/06/2018 15:09:24 [DEBUG] 	Line: line4 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: line5 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: line2 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: line8 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: line9 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: line10 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: line11 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: line12 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: line13 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: line7 Static: false
+28/06/2018 15:09:25 [DEBUG] Scoreboards groups sorted by priority:
+28/06/2018 15:09:25 [DEBUG] 	default - 10
+28/06/2018 15:09:24 [DEBUG] 	Line: line6 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: line14 Static: false
+28/06/2018 15:09:25 [DEBUG] 	mcmmo-levelup - 0
+28/06/2018 15:09:25 [DEBUG] 	towny-town-example - 0
+28/06/2018 15:09:25 [DEBUG] 	combat-scoreboard-example - 0
+28/06/2018 15:09:25 [INFO] Generating metrics information ...
+28/06/2018 15:09:25 [INFO] Added 'PERMISSION' as the default scoreboard assign method
+28/06/2018 15:09:25 [INFO] Toggle persistence is disabled!
+28/06/2018 15:09:25 [DEBUG] 	benchmark - 0
+28/06/2018 15:09:25 [MESSAGE] &5[&9FeatherBoard&5] &aYour version is up to date!
+28/06/2018 15:09:25 [DEBUG] 	Line: line15 Static: false
+28/06/2018 15:09:24 [DEBUG] 	Line: townboard Static: false
+28/06/2018 15:09:25 [INFO] Adding command 'featherboard'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'toggle'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'off'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'debug'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'gui'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'reload'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'on'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'placeholders'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'about'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'reload'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'editsetting'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'show'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'createscoreboard'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'removescoreboard'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'modules'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'add'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'module'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'remove'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1b14c089'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1b14c089'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1b14c089'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1b14c089'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2db4199f'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2db4199f'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2db4199f'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3382854e'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2db4199f'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'hide'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'permissions'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'generatebbcode'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'info'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'parse'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3382854e'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3382854e'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2ef24c2c'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2ef24c2c'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2ef24c2c'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'mcmmo-levelup' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2ef24c2c'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'towny-town-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2ef24c2c'
+28/06/2018 15:09:25 [DEBUG] 	Adding sub command 'help'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'default' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@2db4199f'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'combat-scoreboard-example' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3382854e'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@3382854e'
+28/06/2018 15:09:26 [DEBUG] Refreshing group 'benchmark' for new custom placeholder 'crazycrates_me.badbones69.crazycrates.api.objects.crate@1b14c089'
+28/06/2018 15:10:09 [INFO] Fetching modules from server ...
+28/06/2018 15:10:09 [INFO] Checking for module updates ...
+28/06/2018 15:10:43 [DEBUG] Adding 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:10:43 [DEBUG] Adding 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:12:24 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:12:24 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: DomoAK
+28/06/2018 15:12:24 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: DomoAK
+28/06/2018 15:12:24 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:12:29 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: DomoAK
+28/06/2018 15:12:29 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: DomoAK
+28/06/2018 15:12:29 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:12:29 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:12:43 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: werhu
+28/06/2018 15:12:43 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: werhu
+28/06/2018 15:12:48 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: werhu
+28/06/2018 15:12:48 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: werhu
+28/06/2018 15:15:51 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:15:51 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:15:56 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:15:56 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:16:08 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 15:16:08 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 15:16:13 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:16:13 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:16:13 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 15:16:13 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 15:16:18 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:16:18 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:16:53 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 15:16:53 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 15:16:58 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 15:17:09 [DEBUG] Removing 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:17:09 [DEBUG] Removing 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:16:58 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 15:17:09 [DEBUG] Adding 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:17:09 [DEBUG] Adding 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:17:47 [DEBUG] Removing 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:17:47 [DEBUG] Removing 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:17:47 [DEBUG] Adding 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:17:47 [DEBUG] Adding 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:17:58 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 15:17:58 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 15:18:04 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 15:18:04 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 15:19:52 [DEBUG] Removing 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:19:52 [DEBUG] Removing 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:19:52 [DEBUG] Adding 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:19:52 [DEBUG] Adding 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:22:13 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:22:13 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:22:13 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:22:13 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:22:18 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:22:18 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:22:18 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:22:18 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:23:44 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:23:44 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:23:50 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:23:50 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:24:36 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:24:36 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:24:41 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:24:41 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:25:02 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: werhu
+28/06/2018 15:25:02 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: werhu
+28/06/2018 15:25:07 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: werhu
+28/06/2018 15:25:07 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: werhu
+28/06/2018 15:26:19 [DEBUG] Removing 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:26:19 [DEBUG] Removing 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:26:25 [DEBUG] Adding 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:26:25 [DEBUG] Adding 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:26:25 [DEBUG] Removing 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:26:25 [DEBUG] Removing 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:26:35 [DEBUG] Adding 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:26:35 [DEBUG] Adding 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:27:39 [DEBUG] Removing 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:27:39 [DEBUG] Removing 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:27:39 [DEBUG] Adding 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:27:39 [DEBUG] Adding 'towny-town-example' scoreboard override for: werhu
+28/06/2018 15:28:32 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:28:32 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:28:32 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:28:32 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:28:37 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:28:37 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:28:37 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:28:37 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:29:24 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:29:24 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:29:29 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:29:29 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:30:11 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:30:11 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:30:16 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:30:16 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:30:20 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:30:20 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:30:25 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:30:25 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:30:29 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:30:29 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:30:33 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:30:33 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:30:38 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:30:38 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:30:38 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:30:38 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:31:09 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:31:09 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:31:13 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:31:13 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:31:16 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:31:16 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:31:18 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:31:18 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:31:21 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:31:21 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:31:26 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:31:26 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:31:40 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 15:31:40 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 15:31:46 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 15:31:46 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: HarukiGrande
+28/06/2018 15:31:49 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:31:49 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:31:54 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:31:54 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:35:34 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:35:34 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:35:39 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:35:39 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:36:20 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 15:36:20 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 15:36:25 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 15:36:25 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: RedstoneTrip
+28/06/2018 15:40:45 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:40:45 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:40:50 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:40:50 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:44:01 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:44:01 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:44:01 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:44:01 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:44:06 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:44:06 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:44:06 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:45:11 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:45:11 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:44:06 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: ColossusIce
+28/06/2018 15:45:16 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:45:16 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:49:49 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:49:49 [DEBUG] Adding 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:49:54 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:49:54 [DEBUG] Removing 'combat-scoreboard-example' scoreboard override for: LeagueOfPros
+28/06/2018 15:51:22 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:51:22 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:51:28 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:51:28 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:51:51 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:51:51 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:51:56 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:51:56 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:54:19 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:54:19 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:54:24 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:54:24 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:54:27 [SEVERE] Error in placeholder: {money_formatted}
+28/06/2018 15:54:27 [DEBUG] java.lang.RuntimeException: Essentials API is called before Essentials is loaded.
+	at com.earth2me.essentials.api.Economy.getUserByName(Economy.java:62)
+	at com.earth2me.essentials.api.Economy.getMoneyExact(Economy.java:85)
+	at com.earth2me.essentials.api.Economy.getMoney(Economy.java:81)
+	at net.milkbowl.vault.economy.plugins.Economy_Essentials.getBalance(Economy_Essentials.java:78)
+	at net.milkbowl.vault.economy.AbstractEconomy.getBalance(AbstractEconomy.java:20)
+	at be.maximvdw.placeholdercore.placeholders.EconomyPlaceholderPack$3.getResult(EconomyPlaceholderPack.java:55)
+	at be.maximvdw.placeholdercore.placeholders.EconomyPlaceholderPack$3.getResult(EconomyPlaceholderPack.java:49)
+	at be.maximvdw.placeholderapi.internal.PlaceholderReplacer.getResult(PlaceholderReplacer.java:60)
+	at be.maximvdw.featherboard.di.a(di.java:60)
+	at be.maximvdw.featherboard.dc.a(dc.java:83)
+	at be.maximvdw.featherboard.dc.a(dc.java:77)
+	at be.maximvdw.featherboard.dk.a(dk.java:67)
+	at be.maximvdw.featherboard.dk.a(dk.java:106)
+	at be.maximvdw.featherboard.api.scoreboard.ScoreboardLine.updatePlaceholders(ScoreboardLine.java:31)
+	at be.maximvdw.featherboard.api.scoreboard.ScoreboardGroup$AnimationUpdater.run(ScoreboardGroup.java:9)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+28/06/2018 15:55:02 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:55:02 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:55:07 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:55:07 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: ColossusIce
+28/06/2018 15:55:22 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:55:22 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:55:27 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:55:27 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:55:41 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:55:41 [DEBUG] Adding 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:55:46 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros
+28/06/2018 15:55:46 [DEBUG] Removing 'mcmmo-levelup' scoreboard override for: LeagueOfPros

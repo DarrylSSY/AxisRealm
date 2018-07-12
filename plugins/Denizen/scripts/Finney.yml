@@ -1,0 +1,14 @@
+Finney:
+  type: assignment
+  interact scripts:
+    - 1 FinneyMain
+
+FinneyMain:
+  type: interact
+  steps:
+    1:
+      click trigger:
+        script:
+          - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Hellu, I am Finney! Is there anything you would like to buy?"
+          - wait 1
+          - execute as_player "ah"

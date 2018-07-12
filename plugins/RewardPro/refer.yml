@@ -1,0 +1,59 @@
+# ==================================== #
+# 
+# RewardPro 3.17
+# A complete reward solution.
+# (c) SuperM
+# 
+# ==================================== #
+# 
+# Thank you for using the plugin! 
+# If you like the plugin, please rate it with 5 stars on SpigotMc!
+# 
+# ==================================== #
+#           Settings 
+# ==================================== #
+# You see the full documentation of this file here: 
+# https://pastebin.com/Dr42kWkH
+
+Friend:
+  InvitationReward: eco give [Player] 1000;eco give [Player] 2500;eco give [Player]
+    5000
+  NewPlayerReward: eco give [Player] 400
+Refer1:
+  Command: eco give [Player] 500;eco give [Player] 10
+  Slot: 0
+  Item: BOOK_AND_QUILL
+  FriendRefer: false
+  Heading: '&6Webpage ♥'
+  Lore: '&7You found our server through our website;;&8https://axisrealm.net'
+Refer2:
+  Command: eco give [Player] 500;eco give [Player] 10
+  Slot: 2
+  Item: BOOK_AND_QUILL
+  HeadName: GameNilo
+  FriendRefer: false
+  Heading: '&6Vote Site'
+  Lore: '&7You found our server through vote sites'
+Refer3:
+  Slot: 4
+  Item: SKULL
+  HeadName: GameNilo
+  FriendRefer: false
+  Heading: '&cYoutube'
+  Lore: '&7You found our server through our youtube channel;;&8https://www.youtube.com/channel/UC5hvdu32Rz1nZGZkAMg62zA'
+  Command: eco give [Player] 500;eco give [Player] 10
+Refer4:
+  Command: eco give [Player] 500;eco give [Player] 10
+  Slot: 6
+  Item: SKULL
+  HeadName: DarrylSSY
+  FriendRefer: false
+  Heading: '&bDarrylSSY'
+  Lore: '&7You found our server through DarrylSSY'
+Refer5:
+  Command: eco give [Player] 500;eco give [Player] 10
+  Slot: 8
+  Item: DIRT
+  FriendRefer: false
+  Heading: '&aOthers'
+  Lore: '&7You found our server through other means'

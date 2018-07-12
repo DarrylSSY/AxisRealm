@@ -1,0 +1,66 @@
+Jonas:
+  type: assignment
+  interact scripts:
+    - 10 JonasMain
+
+JonasMain:
+  type: interact
+  steps:
+    1:
+      click trigger:
+        script:
+          - if <player.flag[jonasQuestCompleted]>
+          {
+            - narrate "<green><npc.name> <yellow> -> <gray>You:<green> I will stay here and wait for other new adventurers like you. Be on your way and explore the world."
+          } else
+          {
+            - if <player.flag[jonasQuestStarted]> == null 
+            {
+              - flag player jonasQuestStarted
+              - execute as_server "denizen save"
+              - narrate "<green><npc.name> <yellow> -> <gray>You:<green> ...the sea, so beautiful and serene, yet within it lies unimaginable horrors..."
+              - wait 3
+              - narrate "<green><npc.name> <yellow> -> <gray>You:<green> I see that you have an adventurous spirit, willing to explore the unknown."
+              - wait 3
+              - narrate "<green><npc.name> <yellow> -> <gray>You:<green> But beware of the sea, for every venture into it could be your last."
+              - wait 3
+              - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Here, take my old fishing rod, it's not much but it will serve you well."
+              - give fishing_rod 1
+              - wait 3
+              - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Bring me three raw fishes, as a preparation for your future endeavours, and I may give you something useful for your adventures."
+            } else 
+            {
+              - if <player.inventory.contains.material[349].qty[3]>
+              {
+                - flag player jonasQuestCompleted
+                - execute as_server "denizen save"
+                - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Excellent job young one, you now know how to fish."
+                - wait 3
+                - narrate "<green><npc.name> <yellow> -> <gray>You:<green> This fishing skill will be invaluable in your adventuring days, it has saved me many a time I had nothing on me."
+                - wait 3
+                - narrate "<green><npc.name> <yellow> -> <gray>You:<green> I will hold you here no longer. You have many days ahead of you, and many places to discover."
+                - wait 3
+                - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Oh yes, your reward is the fishing rod of course. It was my prized possession after all."
+                - wait 3
+                - narrate "<green><npc.name> <yellow> -> <gray>You:<green> I'm joking, here's 10 diamonds. I know you adventurers love them and I won't be needing them anyway."
+                - give diamond quantity:10
+                - wait 3
+                - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Farewell young adventurer, fair winds be with you."
+              } else
+                {
+                - if <player.inventory.contains.material[349].qty[2]>
+                {
+                  - narrate "<green><npc.name> <yellow> -> <gray>You:<green> I said three fishes. Three. If you cannot count, I fear you will not go far in your adventures young one."
+                } else
+                {
+                  - if <player.inventory.contains.material[349].qty[1]> 
+                  {
+                    - narrate "<green><npc.name> <yellow> -> <gray>You:<green> A fish, well done, but I believe I said three. Hurry along."
+                  } else
+                  {
+                    - narrate "<green><npc.name> <yellow> -> <gray>You:<green> I only want raw fishes, bring me three of them."
+                  }
+                }
+              }
+            }
+          }

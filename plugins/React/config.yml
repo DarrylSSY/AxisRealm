@@ -1,0 +1,862 @@
+features:
+  react:
+    style:
+
+      # Use console coloring and formatting
+      console-strip-color: true
+
+      # Change the react text color to something else
+      text-color: GRAY
+
+      # Strip all color in chat from react
+      # NOTE: Some parts of react may not respond
+      # to this setting yet.
+      strip-color: false
+
+      # Change the react theme color to something else, or set it to RGB...
+      theme-color: AQUA
+
+      # Change the react dark color to something else.
+      dark-color: DARK_GRAY
+    datalogging:
+
+      # Should Datalogging be enabled? React will monitor samplers and save them to
+      # the cache.
+      enabled: true
+
+      # The maximum amount of data (in megabytes) to keep.
+      max-mb: 100
+    modes:
+
+      # Disable all capabilities for react to unload chunks
+      safemode-unload-chunks: false
+
+      # Disable all capabilities for react to interact with FastAstncWorldEdit.
+      safemode-fawe: false
+
+      # Disable all capabilities for react to communicate to the internet. I.e. Cant
+      # create pastebin reports, or use stats.
+      safemode-networking: false
+
+      # Disable all capabilities for react to interact with the game's protocol. I.e.
+      # Sending & intercepting packets, Ping and other features.
+      safemode-protocol: false
+
+      # Disables all capabilities for react to utilize NMS classes in creaftbukkit.
+      # Use this if either you are having serious problems, or are using
+      # Sponge,MCPC+,KCauldron, or even Glowkit
+      safemode-nms: false
+    spikes:
+
+      # The time a report will not show again for (in ticks) after it was just shown
+      time-nag: 200
+
+      # Monitor the main thread and warn the chat AND console if the server is
+      # locked. Please note that there is no way of knowing if the server is during a
+      # garbage collection. This means there WILL BE false positives. Especially with
+      # react.
+      report-spikes: true
+
+      # Due to word wrapping and hover elements, react hides the full package names
+      # by default.
+      # For example net.minecraft.server.V1_12R2 would be converted to
+      # n.m.s.V
+      show-fully-qualified-names: false
+
+      # The average time in milliseconds a spike must make to trigger the spike
+      # message.
+      time-radius: 2500
+    monitor:
+
+      # Double crouching quickly locks and unlocks the monitor. Turn this off if you
+      # have a plugin such as vanish that uses this kind of mechanic. (/re mon -lock
+      # still works)
+      double-sneak-lock: true
+
+      # Use protocollib to monitor keep alive packets to get super accurate (non
+      # averaged) ping values. Most ping plugins just grab the value from bukkit, but
+      # that value is usually inaccurate due to intense averaging paired with the
+      # slow ping update speed.
+      fast-ping: true
+    command-overrides:
+
+      # Override the /tps and /lag commands to add additional information
+      tps: true
+
+      # Override the '/killall all' command to instead use react to remove entities.
+      killall: false
+
+      # Interpret '/killall all -f' as /re a pe -f (force kill everything but
+      # players)
+      killall-force: false
+
+      # Override /mem with additional information
+      memory: true
+    collision:
+
+      # Disables collision for entities about to be culled.
+      disable-collide-on-pre-cull: true
+
+      # Disables collision for certain entities based on lag and conditions.
+      collision-tweaks-enabled: true
+      disable-collide-always:
+      - BAT
+      disable-collide-spawner:
+      - ELDER_GUARDIAN
+      - WITHER_SKELETON
+      - STRAY
+      - PAINTING
+      - FALLING_BLOCK
+      - HUSK
+      - ZOMBIE_VILLAGER
+      - SKELETON_HORSE
+      - ZOMBIE_HORSE
+      - DONKEY
+      - MULE
+      - EVOKER
+      - VEX
+      - VINDICATOR
+      - ILLUSIONER
+      - MINECART_COMMAND
+      - MINECART
+      - MINECART_CHEST
+      - MINECART_FURNACE
+      - MINECART_TNT
+      - MINECART_HOPPER
+      - MINECART_MOB_SPAWNER
+      - CREEPER
+      - SKELETON
+      - SPIDER
+      - GIANT
+      - ZOMBIE
+      - SLIME
+      - GHAST
+      - PIG_ZOMBIE
+      - ENDERMAN
+      - CAVE_SPIDER
+      - SILVERFISH
+      - BLAZE
+      - MAGMA_CUBE
+      - ENDER_DRAGON
+      - WITHER
+      - BAT
+      - WITCH
+      - ENDERMITE
+      - GUARDIAN
+      - SHULKER
+      - PIG
+      - SHEEP
+      - COW
+      - CHICKEN
+      - SQUID
+      - WOLF
+      - MUSHROOM_COW
+      - SNOWMAN
+      - OCELOT
+      - IRON_GOLEM
+      - HORSE
+      - RABBIT
+      - POLAR_BEAR
+      - LLAMA
+      - LLAMA_SPIT
+      - PARROT
+      - VILLAGER
+      - FISHING_HOOK
+    queue:
+
+      # Learns the 'gist' of repeated executions and attempts to grab low cpu tasks
+      # and burn through them to improve low ms latency.
+      group-suppression: true
+    map:
+
+      # Cap the framerate of the map. Bukkit hard caps at 60, anything higher than 60
+      # will do nothing. Keep in mind that the higher the frame rate, the more bukkit
+      # will spawn craft scheduler threads. Keeping this low reduces memory, cpu
+      # usage and allows more people to use the map at the same time.
+      max-framerate: 15
+
+      # Cap the framerate of the individual graphs in the react map. Keep this value
+      # low as there are many graphs to map.
+      max-graph-framerate: 10
+
+    # Disable all automatic actions, including RAI. Will still purge chunks if
+    # enabled.
+    monitoring-only: false
+    rai:
+
+      # Should Datalogging be enabled? React will monitor samplers and save them to
+      # the cache.
+      enabled: true
+
+      # RAI will do nothing unless the tps drops below this value for more than 20
+      # ticks. It does, rai will look for issues to fix.
+      activation-threshold: 18.5
+    sampler:
+
+      # Modify the average radius of the server tps sampler
+      tps-average-radius: 7
+
+      # Sample time viewport. Higher means more visible data in graphs over time. Due
+      # to lossy compression however, data may look weird near the beginning of a
+      # large graph.
+      sample-viewport: 12000
+
+      # Modify the average radius of server tick time sampler
+      tick-time-average-radius: 3
+
+      # Sample points per sampler type
+      sample-points: 250
+
+    # Use Fast Async World Edit if it is installed.
+    use-fawe: true
+    purge:
+
+      # Allow the purger to purge named entities
+      allow-purge-named: false
+
+      # Allow the purger to purge item drops
+      allow-purge-drops: false
+
+      # Allow the purger to purge tamed entities
+      allow-purge-tamed: false
+
+    # Language to use. Languages are downloaded from
+    # https://github.com/VolmitSoftware/React/tree/master/language
+    language: enUS
+
+    # Enable the ability for players to request temporary access to react. Admins
+    # must accept the request. Admins are always able to revoke access too.
+    allow-tempaccess: true
+
+    # Use NMS Adapters. Disabling this will basically make any nms or fast options
+    # do nothing either way. This may fix issues with FAWE and chunks on 1.8.8
+    # though
+    nms-adapters: true
+
+    # Play sounds during react's usage (chat, monitor, map, etc)
+    interaction-sounds: true
+    actions:
+
+      # Actions such as lock-redstone, lock-hoppers, and lock-fluids. Should they
+      # ever be un-frozen (using the time field)
+      unlock-locked-actions: true
+    legacy:
+      remote-server:
+
+        # Use the legacy remote server (for react remote)
+        enable-react-remote-server: false
+
+        # The port to bind to when the remote server is enabled. This cannot be your
+        # server port or an already used port.
+        remote-port: 8147
+    worlds:
+
+      # Generate configurations for each world (disable this if you have over 100
+      # worlds)
+      world-configs: true
+  mythic-mobs:
+
+    # If mythic mobs is enabled, use mob stacking on them
+    allow-stacking: false
+
+    # If mythic mobs is enabled, allow purging of them with /re a pe
+    allow-purging: true
+    allow-culling: true
+  entity-stacker:
+    options:
+
+      # Format for nametags
+      # %size% = Number of entities in stack
+      # %type% = Entity type
+      # i.e. Pig
+      # %hp% = Health
+      # Color codes and formatting supported.
+      nametag-format: '&e%size%x &a%type% &c%hp%'
+
+      # Increase sheep wool drops depending on stack size
+      sheep-wool-drops: true
+
+      # Show a nametag of the stacked entity
+      show-nametag: false
+
+      # Show particles on stacked entities. More particles = bigger stack. This is if
+      # you don't want to directly show players the stack size.
+      show-particles: true
+
+    # Try to stack entities in different locations on an interval.
+    stack-on-interval: true
+
+    # Speed up interval stacking by queueing each entity to stack as often as
+    # possible in a 1 second time window.
+    fast-intervals: false
+
+    # The radius (in blocks) to search for entities to stack together.
+    search-radius: 6
+    enabled: false
+
+    # Scale all damage causes except for player x entity damage with the stack
+    # size. This means a stacked pig would have the same effective health by
+    # scaling damage to that pig. Excludes player damage.
+    non-player-damage-normalization: true
+
+    # The maximum size an entity stack can have
+    max-stack-size: 16
+
+    # The minimum number of entities required in a search radius to actually create
+    # a stack. Setting this lower will create frequent small-stacks, higher will
+    # make larger stacks less often.
+    minimum-group-size: 6
+    stack-reasons:
+    - natural
+    - jockey
+    - chunk_gen
+    - spawner
+    - egg
+    - spawner_egg
+    - lightning
+    - build_snowman
+    - build_irongolem
+    - build_wither
+    - village_defense
+    - village_invasion
+    - breeding
+    - slime_split
+    - reinforcements
+    - nether_portal
+    - dispense_egg
+    - infection
+    - cured
+    - ocelot_baby
+    - silverfish_block
+    - mount
+    - trap
+    - ender_pearl
+    - shoulder_entity
+    - custom
+    - default
+
+    # The maximum health a stacked entity can have. (make sure this is below
+    # spigots limits if you changed them)
+    max-health: 1600
+
+    # Try to stack entities around a newly spawned entity.
+    stack-on-spawn: false
+
+    # Cache stack data through reboots, unloads and reloads.
+    persist-stacks: true
+  culling:
+    mark-for-death:
+
+      # Use particles to indicate an entity has been marked for death, and when they
+      # are removed (village angry & explosion)
+      particles: true
+      name-tags:
+        enabled: false
+
+        # Use nametags for a countdown
+        format: '&6⚠ &7%time%'
+
+      # The time between an entity being marked for death and actually being
+      # killed.
+      # In ticks. Setting this to 100 would mark an entity for death, then
+      # actually kill it 5 seconds later.
+      death-time: 200
+  tick-smearing:
+    tiles:
+
+      # Allow the tile tick throttle to be X higher than the current time to prevent
+      # odd skipping of entities, and to allow room for error.
+      seperation-bias: 0.07
+
+      # How many ticks should the tick time be averaged across to compute biases
+      smear-factor: 50.0
+
+      # The maximum tile tick time before throttling
+      max-time: 35.0
+
+      # Enable entity tick throttling
+      enable: true
+    entities:
+
+      # How many ticks should the tick time be averaged across to compute biases
+      smear-factor: 50.0
+
+      # Enable entity tick throttling
+      enable: true
+
+      # The maximum tile tick time before throttling
+      max-time: 25.0
+
+      # Allow the tile tick throttle to be X higher than the current time to prevent
+      # odd skipping of entities, and to allow room for error.
+      seperation-bias: 0.65
+  glass:
+
+    # The maximum amount of events to capture per tick before ignoring the rest to
+    # prevent lag from glass.
+    max-queue: 256
+
+    # Display particles instead of block packets to visualize physics (better
+    # framerates than block packets)
+    display-particles: true
+
+    # Display glass-block packets to visualize physics
+    display-blocks: false
+  entity-culler:
+    enabled: true
+
+    # Should react autocull near players (in their view distances) constantly to
+    # enforce entity limits in the culling rules? Please keep in mind that there
+    # may be a performance comprimise here.React AI only culls what is causing lag.
+    # This abolishes that idea.
+    auto-cull: false
+  console:
+
+    # Uses the listen-channels to print to the console.
+    # Channels:
+    # -rai
+    # -spikes
+    # -verbose
+    # -action
+    # -gc 
+    listen-channels-enabled: false
+    listen-channels:
+    - rai
+    - verbose
+    - spikes
+    - action
+    - gc
+entity-types:
+  culling-rules:
+  - '@Refuse Tamed'
+  - '@Defer Named'
+  - '@Defer Leashed'
+  - '@Defer Stacked'
+  - '@Defer Ridden'
+  - '@Defer Mythic'
+  - '@Defer Young'
+  - '@Defer Non-Living'
+  - '@Defer Grounded'
+  - '@Defer Passive'
+  - '@Defer Lit'
+  - '@Prefer Living'
+  - '@Prefer Hostile'
+  - '@Prefer Mature'
+  - '@Prefer Underwater'
+  - '@Prefer Airborne'
+  - '@Prefer Projectiles'
+  - '@Prefer Caves'
+  - '@Restrict Pig,Cow,Sheep,Chicken = 14'
+  - '@Restrict Zombie,Spider,Skeleton,Creeper = 14'
+  - '@Restrict Wolf,Ocelot,Horse = 9'
+  - '@Restrict Dropped Item = 30'
+  - '@Restrict Experience Orb = 28'
+  - '@Restrict Area Effect Cloud = 28'
+  - '@Restrict Elder Guardian = 28'
+  - '@Restrict Wither Skeleton = 28'
+  - '@Restrict Stray = 28'
+  - '@Restrict Egg = 28'
+  - '@Restrict Leash Hitch = 28'
+  - '@Restrict Painting = 28'
+  - '@Restrict Arrow = 28'
+  - '@Restrict Snowball = 28'
+  - '@Restrict Fireball = 28'
+  - '@Restrict Small Fireball = 28'
+  - '@Restrict Ender Pearl = 28'
+  - '@Restrict Ender Signal = 28'
+  - '@Restrict Splash Potion = 28'
+  - '@Restrict Thrown Exp Bottle = 28'
+  - '@Restrict Item Frame = 28'
+  - '@Restrict Wither Skull = 28'
+  - '@Restrict Primed Tnt = 28'
+  - '@Restrict Falling Block = 28'
+  - '@Restrict Firework = 28'
+  - '@Restrict Husk = 28'
+  - '@Restrict Spectral Arrow = 28'
+  - '@Restrict Shulker Bullet = 28'
+  - '@Restrict Dragon Fireball = 28'
+  - '@Restrict Zombie Villager = 28'
+  - '@Restrict Skeleton Horse = 28'
+  - '@Restrict Zombie Horse = 28'
+  - '@Restrict Armor Stand = 28'
+  - '@Restrict Donkey = 28'
+  - '@Restrict Mule = 28'
+  - '@Restrict Evoker Fangs = 28'
+  - '@Restrict Evoker = 28'
+  - '@Restrict Vex = 28'
+  - '@Restrict Vindicator = 28'
+  - '@Restrict Illusioner = 28'
+  - '@Restrict Minecart Command = 28'
+  - '@Restrict Boat = 28'
+  - '@Restrict Minecart = 28'
+  - '@Restrict Minecart Chest = 28'
+  - '@Restrict Minecart Furnace = 28'
+  - '@Restrict Minecart Tnt = 28'
+  - '@Restrict Minecart Hopper = 28'
+  - '@Restrict Minecart Mob Spawner = 28'
+  - '@Restrict Creeper = 28'
+  - '@Restrict Skeleton = 28'
+  - '@Restrict Spider = 28'
+  - '@Restrict Giant = 28'
+  - '@Restrict Zombie = 28'
+  - '@Restrict Slime = 28'
+  - '@Restrict Ghast = 28'
+  - '@Restrict Pig Zombie = 28'
+  - '@Restrict Enderman = 28'
+  - '@Restrict Cave Spider = 28'
+  - '@Restrict Silverfish = 28'
+  - '@Restrict Blaze = 28'
+  - '@Restrict Magma Cube = 28'
+  - '@Restrict Ender Dragon = 28'
+  - '@Restrict Wither = 28'
+  - '@Restrict Bat = 28'
+  - '@Restrict Witch = 28'
+  - '@Restrict Endermite = 28'
+  - '@Restrict Guardian = 28'
+  - '@Restrict Shulker = 28'
+  - '@Restrict Pig = 28'
+  - '@Restrict Sheep = 28'
+  - '@Restrict Cow = 28'
+  - '@Restrict Chicken = 28'
+  - '@Restrict Squid = 28'
+  - '@Restrict Wolf = 28'
+  - '@Restrict Mushroom Cow = 28'
+  - '@Restrict Snowman = 28'
+  - '@Restrict Ocelot = 28'
+  - '@Restrict Iron Golem = 28'
+  - '@Restrict Horse = 28'
+  - '@Restrict Rabbit = 28'
+  - '@Restrict Polar Bear = 28'
+  - '@Restrict Llama = 28'
+  - '@Restrict Llama Spit = 28'
+  - '@Restrict Parrot = 28'
+  - '@Restrict Villager = 16'
+  - '@Restrict Ender Crystal = 28'
+  - '@Restrict Lingering Potion = 28'
+  - '@Restrict Fishing Hook = 28'
+  - '@Restrict Lightning = 28'
+  - '@Restrict Weather = 28'
+  - '@Restrict Complex Part = 28'
+  - '@Restrict Tipped Arrow = 28'
+  - '@Restrict Unknown = 28'
+  allow-stacking:
+  - ELDER_GUARDIAN
+  - WITHER_SKELETON
+  - STRAY
+  - PAINTING
+  - FALLING_BLOCK
+  - HUSK
+  - ZOMBIE_VILLAGER
+  - SKELETON_HORSE
+  - ZOMBIE_HORSE
+  - DONKEY
+  - MULE
+  - EVOKER
+  - VEX
+  - VINDICATOR
+  - ILLUSIONER
+  - MINECART_COMMAND
+  - MINECART
+  - MINECART_CHEST
+  - MINECART_FURNACE
+  - MINECART_TNT
+  - MINECART_HOPPER
+  - MINECART_MOB_SPAWNER
+  - CREEPER
+  - SKELETON
+  - SPIDER
+  - GIANT
+  - ZOMBIE
+  - SLIME
+  - GHAST
+  - PIG_ZOMBIE
+  - ENDERMAN
+  - CAVE_SPIDER
+  - SILVERFISH
+  - BLAZE
+  - MAGMA_CUBE
+  - ENDER_DRAGON
+  - WITHER
+  - BAT
+  - WITCH
+  - ENDERMITE
+  - GUARDIAN
+  - SHULKER
+  - PIG
+  - SHEEP
+  - COW
+  - CHICKEN
+  - SQUID
+  - WOLF
+  - MUSHROOM_COW
+  - SNOWMAN
+  - OCELOT
+  - IRON_GOLEM
+  - HORSE
+  - RABBIT
+  - POLAR_BEAR
+  - LLAMA
+  - LLAMA_SPIT
+  - PARROT
+  - VILLAGER
+  - FISHING_HOOK
+  allow-culling:
+  - DROPPED_ITEM
+  - EXPERIENCE_ORB
+  - AREA_EFFECT_CLOUD
+  - ELDER_GUARDIAN
+  - WITHER_SKELETON
+  - STRAY
+  - EGG
+  - LEASH_HITCH
+  - PAINTING
+  - ARROW
+  - SNOWBALL
+  - FIREBALL
+  - SMALL_FIREBALL
+  - ENDER_PEARL
+  - ENDER_SIGNAL
+  - SPLASH_POTION
+  - THROWN_EXP_BOTTLE
+  - ITEM_FRAME
+  - WITHER_SKULL
+  - PRIMED_TNT
+  - FALLING_BLOCK
+  - FIREWORK
+  - HUSK
+  - SPECTRAL_ARROW
+  - SHULKER_BULLET
+  - DRAGON_FIREBALL
+  - ZOMBIE_VILLAGER
+  - SKELETON_HORSE
+  - ZOMBIE_HORSE
+  - ARMOR_STAND
+  - DONKEY
+  - MULE
+  - EVOKER_FANGS
+  - EVOKER
+  - VEX
+  - VINDICATOR
+  - ILLUSIONER
+  - MINECART_COMMAND
+  - BOAT
+  - MINECART
+  - MINECART_CHEST
+  - MINECART_FURNACE
+  - MINECART_TNT
+  - MINECART_HOPPER
+  - MINECART_MOB_SPAWNER
+  - CREEPER
+  - SKELETON
+  - SPIDER
+  - GIANT
+  - ZOMBIE
+  - SLIME
+  - GHAST
+  - PIG_ZOMBIE
+  - ENDERMAN
+  - CAVE_SPIDER
+  - SILVERFISH
+  - BLAZE
+  - MAGMA_CUBE
+  - ENDER_DRAGON
+  - WITHER
+  - BAT
+  - WITCH
+  - ENDERMITE
+  - GUARDIAN
+  - SHULKER
+  - PIG
+  - SHEEP
+  - COW
+  - CHICKEN
+  - SQUID
+  - WOLF
+  - MUSHROOM_COW
+  - SNOWMAN
+  - OCELOT
+  - IRON_GOLEM
+  - HORSE
+  - RABBIT
+  - POLAR_BEAR
+  - LLAMA
+  - LLAMA_SPIT
+  - PARROT
+  - VILLAGER
+  - ENDER_CRYSTAL
+  - LINGERING_POTION
+  - FISHING_HOOK
+  - LIGHTNING
+  - WEATHER
+  - COMPLEX_PART
+  - TIPPED_ARROW
+  - UNKNOWN
+  allow-purging:
+  - DROPPED_ITEM
+  - AREA_EFFECT_CLOUD
+  - ELDER_GUARDIAN
+  - WITHER_SKELETON
+  - STRAY
+  - EGG
+  - PAINTING
+  - ARROW
+  - SNOWBALL
+  - FIREBALL
+  - SMALL_FIREBALL
+  - ENDER_PEARL
+  - ENDER_SIGNAL
+  - SPLASH_POTION
+  - THROWN_EXP_BOTTLE
+  - WITHER_SKULL
+  - FALLING_BLOCK
+  - FIREWORK
+  - HUSK
+  - SPECTRAL_ARROW
+  - SHULKER_BULLET
+  - DRAGON_FIREBALL
+  - ZOMBIE_VILLAGER
+  - SKELETON_HORSE
+  - ZOMBIE_HORSE
+  - ARMOR_STAND
+  - DONKEY
+  - MULE
+  - EVOKER_FANGS
+  - EVOKER
+  - VEX
+  - VINDICATOR
+  - ILLUSIONER
+  - MINECART_COMMAND
+  - BOAT
+  - MINECART
+  - MINECART_CHEST
+  - MINECART_FURNACE
+  - MINECART_TNT
+  - MINECART_HOPPER
+  - MINECART_MOB_SPAWNER
+  - CREEPER
+  - SKELETON
+  - SPIDER
+  - GIANT
+  - ZOMBIE
+  - SLIME
+  - GHAST
+  - PIG_ZOMBIE
+  - ENDERMAN
+  - CAVE_SPIDER
+  - SILVERFISH
+  - BLAZE
+  - MAGMA_CUBE
+  - ENDER_DRAGON
+  - WITHER
+  - BAT
+  - WITCH
+  - ENDERMITE
+  - GUARDIAN
+  - SHULKER
+  - PIG
+  - SHEEP
+  - COW
+  - CHICKEN
+  - SQUID
+  - WOLF
+  - MUSHROOM_COW
+  - SNOWMAN
+  - OCELOT
+  - IRON_GOLEM
+  - HORSE
+  - RABBIT
+  - POLAR_BEAR
+  - LLAMA
+  - LLAMA_SPIT
+  - PARROT
+  - VILLAGER
+  - ENDER_CRYSTAL
+  - FISHING_HOOK
+  - TIPPED_ARROW
+tweaks:
+  fast-leaf-decay:
+
+    # Use fast block destruction for fast leaf decay. Turn this on if you dont like
+    # snow floating above leaves, though you loose most of the performance benefits
+    # of fast decay.
+    fast-destroy: true
+
+    # The maximum milliseconds react is allowed to use to fast-leaf decay
+    max-ms: 0.8
+    enabled: true
+
+    # Trigger fast leaf decay when leaves decay normally
+    trigger-on-decay: true
+
+    # Saturate the destruction queue as fast as possible, ignoring tick limits.
+    instantaneous: false
+
+    # The period of time (in ticks) which a leaf block that is marked for decay
+    # will actually decay. If 10 blocks are set to be destroyed, they will be
+    # destroyed randomly within 5 ticks (by default)
+    decay-period: 5
+  chunks:
+
+    # Should chunk purging be enabled? Only chunks OUTSIDE of every player's view
+    # distance combined are purged.
+    purge-enabled: true
+
+    # The interval at which chunks are purged. Only chunks OUTSIDE of every
+    # player's view distance combined are purged.
+    purge-interval: 1200
+  explosions:
+
+    # The percent of tnt to be removed when tnt is over the max ms limit
+    throttled-ratio: 0.65
+
+    # Throttle explosions to a maximum tick time per tick
+    max-explosions-milliseconds: 5.0
+
+    # Skip block physics for explosion block damage. Breaks cannons obviously.
+    fast-block-destruction: false
+
+    # Throttle explosions by removing a percentage of tnt entities after it has
+    # exceeded the max ms set. This obviously breaks cannons.
+    throttle-explosions: true
+  xp:
+
+    # Fast pickup xp (all at once not sequentially)
+    fast-xp-pickup: false
+
+    # Skip spawning xp orbs if the player who caused the xp to drop is known (just
+    # give them the xp). Reduces entities.
+    fast-drop-xp: false
+
+  # If factions is installed, this option will configure react to be more
+  # compatible with a factions server (cannon stuff etc)
+  factions-compat: true
+  drops:
+
+    # Drops spawned from entities or blocks will not have a pickup cooldown. This
+    # reduces left behind drops while mining.
+    fast-drop-items: false
+
+    # Instant teleport drops to the nearest player (only from entities and block
+    # drops)
+    teleport-to-source: false
+
+    # Despawn arrows that cannot be picked up by players anyways. Think skeleton
+    # arrow landed entities.
+    despawn-useless-arrows: true
+  hoppers:
+
+    # Full hoppers for some reason spamtick and cause a ton of lag. React helps by
+    # preventing this from happening.
+    reduce-overtick-hoppers: true
+  redstone:
+
+    # Dynamically change the redstone tick speed depending on redstone tick time
+    # (may cause issues with large contraptions)
+    dynamic-clocking: false
+  fast-growth:
+    enabled: true
+rai:
+  tps:
+
+    # DThe server is considered lagging if the tick time exeeds this value
+    high-tick: 50.0

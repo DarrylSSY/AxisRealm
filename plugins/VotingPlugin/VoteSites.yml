@@ -1,0 +1,34 @@
+# 
+# Reward for any site
+# Similar to AnySiteReward
+# This requires the site to be configured in order to get the reward.
+VoteSites:
+  ExampleVoteSite:
+    Enabled: false
+    Name: ExampleVoteSite
+    Priority: 5
+    ServiceSite: PlanetMinecraft.com
+    VoteURL: link to vote URL here, used in /vote
+    VoteDelay: 24
+    VoteDelayDaily: false
+    ForceOffline: false
+    Item:
+      Material: DIAMOND
+      Amount: 1
+    Rewards:
+      Commands:
+      - say hello
+      Messages:
+        Player: You voted
+  Minecraft-MP_com:
+    Enabled: true
+    ServiceSite: Minecraft-MP.com
+    VoteURL: https://minecraft-mp.com/server/198756/vote/
+    VoteDelay: 24
+    Item:
+      Material: GRASS
+      Amount: 1
+    Rewards:
+      Messages:
+        Player: '&aThanks for voting on %ServiceSite%!'
+EverySiteReward: []

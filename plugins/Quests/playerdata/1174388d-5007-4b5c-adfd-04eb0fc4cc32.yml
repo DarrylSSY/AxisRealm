@@ -1,0 +1,45 @@
+quest-progress:
+  miningquest5:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false
+  miningquest4:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false
+        progress: 2
+  miningquest3:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false
+        progress: 98
+  miningquest2:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false
+        progress: 98
+  miningquest1:
+    started: true
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false
+        progress: 98

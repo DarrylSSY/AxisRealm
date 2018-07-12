@@ -1,0 +1,171 @@
+DIAMOND_PICKAXE:
+  Name: Â§4Gigadrill
+  Amount: 1
+  Lore:
+  - The drill that Â§npierces
+  - the heavens
+  Data: 0
+  Enchantments:
+  - DIG_SPEED:1
+  - DURABILITY:1
+  - LOOT_BONUS_BLOCKS:1
+DIAMOND_SPADE:
+  Name: Dwarf
+  Amount: 1
+  Lore:
+  - Diggy
+  - Diggy
+  - Hole
+  Data: 0
+  Enchantments:
+  - DIG_SPEED:3
+DIAMOND_AXE:
+  Amount: 1
+  Data: 12
+  Enchantments: []
+LEATHER_HELMET:
+  Name: Top Hat
+  Amount: 1
+  Lore:
+  - Good day, Good day
+  Data: 0
+  Colour:
+    ==: Color
+    RED: 255
+    BLUE: 255
+    GREEN: 255
+  Enchantments: []
+BREAD:
+  Name: Mhmmm Bread!
+  Amount: 64
+  Data: 0
+  Enchantments: []
+FIREWORK:
+  Name: Angry Creeper
+  Amount: 1
+  Data: 0
+  FireworkEffect:
+  - ==: Firework
+    flicker: false
+    trail: false
+    colors:
+    - ==: Color
+      RED: 179
+      BLUE: 44
+      GREEN: 49
+    fade-colors:
+    - ==: Color
+      RED: 59
+      BLUE: 26
+      GREEN: 81
+    type: CREEPER
+  Enchantments: []
+FIREWORK:1:
+  Name: Starry Night
+  Amount: 1
+  Data: 0
+  FireworkEffect:
+  - ==: Firework
+    flicker: true
+    trail: true
+    colors:
+    - ==: Color
+      RED: 222
+      BLUE: 42
+      GREEN: 207
+    - ==: Color
+      RED: 235
+      BLUE: 68
+      GREEN: 136
+    fade-colors:
+    - ==: Color
+      RED: 37
+      BLUE: 146
+      GREEN: 49
+    type: STAR
+  Enchantments: []
+FIREWORK:2:
+  Name: Solar Wind
+  Amount: 2
+  Data: 0
+  FireworkEffect:
+  - ==: Firework
+    flicker: true
+    trail: false
+    colors:
+    - ==: Color
+      RED: 222
+      BLUE: 42
+      GREEN: 207
+    - ==: Color
+      RED: 235
+      BLUE: 68
+      GREEN: 136
+    fade-colors:
+    - ==: Color
+      RED: 179
+      BLUE: 44
+      GREEN: 49
+    type: BALL_LARGE
+  - ==: Firework
+    flicker: false
+    trail: true
+    colors:
+    - ==: Color
+      RED: 222
+      BLUE: 42
+      GREEN: 207
+    - ==: Color
+      RED: 235
+      BLUE: 68
+      GREEN: 136
+    fade-colors:
+    - ==: Color
+      RED: 179
+      BLUE: 44
+      GREEN: 49
+    type: BALL
+  - ==: Firework
+    flicker: false
+    trail: true
+    colors:
+    - ==: Color
+      RED: 179
+      BLUE: 44
+      GREEN: 49
+    - ==: Color
+      RED: 123
+      BLUE: 190
+      GREEN: 47
+    fade-colors:
+    - ==: Color
+      RED: 216
+      BLUE: 152
+      GREEN: 129
+    type: STAR
+  Enchantments: []
+SKULL_ITEM:
+  Name: Developers Head
+  Amount: 1
+  Data: 3
+  SkullOwner: ImBaffled
+  Enchantments: []
+WRITTEN_BOOK:
+  Amount: 1
+  Lore:
+  - Ingame color codes
+  Data: 0
+  Author: KHobbits
+  Pages:
+  - |
+    Minecraft colors:Â§0
+    Â§0 &0  Â§1 &1  Â§2 &2  Â§3 &3Â§0
+    Â§4 &4  Â§5 &5  Â§6 &6  Â§7 &7Â§0
+    Â§8 &8  Â§9 &9  Â§a &a  Â§b &bÂ§0
+    Â§c &c  Â§d &d  Â§e &e  Â§f &fÂ§0
+    Â§0 Â§0
+    Â§0&k Â§0Â§kMagicÂ§0   &l Â§0Â§lBoldÂ§0
+    Â§0Â§l&m Â§0Â§lÂ§mStrikeÂ§0  &n Â§0Â§nUlineÂ§0
+    Â§0Â§n&o Â§0Â§oÂ§nItalicÂ§0   &r Â§0ResetÂ§0
+  Name: Â§4Book Â§9o Â§6Colors
+  Enchantments: []

@@ -1,0 +1,14 @@
+allow:
+  tile-throttling: true
+  relighting: true
+  entity-throttling: true
+  fast-leaf-decay: true
+  drop-handling: true
+  xp-handling: true
+  actions: true
+  chunk-purging: true
+  rai: true
+  stacking: true
+entities:
+  assume-no-side-effects:
+  - ARMOR_STAND

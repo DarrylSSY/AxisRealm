@@ -1,0 +1,30 @@
+Ducklet:
+  type: assignment
+  interact scripts:
+    - 1 DuckletMain
+
+DuckletMain:
+  type: interact
+  steps:
+    1:
+      click trigger:
+        script:
+          - if <player.flag[alphareward]> == null {
+            - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Hellu, I am Ducklet. I am the NPC you go to for any server events!"
+            - wait 3
+            - narrate "<green><npc.name> <yellow> -> <gray>You:<green> It seeems that you are one of the first few players to join this server!"
+            - wait 3
+            - narrate "<green><npc.name> <yellow> -> <gray>You:<green> As a reward, I will be giving you a Alpha tag which can be used for display in chat"
+            - wait 3
+            - narrate "<green><npc.name> <yellow> -> <gray>You:<green> You can select the tag you want displayed using /tags"
+            - advancement "Received Alpha Tag" frame:task icon:421 
+            - execute as_server "perms user <player.name> set deluxetags.tag.alpha"
+            - flag player alphareward
+            - execute as_server "denizen save"
+
+          } else {
+            - narrate "<green><npc.name> <yellow> -> <gray>You:<green> Hellu, I am Ducklet. I am the NPC you go to for any server events!"
+            - wait 3
+            - narrate "<green><npc.name> <yellow> -> <gray>You:<green> It seems there are currently no events available for you :("
+          }
+

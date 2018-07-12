@@ -1,0 +1,23 @@
+lastAccountName: Juzzanoob
+timestamps:
+  login: 1530283205150
+  lastteleport: 1530290641688
+  logout: 1530290645202
+ipAddress: 119.56.33.219
+lastlocation:
+  world: spawn
+  x: 195.26196493645935
+  y: 70.0
+  z: 431.36157338515324
+  yaw: 347.49695
+  pitch: 13.411338
+money: '150'
+godmode: false
+afk: false
+logoutlocation:
+  world: spawn
+  x: 226.75504701454062
+  y: 70.0
+  z: 460.5167426794069
+  yaw: -270.4502
+  pitch: -7.3500285
