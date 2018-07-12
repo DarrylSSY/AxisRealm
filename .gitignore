@@ -1,0 +1,12 @@
+*.bak
+*.cache
+*.db
+*.gz
+*.lck
+*.log
+*.sqlite
+
+plugins/Essentials/spawn.yml
+plugins/Essentials/userdata/
+plugins/Essentials/usermap.csv
+plugins/WorldEdit/schematics/
